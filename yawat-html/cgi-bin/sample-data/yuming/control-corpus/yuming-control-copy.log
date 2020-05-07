@@ -1,0 +1,27 @@
+[1543091762302] NEW SESSION
+[1543091766910] right click on word 1.0.1 ('know')
+[1543091872824] right click on word 1.0.20 ('opportunity')
+[1543091873963] label 1[20:19] as literal
+[1543091900662] left click on word 1.0.31 ('ways')
+[1543091900662] edit 1[31:31]
+[1543091901176] left click on word 1.0.30 ('old')
+[1543091901177] del 1.0.30 from 1[30:30]
+[1543091901177] add 1.0.30 to 1[31:31]
+[1543091902030] left click on word 1.1.30 ('anciennes')
+[1543091902030] del 1.1.30 from 1[:30]
+[1543091902031] add 1.1.30 to 1[31,30:31]
+[1543091902606] right click on word 1.1.30 ('anciennes')
+[1543092105412] right click on word 11.0.0 ('now')
+[1543092106385] label 11[0:0] as particularization
+[1543092109647] right click on word 11.0.2 ('together')
+[1543092110562] label 11[2:] as unaligned_reduction
+[1543092126432] right click on word 11.0.6 ('of')
+[1543092127195] label 11[6:5] as lexical_shift
+[1543092130619] right click on word 11.0.9 ('make')
+[1543092131750] label 11[9,10:8] as particularization
+[1543092455061] right click on word 11.0.35 ('indeed')
+[1543092456517] label 11[35:35] as translation_error
+[1543092481953] right click on word 11.0.45 ('as')
+[1543092482663] label 11[45:45,46,47] as literal
+[1543092651319] right click on word 11.1.33 ('l'')
+[1543092652067] del 11.1.33 from 11[:33]

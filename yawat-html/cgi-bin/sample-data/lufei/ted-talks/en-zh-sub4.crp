@@ -1,0 +1,360 @@
+397
+you know , I 've talked about some of these projects before -- about the human genome and what that might mean , and discovering new sets of genes . 
+在 这 之前 我 已经 讨论 过 这些 项目 中 的 一部分 关于 人类 基因组 和 它们 的 意义 。 以及 发现 新 的 基因 组 。
+398
+we 're actually starting at a new point : we 've been digitizing biology , and now we 're trying to go from that digital code into a new phase of biology with designing and synthesizing life . 
+这次 我们 要 从 一个 新 的 角度 来 看 ： 我们 在 从事 数字化 生物学 的 工作 。 并且 现在 我们 正 尝试 从 那些 数字 代码 走 向 一个 生物学 的 全 新 阶段 , 设计 与 人工 合成 生命 。
+399
+so , we 've always been trying to ask big questions . 
+我们 经常 试图 提出 一些 较 大 的 问题 。
+400
+`` what is life ? '' is something that I think many biologists have been trying to understand at various levels . 
+“ 生命 是 什么 ” 我 想 是 许多 生物学家 不断 地 尝试 在 不同 层面 去 理解 的 问题 。
+401
+we 've tried various approaches , paring it down to minimal components . 
+我们 尝试 了 许多 方法 ， 把 它 分解 到 最小 的 组成部分 。
+402
+we 've been digitizing it now for almost 20 years ; when we sequenced the human genome , it was going from the analog world of biology into the digital world of the computer . 
+到 目前 我们 几乎 已经 用 了 20 年 来 将 其 数字化 。 当 我们 在 排序 人类 基因组 的 时候 ， 它 从 生物学 的 模拟 分析 世界 走进 了 计算机 的 数字 世界 。
+403
+now we 're trying to ask , `` can we regenerate life or can we create new life out of this digital universe ? '' 
+现在 我们 在 尝试 提问 ， 我们 是否 能够 再造 生命 ， 或者 我们 是否 从 这个 数字 世界 中 能 创造 新 的 生命 ?
+404
+this is the map of a small organism , Mycoplasma genitalium , that has the smallest genome for a species that can self-replicate in the laboratory , and we 've been trying to just see if we can come up with an even smaller genome . 
+这 是 一 种 微生物 的 基因 序列 图 , 生殖 支原体 , 它 有着 对于 一个 物种 来说 最小 的 基因组 能 使 其 在 实验室 中 自我 复制 。 并且 我们 在 尝试 了解 是否 我们 能 找到 一 种 更 小 的 基因组 。
+405
+we 're able to knock out on the order of 100 genes out of the 500 or so that are here . 
+我们 能够 从 500 组 基因 中 分离 出 一百 组 就 是 我们 眼前 的 这些 。
+406
+when we look at its metabolic map , it 's relatively simple compared to ours -- trust me , this is simple -- but when we look at all the genes that we can knock out one at a time , it 's very unlikely that this would yield a living cell . 
+但 当 我们 来 看 它 的 新陈代谢 的 时候 ， 这 其实 是 相对 简单 的 相对 我们 的 来说 。 相信 我 ， 这 算 简单 的 。 但 当 我们 在 看 所有 这些 我们 能 一个 一个 分离 出 的 基因组 的 时候 ， 很 难 相信 它们 能 产生 出 一个 活生生 的 细胞 。
+407
+so we decided the only way forward was to actually synthesize this chromosome so we could vary the components to ask some of these most fundamental questions . 
+所以 ， 我们 认为 唯一 能 继续 研究 的 方法 就 是 人工 合成 这些 染色体 以便 我们 能 改变 它 的 组成部分 来 继续 提问 这些 最 基本 的 问题 。
+408
+and so we started down the road of : can we synthesize a chromosome ? 
+于是 我们 开始 沿着 这 条 路 走 下去 “ 我们 能 人工 合成 染色体 吗 ？ ”
+409
+can chemistry permit making these really large molecules where we 've never been before ? 
+化学 原则 真的 允许 我们 制造 这些 我们 从未 实现 过 的 超大 分子 吗 ？
+410
+and if we do , can we boot up a chromosome ? 
+而且 ， 就算 我们 可以 ， 我们 能 激活 它 吗 ？
+411
+a chromosome , by the way , is just a piece of inert chemical material . 
+一 对 染色体 ， 顺便 说 下 ， 只 是 一些 无 活性 的 化学 物质 。
+412
+so , our pace of digitizing life has been increasing at an exponential pace . 
+我们 数字化 生命 的 速度 不断 地 以 指数 速度 加快 。
+413
+our ability to write the genetic code has been moving pretty slowly but has been increasing , and our latest point would put it on , now , an exponential curve . 
+我们 写 基因 编码 的 能力 进步 地 却 非常 慢 ， 不过 也 还是 在 增加 的 。 我们 最近 的 状况 将 会 把 速度 提升 到 指数 曲线 。
+414
+we started this over 15 years ago . 
+我们 于 15 年 前 开始 这 项 工作 。
+415
+it took several stages , in fact , starting with a bioethical review before we did the first experiments . 
+实际上 它 经过 了 好几个 阶段 。 在 我们 做 最初 的 试验 前 ， 先 进行 了 一 次 生物 伦理学 的 评估 。
+416
+but it turns out synthesizing DNA is very difficult . 
+但 结果 是 人工 合成 DNA 是 非常 困难 的 。
+417
+there are tens of thousands of machines around the world that make small pieces of DNA -- 30 to 50 letters in length -- and it 's a degenerate process , so the longer you make the piece , the more errors there are . 
+全世界 有 十几万 台 设备 在 制造 小 片断 的 DNA ， 长度 在 30 到 50 个 字符 ， 并且 这 是 一个 会 倒退 的 过程 ， 制造 的 片断 越是 长 ， 产生 的 错误 就 越是 多 。
+418
+so we had to create a new method for putting these little pieces together and correct all the errors . 
+所以 我们 不得不 创造 一 种 新 的 方法 把 这些 小 的 片断 排放 在 一起 并 纠正 所有 的 错误 。
+419
+and this was our first attempt , starting with the digital information of the genome of phi X174 . 
+这 是 我们 的 第一次 尝试 ， 从 Phi X 174 基因组 （ 噬菌体 ） 的 数字 信息 开始 。
+420
+it 's a small virus that kills bacteria . 
+是 一 种 能 杀死 细菌 的 小型 病毒 。
+421
+we designed the pieces , went through our error correction and had a DNA molecule of about 5,000 letters . 
+我们 设计 了 它 的 基因 片断 ， 经过 了 错误 纠正 ， 就 拥有 了 一 条 5000 字符 长度 的 DNA 。
+422
+the exciting phase came when we took this piece of inert chemical and put it in the bacteria , and the bacteria started to read this genetic code , made the viral particles . 
+最 令 人 兴奋 的 阶段 是 当 我们 把 这 段 没有 活性 的 化学 物质 放进 细菌 内 ， 细菌 开始 读取 基因 编码 ， 制造 了 病毒 粒子 。
+423
+the viral particles then were released from the cells and came back and killed the E. coli . 
+接着 细胞 释放 出 病毒 粒子 ， 再 返 回来 杀死 了 E.coli （ 革兰氏 阴性 菌 ） 。
+424
+I was talking to the oil industry recently and I said they clearly understood that model . 
+我 最近 与 石油 行业 有 一些 交流 ， 我 觉得 他们 对 这个 模式 理解 的 非常 透彻 。
+425
+they laughed more than you guys are . 
+他 比 你们 笑 的 大声 多 了 。
+426
+and so , we think this is a situation where the software can actually build its own hardware in a biological system . 
+因此 我们 认为 这 种 情况 实际上 是 软件 能 在 一个 生物 系统 内 打造 自己 的 硬件 。
+427
+but we wanted to go much larger : we wanted to build the entire bacterial chromosome -- it 's over 580,000 letters of genetic code -- so we thought we 'd build them in cassettes the size of the viruses so we could actually vary the cassettes to understand what the actual components of a living cell are . 
+但 我们 还 想 再 扩大 规模 。 我们 希望 制造 整 条 细菌 染色体 ， 一 条 超过 580 ，000 字符 长度 的 基因 编码 。 我们 认为 应该 在 以 病毒 大小 的 “ 盒 ” 中 制造 它们 这样 我们 可以 改变 这些 “ 盒 ” 来 理解 一个 活 的 细胞 的 实际 组成部分 是 什么 ？
+428
+design is critical , and if you 're starting with digital information in the computer , that digital information has to be really accurate . 
+设计 是 非常 重要 的 ， 并且 如果 你 在 计算机 上 开始 使用 数字 信息 。 那 这些 数字 信息 必须 十分 准确 。
+429
+when we first sequenced this genome in 1995 , the standard of accuracy was one error per 10,000 base pairs . 
+当 我们 在 1995 年 第一次 对 这 组 基因 排序 时 ， 准确率 的 标准 是 每 10000 个 基本 对 一个 错误 。
+430
+we actually found , on resequencing it , 30 errors ; had we used that original sequence , it never would have been able to be booted up . 
+实际上 我们 发现 ， 在 重新 排序 时 ， 平均 是 30 个 错误 。 如果 我们 使用 原先 的 序列 ， 这 组 基因 永远 不 可能 被 启动 。
+431
+part of the design is designing pieces that are 50 letters long that have to overlap with all the other 50-letter pieces to build smaller subunits we have to design so they can go together . 
+设计 工作 的 一部分 是 设计 50 个 字符 长度 的 片断 并 和 其他 的 50 字符 长 的 片段 叠加 以 构建 更 小 的 次 单元 。 我们 要 设计 过 他们 才 能 聚 到 一起 。
+432
+we design unique elements into this . 
+其中 有 我们 设计 过 的 独特 部分 。
+433
+you may have read that we put watermarks in . 
+你们 可能 听说 过 我们 在 其中 加入 了 水印
+434
+think of this : we have a four-letter genetic code -- A , C , G and T . 
+想想 看 基因 编码 有 四 个 字符 ： A , C , G 和 T 。
+435
+triplets of those letters code for roughly 20 amino acids , such that there 's a single letter designation for each of the amino acids . 
+这些 字符 的 三联体 - 以及 这些 字符 编成 了 大约 20 种 氨基酸 这样 每个 氨基酸 就 有 了 一个 字符 标记
+436
+so we can use the genetic code to write out words , sentences , thoughts . 
+所以 我们 能 使用 基因 编码 来 书写 言语 句子 ， 想法 。
+437
+initially , all we did was autograph it . 
+最初 ， 我们 所 做 的 就是 用 它 来 签名 。
+438
+some people were disappointed there was not poetry . 
+有些 人 有点 失望 我们 没用 它 来 做 首 诗 。
+439
+we designed these pieces so we can just chew back with enzymes ; there are enzymes that repair them and put them together . 
+我们 设计 了 这些 片断 并 能 使用 酶 来 裁切 。 有些 酶 是 用来 修复 他们 并 把 他们 放到 一起 的 。
+440
+and we started making pieces , starting with pieces that were 5,000 to 7,000 letters , put those together to make 24,000-letter pieces , then put sets of those going up to 72,000 . 
+接着 我们 开始 制造 片断 ， 从 7000 字符 长度 的 片断 开始 把 他们 拼 在 一起 制造 24 ， 000 字符 长度 的 片断 再 把 几 组 片断 合并 ， 变成 了 72 ， 000 长 的 片断
+441
+at each stage , we grew up these pieces in abundance so we could sequence them because we 're trying to create a process that 's extremely robust that you can see in a minute . 
+在 每个 阶段 ， 我们 大量 培养 了 这些 片断 因此 我们 可以 给 他们 排序 因为 我们 希望 创造 一个 异常 可靠 的 过程 一 分钟 内 你 就 将 看见
+442
+we 're trying to get to the point of automation . 
+我们 试 着 达到 自动化 的 层面
+443
+so , this looks like a basketball playoff . 
+这 看起来 就 像是 一 场 篮球 赛 的 对阵 图
+444
+when we get into these really large pieces over 100,000 base pairs , they wo n't any longer grow readily in E. coli -- it exhausts all the modern tools of molecular biology -- and so we turned to other mechanisms . 
+当 这些 非常 大 的 片断 超过 100 ，000 基本 对 时 他们 就 很 难 继续 在 E.coil 里 长 的 更 长 了 。 在 试 尽 了 各种 现代 分子 生物学 的 工具 后 我们 转向 其他 的 途径 。
+445
+we knew there 's a mechanism called homologous recombination that biology uses to repair DNA that can put pieces together . 
+我们 知道 有 个 方法 叫 同源 重组 ， 生物学 上 用来 修复 DNA ， 它 能 把 片断 组合 到 一起
+446
+here 's an example of it : there 's an organism called Deinococcus radiodurans that can take three millions rads of radiation . 
+这里 有 一个 例子 有 一 种 微生物 叫 耐 辐射 球菌 能够 承受 三百万 度 的 辐射 量 。
+447
+you can see in the top panel , its chromosome just gets blown apart . 
+你 能 看到 在 顶部 的 视图 里 ， 它 的 染色体 四散 在 各个 地方
+448
+twelve to 24 hours later , it put it back together exactly as it was before . 
+12 到 24 小时 以后 ， 它 将 自己 又 组合 回 之前 的 原状 。
+449
+we have thousands of organisms that can do this . 
+我们 有 数 千 种 微生物 有 这 种 能耐
+450
+these organisms can be totally desiccated ; they can live in a vacuum . 
+这些 微生物 能够 完全 脱离 水 。 他们 能 存活 在 真空 中
+451
+I am absolutely certain that life can exist in outer space , move around , find a new aqueous environment . 
+我 完全 确信 外层 空间 存在 着 生命 ， 四处 移动 ， 遇到 一个 新 的 有 水 的 环境
+452
+in fact , NASA has shown a lot of this is out there . 
+实际上 ， NASA 已经 展示 过 很多 这样 的 例子 。
+453
+here 's an actual micrograph of the molecule we built using these processes , actually just using yeast mechanisms with the right design of the pieces we put them in ; yeast puts them together automatically . 
+这里 有 一 组 我们 拍摄 的 这个 分子 的 显微 图像 。 通过 这些 过程 ， 其实 就是 前面 所 提到 的 酵母 的 方法 同时 放入 经过 我们 正确 设计 的 片断 。 酵母 自动 地 将 他们 聚合 。
+454
+this is not an electron micrograph ; this is just a regular photomicrograph . 
+这 并不是 电子 显微 图像 ； 它 仅仅 是 普通 的 光学 显微镜 。
+455
+it 's such a large molecule we can see it with a light microscope . 
+这 是 如此 之 大 的 一个 分子 我们 能 用 一个 光学 显微镜 观察 它 。
+456
+these are pictures over about a six-second period . 
+这些 是 时 长 约 为 六 秒 的 图像 。
+457
+so , this is the publication we had just a short while ago . 
+这 是 我们 所 公开 的 最近 的 试验 成果 。
+458
+this is over 580,000 letters of genetic code ; it 's the largest molecule ever made by humans of a defined structure . 
+这 是 超过 580000 字符 长 的 基因 编码 。 这 也 是 由 人类 设定 结构 并 制造 的 最大 的 分子 。
+459
+it 's over 300 million molecular weight . 
+它 超过 了 3 亿 分子 重量 。
+460
+if we printed it out at a 10 font with no spacing , it takes 142 pages just to print this genetic code . 
+如果 我们 以 10 号 字体 不 间隔 地 将 其 打印 出来 。 总共 需要 142 页 来 打印 这些 基因 编码
+461
+well , how do we boot up a chromosome ? how do we activate this ? 
+那 我们 该 如何 来 启动 一 段 染色体 ， 我们 该 如何 激活 它 ?
+462
+obviously , with a virus it 's pretty simple ; it 's much more complicated dealing with bacteria . 
+显然 处理 一个 病毒 非常 简单 处理 一个 细菌 就 复杂 多 了
+463
+it 's also simpler when you go into eukaryotes like ourselves : you can just pop out the nucleus and pop in another one , and that 's what you 've all heard about with cloning . 
+处理 像 我们 自身 这样 的 真 核 生物 也 相对 简单 你 能 取出 一个 细胞核 然后 塞进 另 一个 细胞 中 ， 这 就是 大家 听到 的 关于 克隆 的 手法
+464
+with bacteria and Archaea , the chromosome is integrated into the cell , but we recently showed that we can do a complete transplant of a chromosome from one cell to another and activate it . 
+对于 古 细菌 ， 它们 的 染色体 与 整个 细胞 连成 一体 ， 但 最近 我们 也 明确 了 我们 能 完成 一个 完整 的 移植 将 染色体 从 一个 细胞 转移 到 另 一个 细胞 中 并 激活 它 。
+465
+we purified a chromosome from one microbial species -- roughly , these two are as distant as human and mice -- we added a few extra genes so we could select for this chromosome , we digested it with enzymes to kill all the proteins , and it was pretty stunning when we put this in the cell -- and you 'll appreciate our very sophisticated graphics here . 
+我们 从 一 个 种群 的 微生物 中 提取 出 染色体 。 基本上 ， 这 两 个 的 差别 就 如同 人类 和 老鼠 般 。 我们 加上 了 一些 新 的 基因 这样 我们 就 能 选择 这些 染色体 。 我们 用 酶 来 分解 它们 去除 所有 的 蛋白质 当 我们 将 它 放入 细胞 时 发生 的 情形 非常 惊人 你们 应该 会 喜欢 我们 所 制作 的 非常 精密 的 演示 图像 - -
+466
+the new chromosome went into the cell . 
+新 的 染色体 进入 细胞 。
+467
+in fact , we thought this might be as far as it went , but we tried to design the process a little bit further . 
+实际上 我们 原 以为 这个 过程 就 到此为止 了 。 但是 我们 试图 将 这个 过程 设计 得 更 深入 一些 。
+468
+this is a major mechanism of evolution right here . 
+这 是 一个 重大 的 进化 机制 。
+469
+we find all kinds of species that have taken up a second chromosome or a third one from somewhere , adding thousands of new traits in a second to that species . 
+我们 发现 所有 接受 了 第二 段 染色体 的 物种 或 来自 其他 地方 的 第三 方 染色体 ， 在 一 秒 钟 内 增加 了 数 千 种 新 特征 到 其 自身 。
+470
+so , people who think of evolution as just one gene changing at a time have missed much of biology . 
+原本 人们 所 持有 的 在 进化 的 过程 中 每次 只 会 有 一个 基因 发生 变化 的 观念 忽略 了 生物 的 许多 实际 情况 。
+471
+there are enzymes called restriction enzymes that actually digest DNA . 
+有 一 种 酶 叫做 限制酶 是 能够 消化 DNA 的
+472
+the chromosome that was in the cell does n't have one ; the chromosome we put in does . 
+原先 细胞 中 的 染色体 没有 这 种 酶 而 当 我们 置入 一 段 拥有 这 种 酶 的 染色体
+473
+it got expressed and it recognized the other chromosome as foreign material , chewed it up , and so we ended up just with a cell with the new chromosome . 
+它 表现 了 出来 ， 并且 辨认 出 另 一 段 染色体 是 外来 物质 ， 它 就 将 其 消化 ， 最后 我们 就 有 了 一个 包含 有 新 的 DNA 的 细胞
+474
+it turned blue because of the genes we put in it . 
+我们 放入 的 基因 导致 它 变成 了 蓝色 。
+475
+and with a very short period of time , all the characteristics of one species were lost and it converted totally into the new species based on the new software that we put in the cell . 
+在 非常 短 的 一 段 时间 里 ， 所有 的 原先 物种 的 特征 全部 消失 了 ， 并且 完全 转化 成 了 一个 新 物种 ， 基于 我们 放入 细胞 的 新 “ 软件 ” 。
+476
+all the proteins changed , the membranes changed ; when we read the genetic code , it 's exactly what we had transferred in . 
+所有 的 蛋白质 都 改变 了 ， 细胞膜 也 改变 了 - - 当 我们 读取 它 的 基因 编码 ， 实际上 就是 我们 植入 的 那 种 。
+477
+so , this may sound like genomic alchemy , but we can , by moving the software of DNA around , change things quite dramatically . 
+这 可能 听起来 像 基因 炼金术 ， 但 我们 的确 能 通过 转移 DNA ， 来 急剧 地 改变 事物 。
+478
+now I 've argued , this is not genesis ; this is building on three and a half billion years of evolution . 
+现在 ， 我 要 声明 这 不 是 创世纪 - - 这 是 建立 在 35 亿 年 的 进化 上 的
+479
+and I 've argued that we 're about to perhaps create a new version of the Cambrian explosion , where there 's massive new speciation based on this digital design . 
+并且 我 认为 我们 可能 会 创造 新一版 的 寒武纪 生命 大 爆发 出现 大量 基于 这 种 数字化 设计 的 新 物种
+480
+why do this ? 
+为什么 要 这样 做 ？
+481
+I think this is pretty obvious in terms of some of the needs . 
+我 认为 出于 一些 需求 我们 这样 做 的 原因 是 非常 明显 的 。
+482
+we 're about to go from six and a half to nine billion people over the next 40 years . 
+我们 的 人口 将 在 接下来 的 40 年 中 从 65 亿 变成 90 亿
+483
+to put it in context for myself : I was born in 1946 . 
+以 我 自己 的 例子 来说 我 出生 于 1946 年
+484
+there are now three people on the planet for every one of us that existed in 1946 ; within 40 years , there 'll be four . 
+现在 世界 上 就 变成 了 三 个 人 相对于 我们 中 每 一个 从 1946 年 就 存在 的 人 ； 在 接下来 的 四十 年 内 ， 就 变成 了 四 个 。
+485
+we have trouble feeding , providing fresh , clean water , medicines , fuel for the six and a half billion . 
+我们 在 为 65 亿 人 提供 食物 ， 洁净 的 淡水 ， 医药 ， 燃料 上 都 十分 困难 。
+486
+it 's going to be a stretch to do it for nine . 
+换 作 90 亿 人 那 真 是 捉襟见肘 了 。
+487
+we use over five billion tons of coal , 30 billion-plus barrels of oil -- that 's a hundred million barrels a day . 
+我们 使用 超过 50 亿 吨 的 煤 ， 300 多 亿 桶 的 石油 。 也就是 每天 一千万 桶 。
+488
+when we try to think of biological processes or any process to replace that , it 's going to be a huge challenge . 
+当 我们 尝试 思考 这个 生物 程序 或者 任何 能 替代 它 的 程序 ， 这 会 是 一个 巨大 的 挑战 。
+489
+then of course , there 's all that CO2 from this material that ends up in the atmosphere . 
+接下来 ， 当然 ， 是 这 份 材料 中 所 显示 的 被 排放 在 大气层 中 的 二氧化碳 。
+490
+we now , from our discovery around the world , have a database with about 20 million genes , and I like to think of these as the design components of the future . 
+我们 现在 从 全球 各地 的 发现 有 了 一个 包含 约 两千万 组 基因 的 数据库 ， 并且 我 乐于 把 它们 看作 是 未来 的 设计 组件 。
+491
+the electronics industry only had a dozen or so components , and look at the diversity that came out of that . 
+电气 行业 只有 十 来 种 组件 ， 再 看看 从中 能 得到 的 多样性 。
+492
+we 're limited here primarily by a biological reality and our imagination . 
+目前 我们 主要 的 限制 来自 于 生物学 的 现实 情况 以及 我们 的 想像力 。
+493
+we now have techniques , because of these rapid methods of synthesis , to do what we 're calling combinatorial genomics . 
+我们 现在 拥有 这样 的 技术 ， 是 因为 这些 能 制造 我们 称之为 “ 混合 染色体 组 ” 的 快速 的 人工 合成 方法 。
+494
+we have the ability now to build a large robot that can make a million chromosomes a day . 
+我们 现在 所 拥有 的 制造 一个 大型 机器人 的 能力 能 让 我们 每天 制造 一百万 个 染色体 。
+495
+when you think of processing these 20 million different genes or trying to optimize processes to produce octane or to produce pharmaceuticals , new vaccines , we can just with a small team , do more molecular biology than the last 20 years of all science . 
+当 你 想 着 加工 这 两千万 组 不同 的 基因 ， 并 尝试 去 优化 这个 步骤 以 产生 辛烷 或者 制造 药物 制剂 ， 以及 新 的 疫苗 ， 我们 就 能 改变 ， 即使是 一个 小 团队 ， 也 能 做 比 过去 20 年 科学史 所 做 过 的 更 多 的 分子 生物学 工作 。
+496
+and it 's just standard selection : we can select for viability , chemical or fuel production , vaccine production , etc. . 
+并且 这 只是 标准 选择 。 我们 可以 以 生存 能力 来 选择 ， 化学 或 燃料 生产 ， 疫苗 生产 等等 。
+497
+this is a screen snapshot of some true design software that we 're working on to actually be able to sit down and design species in the computer . 
+这 是 一 张 屏幕 截 图 截取 的 是 一些 我们 实际 坐 下来 工作 时 在 电脑 中 真正 用来 设计 物种 的 设计 软件 。
+498
+you know , we do n't know necessarily what it 'll look like : we know exactly what their genetic code looks like . 
+我们 并不 一定 要 知道 它 看起来 是 怎样 。 我们 确切 地 知道 它们 的 基因 编码 究竟 是 什么样 的 。
+499
+we 're focusing on now fourth-generation fuels . 
+我们 目前 把 注意力 放 在 “ 第 四 代 燃料 ” 上 。
+500
+you 've seen recently , corn to ethanol is just a bad experiment . 
+你们 最近 看到 了 将 谷物 转化 成 乙醇 只是 一个 糟糕 的 试验 。
+501
+we have second - and third-generation fuels that will be coming out relatively soon that are sugar , to much higher-value fuels like octane or different types of butanol . 
+很快 我们 将 会 拥有 第二 及 第三 代 燃料 。 就是 糖 转化 成 更 高 价值 的 燃料 例如 辛烷 或 不同 种类 的 丁醇 。
+502
+but the only way we think that biology can have a major impact without further increasing the cost of food and limiting its availability is if we start with CO2 as its feedstock , and so we 're working with designing cells to go down this road . 
+但 我们 认为 生物学 唯一 能 产生 一个 巨大 影响 的 同时 又 不 增加 食物 的 支出 与 限制 其 可 利用 性 的 方法 是 在于 我们 是否 能 开始 用 二氧化碳 作为 它 的 原料 。 所以 我们 正在 进行 设计 新 的 细胞 能 朝 这 条 路 发展 下去 。
+503
+and we think we 'll have the first fourth-generation fuels in about 18 months . 
+并且 我们 认为 在 18 个 月 里 我们 会 取得 第一 份 第 四 代 燃料 。
+504
+sunlight and CO2 is one method ... 
+阳光 和 二氧化碳 是 其中 一个 方法 - -
+505
+but in our discovery around the world , we have all kinds of other methods . 
+（ 掌声 ） - - 但 我们 从 全世界 各地 的 发现 中 ， 我们 还有 许多 种 其他 方法 。
+506
+this is an organism we described in 1996 . 
+这 是 一 种 微生物 , 1996 年 被 记载
+507
+it lives in the deep ocean , about a mile and a half deep , almost at boiling-water temperatures . 
+它 生活 在 深海 。 大约 1.5 英里 深 ， 几乎 是 在 沸腾 的 水 温 中 。
+508
+it takes CO2 to methane using molecular hydrogen as its energy source . 
+它 将 二氧化碳 转化 成 甲烷 使用 氢 分子 作为 它 的 能量 来源 。
+509
+we 're looking to see if we can take captured CO2 , which can easily be piped to sites , convert that CO2 back into fuel to drive this process . 
+我们 在 看 是否 能 把 收集 到 的 二氧化碳 , 它们 非常 方便 就 能 被 引进 处理 站 ， 转化 成 燃料 ， 来 驱动 这个 过程 。
+510
+so , in a short period of time , we think that we might be able to increase what the basic question is of `` what is life ? '' 
+因此 在 很 短 的 时间 内 ， 我们 觉得 我们 或许 可以 增加 对于 " 生命 是 什么 ? " 的 基本 问题 的 理解 。
+511
+we truly , you know , have modest goals of replacing the whole petrol-chemical industry -- Yeah . if you ca n't do that at TED , where can you ? -- become a major source of energy ... 
+我们 的确 有着 替换 整个 石油 化工 行业 的 小小 目标 。 （ 掌声 ） 如果 你 不 能 在 TED 做到 这些 , 哪里 还有 可能 呢 ? 成为 一 项 主要 的 能源 。
+512
+but also , we 're now working on using these same tools to come up with instant sets of vaccines . 
+并且 我们 也 在 使用 同样 的 工具 制造 了 几 组 即时 疫苗 。
+513
+you 've seen this year with flu ; we 're always a year behind and a dollar short when it comes to the right vaccine . 
+你们 都 看到 今年 出现 的 流感 ， 我们 总是 要 慢 上 一 年 的 时间 并且 在 缺乏 资金 的 情况 下 才 等到 有用 的 疫苗 。
+514
+I think that can be changed by building combinatorial vaccines in advance . 
+我 认为 这 情形 是 可以 通过 预先 制造 混合 疫苗 来 改变 的 。
+515
+here 's what the future may begin to look like with changing , now , the evolutionary tree , speeding up evolution with synthetic bacteria , Archaea and , eventually , eukaryotes . 
+这 是 未来 可能 会 呈现 的 情况 伴随 着 改变 , 目前 , 进化 树 随着 人造 细菌 ， 古 物种 最后 是 真 核 生物 而 加速 进化
+516
+we 're a ways away from improving people : our goal is just to make sure that we have a chance to survive long enough to maybe do that . thank you very much . 
+我们 正在 一 条 离 改善 人类 生活 越来越 远 的 路上 。 我们 的 目标 就是 确保 我们 能 有 机会 活到 足够 长 的 时间 或许 就 能 做到 这 件 事 了 。 非常 感谢 大家 。

@@ -1,0 +1,814 @@
+[1516899688005] NEW SESSION
+[1516912365131] right click on word 1840.1.27 ('moins')
+[1516912366383] label 1840[27:27,26,28] as literal
+[1516912481694] right click on word 1840.1.42 ('faux')
+[1516912483036] label 1840[44:42,41] as literal
+[1516912550583] right click on word 1840.1.41 ('de')
+[1516912551704] del 1840.1.41 from 1840[44:42,41]
+[1516912618248] left click on word 1840.0.55 ('real')
+[1516912618248] edit 1840[55:53,52]
+[1516912619628] left click on word 1840.1.52 ('de')
+[1516912619628] del 1840.1.52 from 1840[55:53,52]
+[1516912621158] right click on word 1840.1.53 ('vrai')
+[1516912621877] right click on word 1840.1.53 ('vrai')
+[1516912622966] label 1840[55:53] as literal
+[1516912844750] left click on word 1841.0.4 ('sugar')
+[1516912844750] edit 1841[4:8,7]
+[1516912847457] left click on word 1841.1.7 ('de')
+[1516912847458] del 1841.1.7 from 1841[4:8,7]
+[1516912848382] right click on word 1841.1.8 ('sucre')
+[1516912848726] right click on word 1841.1.8 ('sucre')
+[1516912849839] label 1841[4:8] as literal
+[1516912864792] left click on word 1841.0.5 ('pills')
+[1516912864792] edit 1841[5:6,5]
+[1516912865895] left click on word 1841.1.5 ('des')
+[1516912865896] del 1841.1.5 from 1841[5:6,5]
+[1516912866937] right click on word 1841.1.6 ('pilules')
+[1516912919531] right click on word 1841.0.9 ('effect')
+[1516912920421] label 1841[9:11] as literal
+[1516912974019] right click on word 1841.0.28 ('happening')
+[1516912975369] label 1841[27,28,29,30:32,33] as modulation
+[1516913053282] left click on word 1841.0.41 ('pain')
+[1516913053282] edit 1841[41,42:40,43,44,41,42]
+[1516913055732] left click on word 1841.0.42 ('management')
+[1516913055732] del 1841.0.42 from 1841[41,42:40,43,44,41,42]
+[1516913056525] left click on word 1841.1.40 ('la')
+[1516913056525] del 1841.1.40 from 1841[41:40,43,44,41,42]
+[1516913056988] left click on word 1841.1.41 ('gestion')
+[1516913056989] del 1841.1.41 from 1841[41:43,44,41,42]
+[1516913057673] left click on word 1841.1.42 ('de')
+[1516913057673] del 1841.1.42 from 1841[41:43,44,42]
+[1516913058313] left click on word 1841.1.43 ('la')
+[1516913058313] del 1841.1.43 from 1841[41:43,44]
+[1516913059516] right click on word 1841.0.41 ('pain')
+[1516913060043] right click on word 1841.0.41 ('pain')
+[1516913061076] label 1841[41:44] as literal
+[1516913061859] left click on word 1841.0.42 ('management')
+[1516913061859] new alignment group
+[1516913061860] add 1841.0.42 to 1841[:]
+[1516913063123] left click on word 1841.1.41 ('gestion')
+[1516913063123] add 1841.1.41 to 1841[42:]
+[1516913063700] right click on word 1841.1.41 ('gestion')
+[1516913175997] left click on word 1842.0.1 ('fake')
+[1516913175997] edit 1842[1:3,2]
+[1516913176871] left click on word 1842.1.2 ('de')
+[1516913176871] del 1842.1.2 from 1842[1:3,2]
+[1516913177628] right click on word 1842.1.3 ('factice')
+[1516913193375] left click on word 1842.0.4 ('real')
+[1516913193375] edit 1842[4:8,7]
+[1516913194319] left click on word 1842.1.7 ('de')
+[1516913194319] del 1842.1.7 from 1842[4:8,7]
+[1516913195331] right click on word 1842.1.8 ('réel')
+[1516913195859] right click on word 1842.1.8 ('réel')
+[1516913196817] label 1842[4:8] as literal
+[1516913198148] right click on word 1842.1.3 ('factice')
+[1516913198863] label 1842[1:3] as literal
+[1516913219323] right click on word 1842.1.9 ('grâce')
+[1516913220403] label 1842[5,6:9,10] as specification
+[1516913351543] right click on word 1842.0.8 (''s')
+[1516913352376] label 1842[8:13] as literal
+[1516913354507] left click on word 1842.0.9 ('perception')
+[1516913354507] edit 1842[9:12,11]
+[1516913356465] left click on word 1842.1.11 ('la')
+[1516913356465] del 1842.1.11 from 1842[9:12,11]
+[1516913357698] right click on word 1842.1.12 ('perception')
+[1516913442847] right click on word 1843.0.10 ('want')
+[1516913446448] label 1843[10,11,12,13:7] as generalization
+[1516913543722] left click on word 1843.0.16 ('a')
+[1516913543722] edit 1843[16:10,11,12]
+[1516913544724] left click on word 1843.0.16 ('a')
+[1516913544724] del 1843.0.16 from 1843[16:10,11,12]
+[1516913550245] right click on word 1843.1.12 ('de')
+[1516913550708] right click on word 1843.1.12 ('de')
+[1516913551964] label 1843[:10,11,12] as unaligned_explicitation
+[1516913553452] left click on word 1843.0.16 ('a')
+[1516913553452] new alignment group
+[1516913553452] add 1843.0.16 to 1843[:]
+[1516913554517] left click on word 1843.1.15 ('un')
+[1516913554517] del 1843.1.15 from 1843[21,22:15,16,17,18]
+[1516913554517] add 1843.1.15 to 1843[16:]
+[1516913555423] right click on word 1843.1.15 ('un')
+[1516913594571] right click on word 1844.0.3 ('going')
+[1516913595270] label 1844[2,3,4:1] as literal
+[1516913730270] right click on word 1843.0.21 ('magic')
+[1516913732047] label 1843[21,22:16,17,18] as uncertain
+[1516913739585] left click on word 1843.0.22 ('trick')
+[1516913739586] edit 1843[21,22:16,17,18]
+[1516913742229] left click on word 1843.1.16 ('tour')
+[1516913742229] del 1843.1.16 from 1843[21,22:16,17,18]
+[1516913743061] left click on word 1843.0.22 ('trick')
+[1516913743061] del 1843.0.22 from 1843[21,22:17,18]
+[1516913743899] right click on word 1843.0.21 ('magic')
+[1516913744452] left click on word 1843.0.22 ('trick')
+[1516913744452] new alignment group
+[1516913744452] add 1843.0.22 to 1843[:]
+[1516913745372] left click on word 1843.1.16 ('tour')
+[1516913745372] add 1843.1.16 to 1843[22:]
+[1516913746041] right click on word 1843.1.16 ('tour')
+[1516913746579] right click on word 1843.1.16 ('tour')
+[1516913761721] left click on word 1843.1.16 ('tour')
+[1516913761721] edit 1843[22:16]
+[1516913762323] left click on word 1843.1.17 ('de')
+[1516913762323] del 1843.1.17 from 1843[21:17,18]
+[1516913762323] add 1843.1.17 to 1843[22:16]
+[1516913762995] left click on word 1843.1.18 ('magie')
+[1516913762995] del 1843.1.18 from 1843[21:18]
+[1516913762995] add 1843.1.18 to 1843[22:16,17]
+[1516913763655] left click on word 1843.0.21 ('magic')
+[1516913763655] del 1843.0.21 from 1843[21:]
+[1516913763655] add 1843.0.21 to 1843[22:16,17,18]
+[1516913764631] right click on word 1843.0.21 ('magic')
+[1516913765247] right click on word 1843.0.21 ('magic')
+[1516913766667] label 1843[22,21:16,17,18] as literal
+[1516913802595] left click on word 1843.0.21 ('magic')
+[1516913802595] edit 1843[22,21:16,17,18]
+[1516913804557] left click on word 1843.0.22 ('trick')
+[1516913804557] del 1843.0.22 from 1843[22,21:16,17,18]
+[1516913805445] left click on word 1843.1.16 ('tour')
+[1516913805445] del 1843.1.16 from 1843[21:16,17,18]
+[1516913806427] right click on word 1843.1.18 ('magie')
+[1516913806802] right click on word 1843.1.18 ('magie')
+[1516913808370] label 1843[21:17,18] as transposition
+[1516913809229] left click on word 1843.0.22 ('trick')
+[1516913809229] new alignment group
+[1516913809229] add 1843.0.22 to 1843[:]
+[1516913810181] left click on word 1843.1.16 ('tour')
+[1516913810181] add 1843.1.16 to 1843[22:]
+[1516913810745] right click on word 1843.1.16 ('tour')
+[1516913823286] right click on word 1844.0.28 ('1950s')
+[1516913824493] label 1844[28:25,26] as literal
+[1516913842372] left click on word 1844.0.28 ('1950s')
+[1516913842372] edit 1844[28:25,26]
+[1516913843020] left click on word 1844.0.27 ('the')
+[1516913843020] del 1844.0.27 from 1844[27:24]
+[1516913843020] add 1844.0.27 to 1844[28:25,26]
+[1516913843963] left click on word 1844.1.24 ('les')
+[1516913843963] del 1844.1.24 from 1844[:24]
+[1516913843963] add 1844.1.24 to 1844[28,27:25,26]
+[1516913844565] right click on word 1844.1.24 ('les')
+[1516913851256] left click on word 1844.0.28 ('1950s')
+[1516913851256] edit 1844[28,27:25,26,24]
+[1516913852842] left click on word 1844.0.27 ('the')
+[1516913852842] del 1844.0.27 from 1844[28,27:25,26,24]
+[1516913853678] left click on word 1844.1.24 ('les')
+[1516913853678] del 1844.1.24 from 1844[28:25,26,24]
+[1516913854437] right click on word 1844.1.25 ('années')
+[1516913855088] left click on word 1844.1.24 ('les')
+[1516913855088] new alignment group
+[1516913855088] add 1844.1.24 to 1844[:]
+[1516913855880] left click on word 1844.0.27 ('the')
+[1516913855880] add 1844.0.27 to 1844[:24]
+[1516913856438] right click on word 1844.0.27 ('the')
+[1516913923773] right click on word 1845.0.10 ('1970s')
+[1516913925516] label 1845[10:11,12] as literal
+[1516914022865] right click on word 1846.0.4 ('for')
+[1516914024178] label 1846[4,5:2] as uncertain
+[1516914040662] left click on word 1846.0.8 ('then')
+[1516914040662] edit 1846[7,8:5]
+[1516914041174] left click on word 1846.0.7 ('and')
+[1516914041174] del 1846.0.7 from 1846[7,8:5]
+[1516914042181] right click on word 1846.0.8 ('then')
+[1516914125191] left click on word 1850.0.3 ('going')
+[1516914125191] edit 1850[1,3:1]
+[1516914128412] right click on word 1850.0.3 ('going')
+[1516914130679] left click on word 1850.0.3 ('going')
+[1516914130679] edit 1850[1,3:1]
+[1516914131407] left click on word 1850.0.4 ('to')
+[1516914131407] del 1850.0.4 from 1850[4,5:3]
+[1516914131407] add 1850.0.4 to 1850[1,3:1]
+[1516914132530] right click on word 1850.0.3 ('going')
+[1516914133381] right click on word 1850.0.3 ('going')
+[1516914134325] label 1850[1,3,4:1] as literal
+[1516914251948] right click on word 1852.0.12 (''m')
+[1516914253364] label 1852[12,14,15:14] as literal
+[1516914348888] right click on word 1853.0.18 ('squeezing')
+[1516914350980] label 1853[17,18:20] as literal
+[1516914405722] right click on word 1855.0.2 ('going')
+[1516914406851] label 1855[1,2,3:1] as literal
+[1516914529523] right click on word 1856.0.6 ('tightly')
+[1516914530693] label 1856[6:6] as generalization
+[1516914554123] right click on word 1856.0.4 ('held')
+[1516914555658] label 1856[2,3,4:3,4] as modulation
+[1516914578679] right click on word 1856.0.18 ('does')
+[1516914579609] label 1856[18,19:16,18] as literal
+[1516914683034] right click on word 1857.1.12 ('truc')
+[1516914685218] label 1857[9:12] as generalization
+[1516914738720] right click on word 1859.0.10 ('to')
+[1516914739624] label 1859[10:10] as literal
+[1516914763364] left click on word 1859.0.17 ('magic')
+[1516914763364] edit 1859[17:17,18]
+[1516914764204] left click on word 1859.1.17 ('la')
+[1516914764204] del 1859.1.17 from 1859[17:17,18]
+[1516914765077] right click on word 1859.1.18 ('magie')
+[1516914928394] right click on word 1860.0.3 ('you')
+[1516914981505] left click on word 1863.0.4 ('going')
+[1516914981505] edit 1863[3,4:4]
+[1516914982825] left click on word 1863.0.5 ('to')
+[1516914982825] del 1863.0.5 from 1863[5,7,6,8:5]
+[1516914982825] add 1863.0.5 to 1863[3,4:4]
+[1516914984523] right click on word 1863.0.4 ('going')
+[1516915106610] right click on word 1863.0.12 ('make')
+[1516915107453] label 1863[12,13:9,11] as literal
+[1516915116760] right click on word 1863.1.10 ('bien')
+[1516915117576] label 1863[:10] as unaligned_explicitation
+[1516915134294] right click on word 1863.0.16 ('up')
+[1516915136802] label 1863[15,16,17,18:15,14,16,17,18,19] as modulation
+[1516915256656] right click on word 1864.0.5 ('onto')
+[1516915258199] label 1864[3,4,5:5] as modulation
+[1516915298999] right click on word 1864.0.5 ('onto')
+[1516915300175] label 1864[3,4,5:5] as uncertain
+[1516915358658] right click on word 1865.0.6 ('moves')
+[1516915359686] label 1865[6,7:5,6,7] as specification
+[1516915373482] left click on word 1865.0.7 ('from')
+[1516915373482] edit 1865[6,7:5,6,7]
+[1516915374450] left click on word 1865.0.8 ('facing')
+[1516915374450] del 1865.0.8 from 1865[8:]
+[1516915374450] add 1865.0.8 to 1865[6,7:5,6,7]
+[1516915374987] right click on word 1865.0.8 ('facing')
+[1516915381267] left click on word 1865.0.8 ('facing')
+[1516915381268] edit 1865[6,7,8:5,6,7]
+[1516915382004] left click on word 1865.0.8 ('facing')
+[1516915382004] del 1865.0.8 from 1865[6,7,8:5,6,7]
+[1516915382948] right click on word 1865.0.7 ('from')
+[1516915383592] right click on word 1865.0.8 ('facing')
+[1516915384474] add 1865.0.8 to 1865[:]
+[1516915384474] label 1865[8:] as unaligned_simplification
+[1516915633255] left click on word 1870.0.15 ('there')
+[1516915633255] edit 1870[15,16:18,16,17,19]
+[1516915634375] left click on word 1870.1.17 ('n'')
+[1516915634375] del 1870.1.17 from 1870[15,16:18,16,17,19]
+[1516915635553] right click on word 1870.1.19 ('a')
+[1516915637010] right click on word 1870.0.16 ('are')
+[1516915637915] label 1870[15,16:18,16,19] as literal
+[1516915641675] left click on word 1870.0.17 ('only')
+[1516915641675] edit 1870[17:20]
+[1516915642891] left click on word 1870.1.17 ('n'')
+[1516915642891] add 1870.1.17 to 1870[17:20]
+[1516915643630] right click on word 1870.1.17 ('n'')
+[1516915651653] left click on word 1870.0.15 ('there')
+[1516915651653] edit 1870[15,16:18,16,19]
+[1516915652493] left click on word 1870.0.17 ('only')
+[1516915652493] del 1870.0.17 from 1870[17:20,17]
+[1516915652493] add 1870.0.17 to 1870[15,16:18,16,19]
+[1516915653949] left click on word 1870.1.17 ('n'')
+[1516915653949] del 1870.1.17 from 1870[:20,17]
+[1516915653949] add 1870.1.17 to 1870[15,16,17:18,16,19]
+[1516915654663] left click on word 1870.1.20 ('que')
+[1516915654663] del 1870.1.20 from 1870[:20]
+[1516915654663] add 1870.1.20 to 1870[15,16,17:18,16,19,17]
+[1516915655277] right click on word 1870.1.20 ('que')
+[1516915691037] left click on word 1870.0.21 ('here')
+[1516915691037] edit 1870[20,21:23]
+[1516915691589] left click on word 1870.0.21 ('here')
+[1516915691589] del 1870.0.21 from 1870[20,21:23]
+[1516915692021] left click on word 1870.0.21 ('here')
+[1516915692021] add 1870.0.21 to 1870[20:23]
+[1516915692785] left click on word 1870.0.20 ('down')
+[1516915692785] del 1870.0.20 from 1870[20,21:23]
+[1516915693602] right click on word 1870.0.21 ('here')
+[1516915694290] right click on word 1870.0.20 ('down')
+[1516915695059] add 1870.0.20 to 1870[:]
+[1516915695059] label 1870[20:] as unaligned_simplification
+[1516915696953] right click on word 1870.0.21 ('here')
+[1516915697873] del 1870.0.21 from 1870[21:23]
+[1516915699035] left click on word 1870.0.21 ('here')
+[1516915699035] new alignment group
+[1516915699035] add 1870.0.21 to 1870[:]
+[1516915700251] left click on word 1870.1.23 ('ici')
+[1516915700251] del 1870.1.23 from 1870[:23]
+[1516915700251] add 1870.1.23 to 1870[21:]
+[1516915700868] right click on word 1870.1.23 ('ici')
+[1516915735164] left click on word 1870.0.29 ('way')
+[1516915735164] edit 1870[28,29,30:31,32,33,34,35,36]
+[1516915736086] left click on word 1870.1.30 ('dans')
+[1516915736087] del 1870.1.30 from 1870[:30]
+[1516915736087] add 1870.1.30 to 1870[28,29,30:31,32,33,34,35,36]
+[1516915736701] right click on word 1870.1.30 ('dans')
+[1516915756064] right click on word 1870.0.31 ('processes')
+[1516915757143] label 1870[31:37] as literal
+[1516915764411] left click on word 1870.1.39 ('information')
+[1516915764411] edit 1870[32:38,39]
+[1516915765293] left click on word 1870.1.38 ('l'')
+[1516915765293] del 1870.1.38 from 1870[32:38,39]
+[1516915766234] right click on word 1870.1.39 ('information')
+[1516915923158] left click on word 1872.0.3 ('clinging')
+[1516915923158] edit 1872[2,3,4:2]
+[1516915923847] left click on word 1872.0.4 ('there')
+[1516915923847] del 1872.0.4 from 1872[2,3,4:2]
+[1516915925245] right click on word 1872.0.3 ('clinging')
+[1516915925612] right click on word 1872.0.3 ('clinging')
+[1516915926612] label 1872[2,3:2] as modulation
+[1516916064537] right click on word 1873.0.24 ('of')
+[1516916066598] label 1873[24,25:21] as modulation
+[1516916090459] left click on word 1874.0.10 ('out')
+[1516916090459] edit 1874[6,7,8,9,10,11:6,5,7,8,9,10]
+[1516916091275] left click on word 1874.0.11 ('.')
+[1516916091275] del 1874.0.11 from 1874[6,7,8,9,10,11:6,5,7,8,9,10]
+[1516916092139] left click on word 1874.1.10 ('.')
+[1516916092139] del 1874.1.10 from 1874[6,7,8,9,10:6,5,7,8,9,10]
+[1516916092916] right click on word 1874.1.9 ('couteau')
+[1516916093705] left click on word 1874.0.11 ('.')
+[1516916093705] new alignment group
+[1516916093705] add 1874.0.11 to 1874[:]
+[1516916094713] left click on word 1874.1.10 ('.')
+[1516916094713] add 1874.1.10 to 1874[11:]
+[1516916095320] right click on word 1874.1.10 ('.')
+[1516916099310] left click on word 1874.1.9 ('couteau')
+[1516916099310] edit 1874[6,7,8,9,10:6,5,7,8,9]
+[1516916100047] left click on word 1874.0.11 ('.')
+[1516916100047] del 1874.0.11 from 1874[11:10]
+[1516916100047] add 1874.0.11 to 1874[6,7,8,9,10:6,5,7,8,9]
+[1516916100823] left click on word 1874.1.10 ('.')
+[1516916100823] del 1874.1.10 from 1874[:10]
+[1516916100823] add 1874.1.10 to 1874[6,7,8,9,10,11:6,5,7,8,9]
+[1516916101644] right click on word 1874.1.9 ('couteau')
+[1516916144109] right click on word 1875.0.7 ('for')
+[1516916145575] label 1875[7:8] as literal
+[1516916165196] right click on word 1875.0.7 ('for')
+[1516916166486] label 1875[7:8] as modulation
+[1516916493328] left click on word 1877.1.14 ('m'')
+[1516916493328] edit 1877[11,12,13,14,15:14,15,16,17,18,19]
+[1516916494055] left click on word 1877.0.10 ('really')
+[1516916494055] del 1877.0.10 from 1877[10:]
+[1516916494056] add 1877.0.10 to 1877[11,12,13,14,15:14,15,16,17,18,19]
+[1516916494638] right click on word 1877.0.10 ('really')
+[1516916604957] left click on word 1878.0.1 (''m')
+[1516916604957] edit 1878[1,2:2,1]
+[1516916605453] left click on word 1878.0.2 ('not')
+[1516916605453] del 1878.0.2 from 1878[1,2:2,1]
+[1516916606021] left click on word 1878.1.1 ('ne')
+[1516916606021] del 1878.1.1 from 1878[1:2,1]
+[1516916606993] right click on word 1878.1.2 ('suis')
+[1516916607803] left click on word 1878.0.2 ('not')
+[1516916607803] new alignment group
+[1516916607803] add 1878.0.2 to 1878[:]
+[1516916610504] cancel edit
+[1516916610504] add 1878.0.2 to 1878[1:2]
+[1516916611145] left click on word 1878.0.5 ('or')
+[1516916611145] edit 1878[5:6,3]
+[1516916612219] left click on word 1878.0.2 ('not')
+[1516916612219] del 1878.0.2 from 1878[1,2:2]
+[1516916612219] add 1878.0.2 to 1878[5:6,3]
+[1516916613003] left click on word 1878.1.1 ('ne')
+[1516916613003] add 1878.1.1 to 1878[5,2:6,3]
+[1516916613670] right click on word 1878.1.1 ('ne')
+[1516916617971] right click on word 1878.0.5 ('or')
+[1516916618873] label 1878[5,2:6,3,1] as literal
+[1516917213222] left click on word 1881.0.13 ('sugar')
+[1516917213222] edit 1881[13:15,16]
+[1516917214160] left click on word 1881.1.15 ('de')
+[1516917214160] del 1881.1.15 from 1881[13:15,16]
+[1516917214996] right click on word 1881.1.16 ('sucre')
+[1516917215387] right click on word 1881.1.16 ('sucre')
+[1516917216036] label 1881[13:16] as literal
+[1516917269702] right click on word 1882.0.8 ('as')
+[1516917270897] label 1882[6,8:7,9] as literal
+[1516917397477] left click on word 1885.0.3 ('capsules')
+[1516917397477] edit 1885[3:4,3]
+[1516917398110] left click on word 1885.1.3 ('des')
+[1516917398110] del 1885.1.3 from 1885[3:4,3]
+[1516917399144] right click on word 1885.1.4 ('gélules')
+[1516917434776] left click on word 1885.0.10 ('tablets')
+[1516917434776] edit 1885[10:12,11]
+[1516917435594] left click on word 1885.1.11 ('les')
+[1516917435594] del 1885.1.11 from 1885[10:12,11]
+[1516917436780] right click on word 1885.1.12 ('cachets')
+[1516917522415] right click on word 1885.1.12 ('cachets')
+[1516917523335] label 1885[10:12] as uncertain
+[1516917604057] left click on word 1887.0.0 ('dosage')
+[1516917604057] edit 1887[0:0,1]
+[1516917604841] left click on word 1887.1.0 ('le')
+[1516917604841] del 1887.1.0 from 1887[0:0,1]
+[1516917605732] right click on word 1887.1.1 ('dosage')
+[1516917625849] left click on word 1887.0.2 ('something')
+[1516917625849] edit 1887[2:4,3]
+[1516917626554] left click on word 1887.0.3 ('to')
+[1516917626554] del 1887.0.3 from 1887[3:5]
+[1516917626554] add 1887.0.3 to 1887[2:4,3]
+[1516917627030] left click on word 1887.0.4 ('do')
+[1516917627030] del 1887.0.4 from 1887[4:6]
+[1516917627030] add 1887.0.4 to 1887[2,3:4,3]
+[1516917627485] left click on word 1887.0.5 ('with')
+[1516917627485] del 1887.0.5 from 1887[5:7]
+[1516917627485] add 1887.0.5 to 1887[2,3,4:4,3]
+[1516917628055] left click on word 1887.1.5 ('à')
+[1516917628055] del 1887.1.5 from 1887[:5]
+[1516917628055] add 1887.1.5 to 1887[2,3,4,5:4,3]
+[1516917628591] left click on word 1887.1.6 ('voir')
+[1516917628591] del 1887.1.6 from 1887[:6]
+[1516917628591] add 1887.1.6 to 1887[2,3,4,5:4,3,5]
+[1516917630336] left click on word 1887.1.7 ('avec')
+[1516917630336] del 1887.1.7 from 1887[:7]
+[1516917630337] add 1887.1.7 to 1887[2,3,4,5:4,3,5,6]
+[1516917631111] right click on word 1887.1.7 ('avec')
+[1516917631524] right click on word 1887.1.7 ('avec')
+[1516917632334] label 1887[2,3,4,5:4,3,5,6,7] as equivalence
+[1516961844116] NEW SESSION
+[1516962139137] right click on word 1885.0.10 ('tablets')
+[1516962139978] label 1885[10:12] as literal
+[1516962230299] right click on word 1888.0.2 ('twice')
+[1516962231506] label 1888[2:2,3] as literal
+[1516963554749] left click on word 1893.0.18 ('inject')
+[1516963554749] edit 1893[18:18]
+[1516963555703] left click on word 1893.0.20 ('into')
+[1516963555704] del 1893.0.20 from 1893[20,21:19]
+[1516963555704] add 1893.0.20 to 1893[18:18]
+[1516963556304] left click on word 1893.0.21 ('a')
+[1516963556304] del 1893.0.21 from 1893[21:19]
+[1516963556304] add 1893.0.21 to 1893[18,20:18]
+[1516963558283] left click on word 1893.1.19 ('au')
+[1516963558283] del 1893.1.19 from 1893[:19]
+[1516963558284] add 1893.1.19 to 1893[18,20,21:18]
+[1516963558933] right click on word 1893.1.19 ('au')
+[1516963637305] left click on word 1895.0.4 (',')
+[1516963637305] edit 1895[4,7:2]
+[1516963637764] left click on word 1895.0.4 (',')
+[1516963637764] del 1895.0.4 from 1895[4,7:2]
+[1516963639045] right click on word 1895.1.2 (',')
+[1516963667722] left click on word 1895.0.10 (''ll')
+[1516963667722] edit 1895[10,11,12,13,14:4,7,5,6]
+[1516963669707] left click on word 1895.0.11 ('show')
+[1516963669707] del 1895.0.11 from 1895[10,11,12,13,14:4,7,5,6]
+[1516963670388] left click on word 1895.0.12 ('it')
+[1516963670388] del 1895.0.12 from 1895[10,12,13,14:4,7,5,6]
+[1516963670876] left click on word 1895.0.13 ('to')
+[1516963670876] del 1895.0.13 from 1895[10,13,14:4,7,5,6]
+[1516963671348] left click on word 1895.0.14 ('you')
+[1516963671349] del 1895.0.14 from 1895[10,14:4,7,5,6]
+[1516963672340] left click on word 1895.1.5 ('vous')
+[1516963672340] del 1895.1.5 from 1895[10:4,7,5,6]
+[1516963673112] left click on word 1895.1.6 ('le')
+[1516963673112] del 1895.1.6 from 1895[10:4,7,6]
+[1516963673610] left click on word 1895.1.7 ('montrer')
+[1516963673611] del 1895.1.7 from 1895[10:4,7]
+[1516963674698] right click on word 1895.0.10 (''ll')
+[1516963676945] left click on word 1895.0.11 ('show')
+[1516963676945] new alignment group
+[1516963676945] add 1895.0.11 to 1895[:]
+[1516963677632] left click on word 1895.1.7 ('montrer')
+[1516963677632] add 1895.1.7 to 1895[11:]
+[1516963678191] right click on word 1895.1.7 ('montrer')
+[1516963679025] left click on word 1895.0.12 ('it')
+[1516963679025] new alignment group
+[1516963679025] add 1895.0.12 to 1895[:]
+[1516963680035] left click on word 1895.1.6 ('le')
+[1516963680035] add 1895.1.6 to 1895[12:]
+[1516963680665] right click on word 1895.1.6 ('le')
+[1516963685777] left click on word 1895.0.14 ('you')
+[1516963685777] new alignment group
+[1516963685777] add 1895.0.14 to 1895[:]
+[1516963686851] left click on word 1895.1.5 ('vous')
+[1516963686851] add 1895.1.5 to 1895[14:]
+[1516963687394] right click on word 1895.1.5 ('vous')
+[1516963696371] left click on word 1895.0.11 ('show')
+[1516963696371] edit 1895[11:7]
+[1516963697309] left click on word 1895.0.13 ('to')
+[1516963697309] add 1895.0.13 to 1895[11:7]
+[1516963697907] right click on word 1895.0.13 ('to')
+[1516963725243] left click on word 1895.0.21 ('slides')
+[1516963725244] edit 1895[21:15,16]
+[1516963726068] left click on word 1895.1.15 ('des')
+[1516963726068] del 1895.1.15 from 1895[21:15,16]
+[1516963726892] right click on word 1895.1.16 ('diapos')
+[1516963744626] left click on word 1889.0.1 ('the')
+[1516963744626] edit 1889[0,1,2,3:0,1,2,3,4]
+[1516963745194] left click on word 1889.0.0 ('but')
+[1516963745194] del 1889.0.0 from 1889[0,1,2,3:0,1,2,3,4]
+[1516963746098] right click on word 1889.0.1 ('the')
+[1516963883818] right click on word 1897.0.4 ('has')
+[1516963885093] label 1897[4,5:1,2,3] as specification
+[1516964056286] left click on word 1898.0.16 ('trick')
+[1516964056286] edit 1898[15,16:14,15,13]
+[1516964058205] left click on word 1898.0.15 ('magic')
+[1516964058205] del 1898.0.15 from 1898[15,16:14,15,13]
+[1516964058901] left click on word 1898.1.14 ('de')
+[1516964058901] del 1898.1.14 from 1898[16:14,15,13]
+[1516964059357] left click on word 1898.1.15 ('magie')
+[1516964059357] del 1898.1.15 from 1898[16:15,13]
+[1516964060530] right click on word 1898.0.16 ('trick')
+[1516964060995] left click on word 1898.0.15 ('magic')
+[1516964060995] new alignment group
+[1516964060996] add 1898.0.15 to 1898[:]
+[1516964061843] left click on word 1898.1.14 ('de')
+[1516964061843] add 1898.1.14 to 1898[15:]
+[1516964062331] left click on word 1898.1.15 ('magie')
+[1516964062331] add 1898.1.15 to 1898[15:14]
+[1516964062985] right click on word 1898.1.15 ('magie')
+[1516964063498] right click on word 1898.1.15 ('magie')
+[1516964064873] label 1898[15:14,15] as transposition
+[1516964077194] left click on word 1898.0.15 ('magic')
+[1516964077194] edit 1898[15:14,15]
+[1516964077976] left click on word 1898.1.13 ('tour')
+[1516964077976] del 1898.1.13 from 1898[16:13]
+[1516964077977] add 1898.1.13 to 1898[15:14,15]
+[1516964078688] left click on word 1898.0.16 ('trick')
+[1516964078688] del 1898.0.16 from 1898[16:]
+[1516964078688] add 1898.0.16 to 1898[15:14,15,13]
+[1516964080003] right click on word 1898.1.14 ('de')
+[1516964080450] right click on word 1898.1.14 ('de')
+[1516964081726] label 1898[15,16:14,15,13] as literal
+[1516964088050] left click on word 1843.0.21 ('magic')
+[1516964088050] edit 1843[21:17,18]
+[1516964088674] left click on word 1843.0.22 ('trick')
+[1516964088674] del 1843.0.22 from 1843[22:16]
+[1516964088675] add 1843.0.22 to 1843[21:17,18]
+[1516964089573] left click on word 1843.1.16 ('tour')
+[1516964089573] del 1843.1.16 from 1843[:16]
+[1516964089573] add 1843.1.16 to 1843[21,22:17,18]
+[1516964090189] right click on word 1843.1.16 ('tour')
+[1516964090656] right click on word 1843.1.16 ('tour')
+[1516964091889] label 1843[21,22:17,18,16] as literal
+[1516964260012] left click on word 1900.0.10 ('reality')
+[1516964260012] edit 1900[10:10,11]
+[1516964260756] left click on word 1900.1.10 ('la')
+[1516964260756] del 1900.1.10 from 1900[10:10,11]
+[1516964261581] right click on word 1900.1.11 ('réalité')
+[1516964404522] right click on word 1901.0.0 ('this')
+[1516964405882] label 1901[0,1:0] as transposition
+[1516964595560] left click on word 1901.0.4 ('hatpin')
+[1516964595560] edit 1901[4:2]
+[1516964596609] left click on word 1901.1.3 ('à')
+[1516964596609] del 1901.1.3 from 1901[3:3,4,5,6,7]
+[1516964596609] add 1901.1.3 to 1901[4:2]
+[1516964597117] left click on word 1901.1.4 ('chapeau')
+[1516964597117] del 1901.1.4 from 1901[3:4,5,6,7]
+[1516964597117] add 1901.1.4 to 1901[4:2,3]
+[1516964598021] right click on word 1901.1.4 ('chapeau')
+[1516964605178] right click on word 1901.0.3 ('seven-inch')
+[1516964606365] label 1901[3:5,6,7] as modulation
+[1516964645414] left click on word 1901.0.16 ('going')
+[1516964645414] edit 1901[15,16:15]
+[1516964646720] left click on word 1901.0.17 ('to')
+[1516964646720] del 1901.0.17 from 1901[17:]
+[1516964646720] add 1901.0.17 to 1901[15,16:15]
+[1516964647345] right click on word 1901.0.17 ('to')
+[1516964826155] left click on word 1903.0.11 ('Hollywood')
+[1516964826155] edit 1903[11:15,14]
+[1516964827284] left click on word 1903.0.11 ('Hollywood')
+[1516964827284] del 1903.0.11 from 1903[11:15,14]
+[1516964828131] left click on word 1903.1.14 ('de')
+[1516964828131] del 1903.1.14 from 1903[:15,14]
+[1516964829123] left click on word 1903.1.15 ('Hollywood')
+[1516964829123] del 1903.1.15 from 1903[:15]
+[1516964829977] left click on word 1903.0.11 ('Hollywood')
+[1516964829977] add 1903.0.11 to 1903[:]
+[1516964830555] right click on word 1903.0.11 ('Hollywood')
+[1516964831441] left click on word 1903.1.15 ('Hollywood')
+[1516964831441] new alignment group
+[1516964831442] add 1903.1.15 to 1903[:]
+[1516964832051] right click on word 1903.1.15 ('Hollywood')
+[1516964832753] left click on word 1903.1.15 ('Hollywood')
+[1516964832753] edit 1903[:15]
+[1516964833625] left click on word 1903.0.11 ('Hollywood')
+[1516964833625] del 1903.0.11 from 1903[11:]
+[1516964833626] add 1903.0.11 to 1903[:15]
+[1516964834251] right click on word 1903.0.11 ('Hollywood')
+[1516965910470] right click on word 1906.0.7 ('queasy')
+[1516965911507] label 1906[6,7,8:2,3] as generalization
+[1516966005472] left click on word 1906.0.14 ('about')
+[1516966005472] edit 1906[13,14,15,16,17:7,8,9]
+[1516966008022] left click on word 1906.0.14 ('about')
+[1516966008022] del 1906.0.14 from 1906[13,14,15,16,17:7,8,9]
+[1516966008589] left click on word 1906.0.13 ('for')
+[1516966008589] del 1906.0.13 from 1906[13,15,16,17:7,8,9]
+[1516966009728] right click on word 1906.0.15 ('the')
+[1516966010330] right click on word 1906.0.15 ('the')
+[1516966011164] label 1906[15,16,17:7,8,9] as literal
+[1516966012156] left click on word 1906.0.13 ('for')
+[1516966012156] new alignment group
+[1516966012156] add 1906.0.13 to 1906[:]
+[1516966013467] right click on word 1906.0.14 ('about')
+[1516966013467] add 1906.0.14 to 1906[13:]
+[1516966014098] right click on word 1906.0.14 ('about')
+[1516966015474] label 1906[13,14:] as unaligned_simplification
+[1516966033063] left click on word 1906.0.15 ('the')
+[1516966033063] edit 1906[15,16,17:7,8,9]
+[1516966035253] right click on word 1906.0.15 ('the')
+[1516966057558] left click on word 1906.0.19 ('in')
+[1516966057558] edit 1906[19:12]
+[1516966058086] left click on word 1906.0.20 ('fact')
+[1516966058086] del 1906.0.20 from 1906[20:13]
+[1516966058086] add 1906.0.20 to 1906[19:12]
+[1516966058837] left click on word 1906.1.13 ('fait')
+[1516966058837] del 1906.1.13 from 1906[:13]
+[1516966058837] add 1906.1.13 to 1906[19,20:12]
+[1516966059481] right click on word 1906.1.13 ('fait')
+[1516966059911] right click on word 1906.1.13 ('fait')
+[1516966060792] label 1906[19,20:12,13] as equivalence
+[1516966230847] right click on word 1908.0.24 ('make')
+[1516966232366] label 1908[24,25,26,27:26,27,28] as transposition
+[1516966271048] left click on word 1909.0.4 ('man')
+[1516966271048] edit 1909[4,6:3]
+[1516966271838] left click on word 1909.0.6 ('am')
+[1516966271838] del 1909.0.6 from 1909[4,6:3]
+[1516966273303] right click on word 1909.0.4 ('man')
+[1516966281244] left click on word 1909.0.8 ('freaking')
+[1516966281244] edit 1909[8,10:7,8]
+[1516966282052] left click on word 1909.0.6 ('am')
+[1516966282052] add 1909.0.6 to 1909[8,10:7,8]
+[1516966282614] right click on word 1909.0.6 ('am')
+[1516966446145] right click on word 1909.0.8 ('freaking')
+[1516966447838] label 1909[8,10,6:7,8] as uncertain
+[1516966459077] left click on word 1911.0.3 ('we')
+[1516966459077] edit 1911[3:0]
+[1516966459701] left click on word 1911.0.4 (''re')
+[1516966459701] del 1911.0.4 from 1911[4:1]
+[1516966459702] add 1911.0.4 to 1911[3:0]
+[1516966460541] left click on word 1911.1.1 ('est')
+[1516966460541] del 1911.1.1 from 1911[:1]
+[1516966460541] add 1911.1.1 to 1911[3,4:0]
+[1516966461166] right click on word 1911.1.1 ('est')
+[1516966472987] right click on word 1911.0.3 ('we')
+[1516966474504] label 1911[3,4:0,1] as uncertain
+[1516966478133] right click on word 1911.0.3 ('we')
+[1516966483219] right click on word 1911.0.3 ('we')
+[1516966529547] left click on word 1911.0.14 ('knife')
+[1516966529547] edit 1911[14:12,13]
+[1516966533127] left click on word 1911.1.12 ('du')
+[1516966533127] del 1911.1.12 from 1911[14:12,13]
+[1516966534050] right click on word 1911.1.13 ('couteau')
+[1516966534452] right click on word 1911.1.13 ('couteau')
+[1516966535260] label 1911[14:13] as literal
+[1516966728367] right click on word 1917.0.13 ('stab')
+[1516966729328] label 1917[13,14:12,11] as modulation
+[1516966736264] left click on word 1917.0.14 ('himself')
+[1516966736264] edit 1917[13,14:12,11]
+[1516966737266] left click on word 1917.1.13 ('des')
+[1516966737266] del 1917.1.13 from 1917[:13,14]
+[1516966737266] add 1917.1.13 to 1917[13,14:12,11]
+[1516966737738] left click on word 1917.1.14 ('choses')
+[1516966737738] del 1917.1.14 from 1917[:14]
+[1516966737738] add 1917.1.14 to 1917[13,14:12,11,13]
+[1516966738341] right click on word 1917.1.14 ('choses')
+[1516966752402] right click on word 1917.0.14 ('himself')
+[1516966753436] label 1917[13,14:12,11,13,14] as generalization
+[1516966822768] right click on word 1917.0.21 ('for')
+[1516966823737] label 1917[21,22,23,24:22,23] as uncertain
+[1516966832975] left click on word 1906.0.14 ('about')
+[1516966832975] edit 1906[13,14:]
+[1516966833807] left click on word 1906.0.15 ('the')
+[1516966833807] del 1906.0.15 from 1906[15,16,17:7,8,9]
+[1516966833808] add 1906.0.15 to 1906[13,14:]
+[1516966834304] left click on word 1906.0.16 ('next')
+[1516966834304] del 1906.0.16 from 1906[16,17:7,8,9]
+[1516966834304] add 1906.0.16 to 1906[13,14,15:]
+[1516966834821] left click on word 1906.0.17 ('30')
+[1516966834821] del 1906.0.17 from 1906[17:7,8,9]
+[1516966834821] add 1906.0.17 to 1906[13,14,15,16:]
+[1516966835918] left click on word 1906.1.7 ('les')
+[1516966835918] del 1906.1.7 from 1906[:7,8,9]
+[1516966835918] add 1906.1.7 to 1906[13,14,15,16,17:]
+[1516966836397] left click on word 1906.1.8 ('30')
+[1516966836397] del 1906.1.8 from 1906[:8,9]
+[1516966836397] add 1906.1.8 to 1906[13,14,15,16,17:7]
+[1516966836925] left click on word 1906.1.9 ('prochaines')
+[1516966836925] del 1906.1.9 from 1906[:9]
+[1516966836925] add 1906.1.9 to 1906[13,14,15,16,17:7,8]
+[1516966837598] right click on word 1906.1.9 ('prochaines')
+[1516966838103] right click on word 1906.1.9 ('prochaines')
+[1516966838937] label 1906[13,14,15,16,17:7,8,9] as uncertain
+[1516971145548] left click on word 1916.0.3 ('people')
+[1516971145548] edit 1916[3:4,5]
+[1516971146133] left click on word 1916.1.4 ('les')
+[1516971146133] del 1916.1.4 from 1916[3:4,5]
+[1516971147292] right click on word 1916.1.5 ('gens')
+[1516971176784] right click on word 1921.0.5 ('back')
+[1516971178320] label 1921[3,4,5:2,3] as literal
+[1516971218583] left click on word 1922.0.0 ('people')
+[1516971218583] edit 1922[0:0,1]
+[1516971219335] left click on word 1922.1.0 ('les')
+[1516971219335] del 1922.1.0 from 1922[0:0,1]
+[1516971220390] right click on word 1922.1.1 ('personnes')
+[1516971228565] left click on word 1922.0.0 ('people')
+[1516971228565] edit 1922[0:1]
+[1516971229253] left click on word 1922.1.0 ('les')
+[1516971229253] add 1922.1.0 to 1922[0:1]
+[1516971230007] left click on word 1922.1.0 ('les')
+[1516971230007] del 1922.1.0 from 1922[0:1,0]
+[1516971230007] add 1922.1.0 to 1922[0:1]
+[1516971235822] right click on word 1922.1.0 ('les')
+[1516971237234] left click on word 1922.1.0 ('les')
+[1516971237234] edit 1922[0:1,0]
+[1516971237621] left click on word 1922.1.0 ('les')
+[1516971237621] del 1922.1.0 from 1922[0:1,0]
+[1516971238612] right click on word 1922.1.1 ('personnes')
+[1516971450102] right click on word 1922.0.3 ('satellite')
+[1516971451290] label 1922[3:5] as uncertain
+[1516971518924] left click on word 1923.0.2 ('give')
+[1516971518924] edit 1923[2,6:3]
+[1516971519656] left click on word 1923.0.3 ('you')
+[1516971519656] del 1923.0.3 from 1923[3:2]
+[1516971519656] add 1923.0.3 to 1923[2,6:3]
+[1516971520183] left click on word 1923.0.4 ('good')
+[1516971520183] add 1923.0.4 to 1923[2,6,3:3]
+[1516971520785] left click on word 1923.0.5 ('close')
+[1516971520786] del 1923.0.5 from 1923[5:4,5]
+[1516971520786] add 1923.0.5 to 1923[2,6,3,4:3]
+[1516971521697] left click on word 1923.0.7 ('at')
+[1516971521697] add 1923.0.7 to 1923[2,6,3,4,5:3]
+[1516971522177] left click on word 1923.0.8 ('this')
+[1516971522177] del 1923.0.8 from 1923[8:]
+[1516971522178] add 1923.0.8 to 1923[2,6,3,4,5,7:3]
+[1516971523070] left click on word 1923.1.2 ('vous')
+[1516971523070] del 1923.1.2 from 1923[:2]
+[1516971523070] add 1923.1.2 to 1923[2,6,3,4,5,7,8:3]
+[1516971523902] left click on word 1923.1.4 ('de')
+[1516971523902] del 1923.1.4 from 1923[:4,5]
+[1516971523902] add 1923.1.4 to 1923[2,6,3,4,5,7,8:3,2]
+[1516971524375] left click on word 1923.1.5 ('près')
+[1516971524375] del 1923.1.5 from 1923[:5]
+[1516971524375] add 1923.1.5 to 1923[2,6,3,4,5,7,8:3,2,4]
+[1516971524969] right click on word 1923.1.5 ('près')
+[1516971525582] right click on word 1923.1.5 ('près')
+[1516971526865] label 1923[2,6,3,4,5,7,8:3,2,4,5] as modulation_transposition
+[1516971539990] left click on word 1924.0.10 ('Hollywood')
+[1516971539990] edit 1924[10:14,13]
+[1516971540934] left click on word 1924.1.13 ('de')
+[1516971540934] del 1924.1.13 from 1924[10:14,13]
+[1516971541748] right click on word 1924.1.14 ('Hollywood')
+[1516971542219] right click on word 1924.1.14 ('Hollywood')
+[1516971543604] label 1924[10:14] as literal
+[1516971643066] left click on word 1927.0.0 ('people')
+[1516971643066] edit 1927[0:0,1]
+[1516971644054] left click on word 1927.1.0 ('les')
+[1516971644054] del 1927.1.0 from 1927[0:0,1]
+[1516971644952] right click on word 1927.1.1 ('gens')
+[1516971673268] left click on word 1921.0.4 ('the')
+[1516971673268] edit 1921[3,4,5:2,3]
+[1516971673838] left click on word 1921.0.4 ('the')
+[1516971673838] del 1921.0.4 from 1921[3,4,5:2,3]
+[1516971674254] left click on word 1921.0.4 ('the')
+[1516971674254] add 1921.0.4 to 1921[3,5:2,3]
+[1516971674758] left click on word 1921.0.5 ('back')
+[1516971674758] del 1921.0.5 from 1921[3,5,4:2,3]
+[1516971675486] left click on word 1921.1.3 ('fond')
+[1516971675486] del 1921.1.3 from 1921[3,4:2,3]
+[1516971676503] right click on word 1921.0.4 ('the')
+[1516971676988] left click on word 1921.0.5 ('back')
+[1516971676988] new alignment group
+[1516971676988] add 1921.0.5 to 1921[:]
+[1516971677756] left click on word 1921.1.3 ('fond')
+[1516971677756] add 1921.1.3 to 1921[5:]
+[1516971678323] right click on word 1921.1.3 ('fond')
+[1516971860231] right click on word 1927.0.40 ('--')
+[1516971861103] del 1927.0.40 from 1927[40:36]
+[1516971902053] right click on word 1927.0.57 ('would')
+[1516971903225] label 1927[57,56,58,59:50,51] as modulation
+[1516972017709] right click on word 1846.0.5 ('you')
+[1516972021045] label 1846[4,5:2] as transposition
+[1516972024210] right click on word 1846.0.5 ('you')
+[1516972025272] label 1846[4,5:2] as uncertain
+[1516972036767] right click on word 1928.0.8 ('you')
+[1516972037852] label 1928[8,7:4] as uncertain
+[1516972039883] right click on word 1928.0.8 ('you')
+[1516972094547] left click on word 1930.0.4 ('would')
+[1516972094547] edit 1930[4,5,8:4,5]
+[1516972094955] left click on word 1930.0.4 ('would')
+[1516972094955] del 1930.0.4 from 1930[4,5,8:4,5]
+[1516972095567] left click on word 1930.0.5 ('take')
+[1516972095567] del 1930.0.5 from 1930[5,8:4,5]
+[1516972096415] left click on word 1930.0.8 ('out')
+[1516972096415] del 1930.0.8 from 1930[8:4,5]
+[1516972096937] left click on word 1930.1.5 ('enlever')
+[1516972096937] del 1930.1.5 from 1930[:4,5]
+[1516972097705] left click on word 1930.0.4 ('would')
+[1516972097705] add 1930.0.4 to 1930[:4]
+[1516972098588] right click on word 1930.0.4 ('would')
+[1516972099135] right click on word 1930.0.4 ('would')
+[1516972100190] label 1930[4:4] as literal
+[1516972100978] left click on word 1930.0.5 ('take')
+[1516972100978] new alignment group
+[1516972100978] add 1930.0.5 to 1930[:]
+[1516972101945] left click on word 1930.0.8 ('out')
+[1516972101945] add 1930.0.8 to 1930[5:]
+[1516972102633] left click on word 1930.1.5 ('enlever')
+[1516972102633] add 1930.1.5 to 1930[5,8:]
+[1516972103188] right click on word 1930.1.5 ('enlever')
+[1516972140662] left click on word 1931.0.16 ('wounds')
+[1516972140662] edit 1931[16:15,14]
+[1516972141620] left click on word 1931.1.14 ('de')
+[1516972141620] del 1931.1.14 from 1931[16:15,14]
+[1516972142576] right click on word 1931.1.15 ('blessures')
+[1516972143311] right click on word 1931.1.15 ('blessures')
+[1516972144204] label 1931[16:15] as literal
+[1516972170890] right click on word 1932.0.11 ('taking')
+[1516972171946] label 1932[11:12] as literal
+[1516972175889] left click on word 1932.0.13 ('fake')
+[1516972175889] edit 1932[13:16,15]
+[1516972176882] left click on word 1932.1.15 ('de')
+[1516972176882] del 1932.1.15 from 1932[13:16,15]
+[1516972177386] left click on word 1932.1.16 ('factice')
+[1516972177386] del 1932.1.16 from 1932[13:16]
+[1516972177843] left click on word 1932.1.16 ('factice')
+[1516972177843] add 1932.1.16 to 1932[13:]
+[1516972178526] right click on word 1932.1.16 ('factice')
+[1516972178944] right click on word 1932.1.16 ('factice')
+[1516972179817] label 1932[13:16] as literal
+[1516972189367] right click on word 1932.0.15 ('making')
+[1516972190217] label 1932[15:20] as literal
+[1516972209964] left click on word 1932.0.22 (''m')
+[1516972209964] edit 1932[22,24:24]
+[1516972211414] left click on word 1932.0.25 ('to')
+[1516972211414] del 1932.0.25 from 1932[25:]
+[1516972211414] add 1932.0.25 to 1932[22,24:24]
+[1516972212261] right click on word 1932.0.24 ('going')

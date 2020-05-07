@@ -1,0 +1,4 @@
+
+1 0:6:literal 1:1:literal 2:2:literal 3:3:literal 4:4:literal :0:unaligned_explicitation :5:unaligned_explicitation
+2 0,1:11:literal 2,3,4:6:literal 5::unaligned_reduction 6::unaligned_reduction 7:8,7:literal 8:10:literal 10::unaligned_reduction 11:4:literal 12:2,3:literal 13:0:literal :1:unaligned_explicitation :5:unaligned_explicitation :9:unaligned_explicitation
+3 0,1,2:1,0:literal 3:2:literal

@@ -1,0 +1,89 @@
+[1574200378299] NEW SESSION
+[1574200382048] left click on word 19.0.0 ('Many')
+[1574200382049] new alignment group
+[1574200382049] add 19.0.0 to 19[:]
+[1574200383625] left click on word 19.1.12 ('多种多样')
+[1574200383625] add 19.1.12 to 19[0:]
+[1574200384468] left click on word 19.1.13 ('的')
+[1574200384468] add 19.1.13 to 19[0:12]
+[1574200384982] right click on word 19.1.13 ('的')
+[1574200385324] right click on word 19.1.13 ('的')
+[1574200386093] label 19[0:12,13] as equivalence
+[1574200387367] left click on word 19.0.1 ('circumstances')
+[1574200387367] new alignment group
+[1574200387367] add 19.0.1 to 19[:]
+[1574200388463] left click on word 19.1.9 ('情形')
+[1574200388463] add 19.1.9 to 19[1:]
+[1574200389001] right click on word 19.1.9 ('情形')
+[1574200389518] right click on word 19.1.9 ('情形')
+[1574200392075] label 19[1:9] as lexical_shift
+[1574200394519] left click on word 19.0.2 ('could')
+[1574200394519] new alignment group
+[1574200394519] add 19.0.2 to 19[:]
+[1574200395083] left click on word 19.0.3 ('be')
+[1574200395083] add 19.0.3 to 19[2:]
+[1574200395515] left click on word 19.0.4 ('imagined')
+[1574200395515] add 19.0.4 to 19[2,3:]
+[1574200396447] left click on word 19.1.0 ('我们')
+[1574200396447] add 19.1.0 to 19[2,3,4:]
+[1574200396903] left click on word 19.1.1 ('可以')
+[1574200396904] add 19.1.1 to 19[2,3,4:0]
+[1574200397386] left click on word 19.1.2 ('设想')
+[1574200397386] add 19.1.2 to 19[2,3,4:0,1]
+[1574200397956] right click on word 19.1.2 ('设想')
+[1574200398367] right click on word 19.1.2 ('设想')
+[1574200399348] label 19[2,3,4:0,1,2] as modulation
+[1574200400696] left click on word 19.0.5 ('under')
+[1574200400696] new alignment group
+[1574200400697] add 19.0.5 to 19[:]
+[1574200401252] left click on word 19.0.6 ('which')
+[1574200401252] add 19.0.6 to 19[5:]
+[1574200403041] left click on word 19.1.8 ('的')
+[1574200403041] add 19.1.8 to 19[5,6:]
+[1574200403662] right click on word 19.1.8 ('的')
+[1574200404103] right click on word 19.1.8 ('的')
+[1574200405183] label 19[5,6:8] as transposition
+[1574200408507] left click on word 19.0.7 ('he')
+[1574200408508] new alignment group
+[1574200408508] add 19.0.7 to 19[:]
+[1574200409775] left click on word 19.1.4 ('他')
+[1574200409775] add 19.1.4 to 19[7:]
+[1574200410329] right click on word 19.1.4 ('他')
+[1574200430927] left click on word 19.0.9 ('pass')
+[1574200430927] new alignment group
+[1574200430927] add 19.0.9 to 19[:]
+[1574200431949] left click on word 19.1.5 ('过')
+[1574200431949] add 19.1.5 to 19[9:]
+[1574200432390] right click on word 19.1.5 ('过')
+[1574200433167] left click on word 19.0.10 ('London')
+[1574200433167] new alignment group
+[1574200433167] add 19.0.10 to 19[:]
+[1574200433664] left click on word 19.0.11 ('Bridge')
+[1574200433664] add 19.0.11 to 19[10:]
+[1574200434741] left click on word 19.1.6 ('伦敦桥')
+[1574200434741] add 19.1.6 to 19[10,11:]
+[1574200435159] right click on word 19.1.6 ('伦敦桥')
+[1574200435877] right click on word 19.1.7 ('时')
+[1574200436900] add 19.1.7 to 19[:]
+[1574200436901] label 19[:7] as unaligned_explicitation
+[1574200440749] left click on word 19.0.6 ('which')
+[1574200440749] edit 19[5,6:8]
+[1574200441680] left click on word 19.1.7 ('时')
+[1574200441681] del 19.1.7 from 19[:7]
+[1574200441681] add 19.1.7 to 19[5,6:8]
+[1574200442228] right click on word 19.1.7 ('时')
+[1574200443568] left click on word 19.0.12 ('.')
+[1574200443568] new alignment group
+[1574200443568] add 19.0.12 to 19[:]
+[1574200444482] left click on word 19.1.14 ('。')
+[1574200444482] add 19.1.14 to 19[12:]
+[1574200444891] right click on word 19.1.14 ('。')
+[1574200460269] left click on word 19.1.10 ('也许')
+[1574200460269] new alignment group
+[1574200460269] add 19.1.10 to 19[:]
+[1574200460834] left click on word 19.1.11 ('是')
+[1574200460834] add 19.1.11 to 19[:10]
+[1574200461382] right click on word 19.1.11 ('是')
+[1574200461750] right click on word 19.1.11 ('是')
+[1574200463162] label 19[:10,11] as unaligned_explicitation
+[1574200464641] right click on word 19.0.8 ('would')

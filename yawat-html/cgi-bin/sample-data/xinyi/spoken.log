@@ -1,0 +1,1718 @@
+[1568384409168] NEW SESSION
+[1568384419869] right click on word 43.1.0 ('所以')
+[1568384687269] left click on word 43.1.1 ('不管')
+[1568384687270] edit 43[1:1]
+[1568384688982] left click on word 43.1.8 ('什么')
+[1568384688982] del 43.1.8 from 43[:8]
+[1568384688982] add 43.1.8 to 43[1:1]
+[1568384689381] right click on word 43.1.8 ('什么')
+[1568384700284] left click on word 43.0.5 ('the')
+[1568384700284] edit 43[5:4]
+[1568384706222] cancel edit
+[1568385247645] left click on word 43.0.11 ('ourselves')
+[1568385247645] edit 43[11:14]
+[1568385248541] left click on word 43.1.13 ('我们')
+[1568385248541] del 43.1.13 from 43[:13]
+[1568385248542] add 43.1.13 to 43[11:14]
+[1568385249351] right click on word 43.1.13 ('我们')
+[1568385258460] left click on word 44.0.1 ('in')
+[1568385258460] new alignment group
+[1568385258461] add 44.0.1 to 44[:]
+[1568385261628] left click on word 44.1.1 ('在')
+[1568385261628] add 44.1.1 to 44[1:]
+[1568385262773] left click on word 44.1.4 ('下')
+[1568385262773] add 44.1.4 to 44[1:1]
+[1568385266110] right click on word 44.1.4 ('下')
+[1568385267782] right click on word 44.1.3 ('情况')
+[1568385268968] label 44[3:3] as lexical_shift
+[1568385275508] left click on word 44.1.8 ('是')
+[1568385275508] new alignment group
+[1568385275508] add 44.1.8 to 44[:]
+[1568385276182] left click on word 44.0.7 ('be')
+[1568385276182] add 44.0.7 to 44[:8]
+[1568385277045] right click on word 44.0.7 ('be')
+[1568385279534] right click on word 44.1.10 ('个')
+[1568385280352] add 44.1.10 to 44[:]
+[1568385280352] label 44[:10] as unaligned_explicitation
+[1568385287958] right click on word 44.1.11 ('删除')
+[1568385289373] label 44[9:11] as lexical_shift
+[1568385291534] left click on word 44.1.12 ('和')
+[1568385291534] edit 44[14:12]
+[1568385292909] left click on word 44.0.10 ('and')
+[1568385292909] add 44.0.10 to 44[14:12]
+[1568385294550] left click on word 44.0.14 ('and')
+[1568385294550] del 44.0.14 from 44[14:17]
+[1568385294550] add 44.0.14 to 44[14,10:12]
+[1568385295542] left click on word 44.0.14 ('and')
+[1568385295542] del 44.0.14 from 44[14,10:12]
+[1568385295542] add 44.0.14 to 44[:17]
+[1568385296788] right click on word 44.0.10 ('and')
+[1568385298425] left click on word 44.0.11 ('two')
+[1568385298425] edit 44[11:13]
+[1568385300052] left click on word 44.0.11 ('two')
+[1568385300052] del 44.0.11 from 44[11:13]
+[1568385300773] left click on word 44.0.11 ('two')
+[1568385300773] add 44.0.11 to 44[:13]
+[1568385301274] right click on word 44.0.11 ('two')
+[1568385302358] left click on word 44.1.14 ('个')
+[1568385302358] new alignment group
+[1568385302358] add 44.1.14 to 44[:]
+[1568385302836] right click on word 44.1.14 ('个')
+[1568385303702] right click on word 44.1.14 ('个')
+[1568385305029] label 44[:14] as unaligned_explicitation
+[1568385306197] right click on word 44.1.15 ('保留')
+[1568385307293] label 44[12:15] as lexical_shift
+[1568385311303] left click on word 44.1.19 ('可能')
+[1568385311303] new alignment group
+[1568385311303] add 44.1.19 to 44[:]
+[1568385311925] left click on word 44.1.20 ('会')
+[1568385311926] del 44.1.20 from 44[16:20]
+[1568385311926] add 44.1.20 to 44[:19]
+[1568385312719] left click on word 44.0.16 ('would')
+[1568385312719] del 44.0.16 from 44[16:]
+[1568385312719] add 44.0.16 to 44[:19,20]
+[1568385313908] right click on word 44.1.19 ('可能')
+[1568385318205] left click on word 44.1.23 ('，')
+[1568385318205] new alignment group
+[1568385318205] add 44.1.23 to 44[:]
+[1568385319469] cancel edit
+[1568385320060] left click on word 44.0.19 (',')
+[1568385320060] new alignment group
+[1568385320060] add 44.0.19 to 44[:]
+[1568385320613] left click on word 44.0.19 (',')
+[1568385320613] del 44.0.19 from 44[19:]
+[1568385321160] left click on word 44.0.19 (',')
+[1568385321160] add 44.0.19 to 44[:]
+[1568385322335] left click on word 44.1.23 ('，')
+[1568385322335] add 44.1.23 to 44[19:]
+[1568385323252] right click on word 44.1.23 ('，')
+[1568385329504] left click on word 45.1.0 ('甚至')
+[1568385329504] new alignment group
+[1568385329504] add 45.1.0 to 45[:]
+[1568385330573] left click on word 45.0.0 ('and')
+[1568385330573] add 45.0.0 to 45[:0]
+[1568385331398] right click on word 45.0.0 ('and')
+[1568385336919] left click on word 45.0.2 ('these')
+[1568385336919] new alignment group
+[1568385336919] add 45.0.2 to 45[:]
+[1568385347686] left click on word 45.0.2 ('these')
+[1568385347687] del 45.0.2 from 45[2:]
+[1568385348397] left click on word 45.0.2 ('these')
+[1568385348397] add 45.0.2 to 45[:]
+[1568385349380] left click on word 45.1.2 ('那些')
+[1568385349380] add 45.1.2 to 45[2:]
+[1568385350470] right click on word 45.1.2 ('那些')
+[1568385351460] right click on word 45.1.2 ('那些')
+[1568385352709] label 45[2:2] as translation_error
+[1568385358566] left click on word 45.1.3 ('秘密')
+[1568385358566] edit 45[3:3]
+[1568385360212] left click on word 45.1.4 ('的')
+[1568385360212] add 45.1.4 to 45[3:3]
+[1568385360940] right click on word 45.1.4 ('的')
+[1568385362141] right click on word 45.1.5 ('地方')
+[1568385364103] label 45[4:5] as lexical_shift
+[1568385544470] left click on word 45.0.5 ('for')
+[1568385544470] new alignment group
+[1568385544470] add 45.0.5 to 45[:]
+[1568385545333] left click on word 45.0.6 ('a')
+[1568385545333] add 45.0.6 to 45[5:]
+[1568385546459] left click on word 45.0.5 ('for')
+[1568385546459] del 45.0.5 from 45[5,6:]
+[1568385547412] left click on word 45.1.6 ('都')
+[1568385547413] add 45.1.6 to 45[6:]
+[1568385548525] left click on word 45.0.5 ('for')
+[1568385548525] add 45.0.5 to 45[6:6]
+[1568385549023] left click on word 45.0.7 ('fraction')
+[1568385549023] add 45.0.7 to 45[6,5:6]
+[1568385549646] left click on word 45.1.7 ('在线')
+[1568385549646] add 45.1.7 to 45[6,5,7:6]
+[1568385550046] left click on word 45.1.8 ('联结')
+[1568385550046] add 45.1.8 to 45[6,5,7:6,7]
+[1568385550493] left click on word 45.1.9 ('起来')
+[1568385550493] add 45.1.9 to 45[6,5,7:6,7,8]
+[1568385551541] left click on word 45.1.10 ('了')
+[1568385551541] add 45.1.10 to 45[6,5,7:6,7,8,9]
+[1568385552692] right click on word 45.1.10 ('了')
+[1568385554748] left click on word 45.0.8 ('of')
+[1568385554748] new alignment group
+[1568385554749] add 45.0.8 to 45[:]
+[1568385556087] left click on word 45.1.10 ('了')
+[1568385556087] del 45.1.10 from 45[6,5,7:6,7,8,9,10]
+[1568385556087] add 45.1.10 to 45[8:]
+[1568385557148] left click on word 45.0.9 ('that')
+[1568385557149] add 45.0.9 to 45[8:10]
+[1568385557733] left click on word 45.0.10 ('cost')
+[1568385557733] add 45.0.10 to 45[8,9:10]
+[1568385558206] right click on word 45.0.10 ('cost')
+[1568385560102] left click on word 45.0.5 ('for')
+[1568385560102] edit 45[6,5,7:6,7,8,9]
+[1568385561901] left click on word 45.0.10 ('cost')
+[1568385561902] del 45.0.10 from 45[8,9,10:10]
+[1568385561902] add 45.0.10 to 45[6,5,7:6,7,8,9]
+[1568385562623] left click on word 45.0.9 ('that')
+[1568385562623] del 45.0.9 from 45[8,9:10]
+[1568385562623] add 45.0.9 to 45[6,5,7,10:6,7,8,9]
+[1568385563077] left click on word 45.0.8 ('of')
+[1568385563077] del 45.0.8 from 45[8:10]
+[1568385563077] add 45.0.8 to 45[6,5,7,10,9:6,7,8,9]
+[1568385563812] left click on word 45.1.10 ('了')
+[1568385563812] del 45.1.10 from 45[:10]
+[1568385563813] add 45.1.10 to 45[6,5,7,10,9,8:6,7,8,9]
+[1568385564340] right click on word 45.1.10 ('了')
+[1568385565139] right click on word 45.1.10 ('了')
+[1568385566294] label 45[6,5,7,10,9,8:6,7,8,9,10] as uncertain
+[1568385567671] left click on word 45.1.11 ('，')
+[1568385567671] new alignment group
+[1568385567671] add 45.1.11 to 45[:]
+[1568385569077] left click on word 45.0.11 (',')
+[1568385569077] add 45.0.11 to 45[:11]
+[1568385570108] right click on word 45.0.11 (',')
+[1568385582739] left click on word 46.1.1 ('抗病')
+[1568385582739] edit 46[5:1]
+[1568385583476] left click on word 46.1.2 ('力')
+[1568385583476] add 46.1.2 to 46[5:1]
+[1568385584548] right click on word 46.1.2 ('力')
+[1568385585461] right click on word 46.1.2 ('力')
+[1568385587262] label 46[5:1,2] as particularization
+[1568385591457] left click on word 46.1.4 ('强')
+[1568385591457] edit 46[3:4]
+[1568385591916] right click on word 46.1.4 ('强')
+[1568385593333] right click on word 46.1.4 ('强')
+[1568385595124] label 46[3:4] as transposition
+[1568385621790] right click on word 46.1.7 ('就')
+[1568385623981] add 46.1.7 to 46[:]
+[1568385623982] label 46[:7] as unaligned_explicitation
+[1568385635038] left click on word 46.1.9 ('康复')
+[1568385635038] new alignment group
+[1568385635039] add 46.1.9 to 46[:]
+[1568385636469] left click on word 46.0.9 ('well')
+[1568385636469] add 46.0.9 to 46[:9]
+[1568385636976] left click on word 46.0.8 ('get')
+[1568385636976] add 46.0.8 to 46[9:9]
+[1568385638052] right click on word 46.0.8 ('get')
+[1568385639028] right click on word 46.0.8 ('get')
+[1568385642900] label 46[9,8:9] as particularization
+[1568385644700] right click on word 46.1.10 ('的')
+[1568385659998] right click on word 47.1.0 ('它')
+[1568385662125] left click on word 47.0.0 ('He')
+[1568385662125] new alignment group
+[1568385662125] add 47.0.0 to 47[:]
+[1568385662964] left click on word 47.1.0 ('它')
+[1568385662964] add 47.1.0 to 47[0:]
+[1568385663900] right click on word 47.1.0 ('它')
+[1568385664644] right click on word 47.1.0 ('它')
+[1568385665991] label 47[0:0] as translation_error
+[1568385667326] right click on word 47.1.1 ('喜欢')
+[1568385668908] label 47[1:1] as lexical_shift
+[1568385670848] right click on word 47.1.2 ('观看')
+[1568385671976] label 47[2:2] as lexical_shift
+[1568385681309] right click on word 47.1.3 ('我们')
+[1568385683244] label 47[5:3] as modulation
+[1568385690597] left click on word 47.1.6 ('喂食')
+[1568385690597] new alignment group
+[1568385690597] add 47.1.6 to 47[:]
+[1568385692029] left click on word 47.1.7 ('器')
+[1568385692029] add 47.1.7 to 47[:6]
+[1568385692852] left click on word 47.1.6 ('喂食')
+[1568385692853] del 47.1.6 from 47[:6,7]
+[1568385693623] left click on word 47.0.12 ('feeders')
+[1568385693623] add 47.0.12 to 47[:7]
+[1568385694191] left click on word 47.1.6 ('喂食')
+[1568385694191] add 47.1.6 to 47[12:7]
+[1568385694748] right click on word 47.1.6 ('喂食')
+[1568385697396] left click on word 47.1.8 ('和')
+[1568385697396] new alignment group
+[1568385697396] add 47.1.8 to 47[:]
+[1568385697943] left click on word 47.1.8 ('和')
+[1568385697943] del 47.1.8 from 47[:8]
+[1568385698701] left click on word 47.0.13 ('and')
+[1568385698701] add 47.0.13 to 47[:]
+[1568385699597] left click on word 47.1.8 ('和')
+[1568385699597] add 47.1.8 to 47[13:]
+[1568385700964] right click on word 47.1.8 ('和')
+[1568385702597] left click on word 47.1.9 ('鸟')
+[1568385702597] edit 47[4:9]
+[1568385703397] left click on word 47.1.10 ('澡盆')
+[1568385703398] add 47.1.10 to 47[4:9]
+[1568385705860] left click on word 47.0.14 ('birdbaths')
+[1568385705860] add 47.0.14 to 47[4:9,10]
+[1568385706624] left click on word 47.0.4 ('birds')
+[1568385706624] del 47.0.4 from 47[4:16]
+[1568385706624] add 47.0.4 to 47[4,14:9,10]
+[1568385707381] left click on word 47.0.4 ('birds')
+[1568385707381] del 47.0.4 from 47[4,14:9,10]
+[1568385707381] add 47.0.4 to 47[:16]
+[1568385708607] right click on word 47.1.9 ('鸟')
+[1568385711325] left click on word 47.1.11 ('吸引')
+[1568385711325] edit 47[6:11]
+[1568385711876] right click on word 47.1.11 ('吸引')
+[1568385712781] right click on word 47.1.11 ('吸引')
+[1568385714430] label 47[6:11] as lexical_shift
+[1568385724317] right click on word 47.1.16 ('鸟')
+[1568385725702] label 47[4:16] as lexical_shift
+[1568385748468] left click on word 48.0.10 ('one')
+[1568385748469] new alignment group
+[1568385748469] add 48.0.10 to 48[:]
+[1568385749085] left click on word 48.0.10 ('one')
+[1568385749085] del 48.0.10 from 48[10:]
+[1568385749749] left click on word 48.0.10 ('one')
+[1568385749749] add 48.0.10 to 48[:]
+[1568385750861] left click on word 48.1.0 ('一边')
+[1568385750861] del 48.1.0 from 48[11:0]
+[1568385750861] add 48.1.0 to 48[10:]
+[1568385751652] left click on word 48.0.11 ('side')
+[1568385751652] del 48.0.11 from 48[11:]
+[1568385751653] add 48.0.11 to 48[10:0]
+[1568385751964] right click on word 48.0.11 ('side')
+[1568385769453] left click on word 48.1.2 ('肩膀')
+[1568385769453] edit 48[8:2]
+[1568385770509] left click on word 48.1.4 ('没')
+[1568385770509] del 48.1.4 from 48[7:4]
+[1568385770509] add 48.1.4 to 48[8:2]
+[1568385771064] left click on word 48.1.5 ('了')
+[1568385771064] del 48.1.5 from 48[6:5]
+[1568385771064] add 48.1.5 to 48[8:2,4]
+[1568385772261] left click on word 48.0.7 ('no')
+[1568385772261] del 48.0.7 from 48[7:]
+[1568385772261] add 48.0.7 to 48[8:2,4,5]
+[1568385772934] right click on word 48.0.7 ('no')
+[1568385774004] right click on word 48.0.7 ('no')
+[1568385775420] label 48[8,7:2,4,5] as modulation
+[1568385785894] left click on word 49.1.0 ('为')
+[1568385785894] new alignment group
+[1568385785894] add 49.1.0 to 49[:]
+[1568385786901] left click on word 49.0.0 ('To')
+[1568385786901] add 49.0.0 to 49[:0]
+[1568385788396] right click on word 49.1.0 ('为')
+[1568385796469] left click on word 49.1.7 ('效果')
+[1568385796469] edit 49[4:7]
+[1568385797021] left click on word 49.1.6 ('治疗')
+[1568385797021] del 49.1.6 from 49[3:6]
+[1568385797021] add 49.1.6 to 49[4:7]
+[1568385797861] left click on word 49.0.3 ('cure')
+[1568385797861] del 49.0.3 from 49[3:]
+[1568385797861] add 49.0.3 to 49[4:7,6]
+[1568385798461] left click on word 49.0.2 ('the')
+[1568385798461] add 49.0.2 to 49[4,3:7,6]
+[1568385798764] right click on word 49.0.2 ('the')
+[1568385800926] left click on word 49.0.5 ('of')
+[1568385800926] new alignment group
+[1568385800927] add 49.0.5 to 49[:]
+[1568385801565] left click on word 49.0.5 ('of')
+[1568385801565] del 49.0.5 from 49[5:]
+[1568385802160] left click on word 49.0.5 ('of')
+[1568385802160] add 49.0.5 to 49[:]
+[1568385803604] left click on word 49.1.5 ('的')
+[1568385803604] add 49.1.5 to 49[5:]
+[1568385804142] right click on word 49.1.5 ('的')
+[1568385805997] left click on word 49.0.6 ('RTIs')
+[1568385805997] new alignment group
+[1568385805997] add 49.0.6 to 49[:]
+[1568385807230] left click on word 49.0.6 ('RTIs')
+[1568385807230] del 49.0.6 from 49[6:]
+[1568385808460] left click on word 49.1.4 ('感染')
+[1568385808461] add 49.1.4 to 49[:]
+[1568385808933] left click on word 49.1.3 ('道')
+[1568385808933] add 49.1.3 to 49[:4]
+[1568385810319] left click on word 49.0.6 ('RTIs')
+[1568385810319] add 49.0.6 to 49[:4,3]
+[1568385811645] left click on word 49.1.2 ('生殖')
+[1568385811645] add 49.1.2 to 49[6:4,3]
+[1568385812243] right click on word 49.1.2 ('生殖')
+[1568385935485] left click on word 49.0.6 ('RTIs')
+[1568385935485] edit 49[6:4,3,2]
+[1568385936213] right click on word 49.0.6 ('RTIs')
+[1568385936902] right click on word 49.0.6 ('RTIs')
+[1568385938349] label 49[6:4,3,2] as equivalence
+[1568385945127] right click on word 49.0.8 ('administration')
+[1568385956052] label 49[8:14] as uncertain
+[1568385961712] right click on word 49.1.10 ('针对')
+[1568385963020] label 49[12:10] as lexical_shift
+[1568385965300] right click on word 49.1.11 ('病原体')
+[1568385966422] label 49[14:11] as lexical_shift
+[1568385970621] right click on word 49.1.13 ('合理')
+[1568385971830] label 49[11:13] as transposition
+[1568385977527] right click on word 49.1.14 ('用药')
+[1568385978828] label 49[8:14] as transposition
+[1568385987517] left click on word 50.1.2 ('拉姆奇')
+[1568385987517] new alignment group
+[1568385987517] add 50.1.2 to 50[:]
+[1568385988894] left click on word 50.0.1 ('Ramsay')
+[1568385988895] add 50.0.1 to 50[:2]
+[1568385991173] right click on word 50.1.2 ('拉姆奇')
+[1568385992012] left click on word 50.1.3 ('夫人')
+[1568385992012] edit 50[0:3]
+[1568385992696] right click on word 50.1.3 ('夫人')
+[1568386053647] right click on word 50.1.4 ('把')
+[1568386060613] left click on word 50.1.4 ('把')
+[1568386060613] edit 50[5:4]
+[1568386062134] left click on word 50.1.4 ('把')
+[1568386062134] del 50.1.4 from 50[5:4]
+[1568386062958] cancel edit
+[1568386062958] add 50.1.4 to 50[5:]
+[1568386064124] right click on word 50.1.4 ('把')
+[1568386065789] left click on word 50.1.4 ('把')
+[1568386065789] edit 50[5:4]
+[1568386066863] left click on word 50.0.5 ('place')
+[1568386066863] del 50.0.5 from 50[5:4]
+[1568386067597] cancel edit
+[1568386067597] add 50.0.5 to 50[:4]
+[1568386068956] left click on word 50.1.4 ('把')
+[1568386068956] edit 50[5:4]
+[1568386070149] left click on word 50.0.5 ('place')
+[1568386070149] del 50.0.5 from 50[5:4]
+[1568386071509] cancel edit
+[1568386071509] add 50.0.5 to 50[:4]
+[1568386072580] left click on word 50.1.4 ('把')
+[1568386072580] edit 50[5:4]
+[1568386073671] left click on word 50.0.5 ('place')
+[1568386073671] del 50.0.5 from 50[5:4]
+[1568386076309] right click on word 50.0.5 ('place')
+[1568386076309] add 50.0.5 to 50[:4]
+[1568386078700] left click on word 50.1.4 ('把')
+[1568386078700] edit 50[5:4]
+[1568386079300] right click on word 50.1.4 ('把')
+[1568386080328] left click on word 50.1.4 ('把')
+[1568386080328] edit 50[5:4]
+[1568386080829] left click on word 50.1.4 ('把')
+[1568386080829] del 50.1.4 from 50[5:4]
+[1568386082124] right click on word 50.1.4 ('把')
+[1568386082124] add 50.1.4 to 50[5:]
+[1568386083014] left click on word 50.1.4 ('把')
+[1568386083014] edit 50[5:4]
+[1568386083622] left click on word 50.1.4 ('把')
+[1568386083622] del 50.1.4 from 50[5:4]
+[1568386084221] cancel edit
+[1568386084222] add 50.1.4 to 50[5:]
+[1568386085735] left click on word 50.1.4 ('把')
+[1568386085735] edit 50[5:4]
+[1568386086474] right click on word 50.1.4 ('把')
+[1568386088295] right click on word 50.0.5 ('place')
+[1568386090207] del 50.0.5 from 50[5:4]
+[1568386091900] right click on word 50.1.4 ('把')
+[1568386093221] label 50[:4] as unaligned_explicitation
+[1568386124078] left click on word 50.1.1 ('指定')
+[1568386124079] new alignment group
+[1568386124079] add 50.1.1 to 50[:]
+[1568386125815] left click on word 50.1.1 ('指定')
+[1568386125815] del 50.1.1 from 50[:1]
+[1568386126525] left click on word 50.1.1 ('指定')
+[1568386126525] add 50.1.1 to 50[:]
+[1568386127509] left click on word 50.0.3 ('instructed')
+[1568386127509] add 50.0.3 to 50[:1]
+[1568386129100] right click on word 50.1.1 ('指定')
+[1568386130140] right click on word 50.1.1 ('指定')
+[1568386131180] label 50[3:1] as modulation
+[1568386143510] left click on word 50.1.6 ('装')
+[1568386143510] new alignment group
+[1568386143510] add 50.1.6 to 50[:]
+[1568386144982] left click on word 50.1.6 ('装')
+[1568386144982] del 50.1.6 from 50[:6]
+[1568386145632] left click on word 50.1.6 ('装')
+[1568386145632] add 50.1.6 to 50[:]
+[1568386146481] left click on word 50.0.5 ('place')
+[1568386146481] add 50.0.5 to 50[:6]
+[1568386149653] right click on word 50.1.6 ('装')
+[1568386153070] left click on word 50.1.7 ('在')
+[1568386153070] edit 50[8:7]
+[1568386161165] left click on word 50.1.7 ('在')
+[1568386161165] del 50.1.7 from 50[8:7]
+[1568386163614] cancel edit
+[1568386163614] add 50.1.7 to 50[8:]
+[1568386164847] left click on word 50.1.7 ('在')
+[1568386164847] edit 50[8:7]
+[1568386165965] left click on word 50.1.11 ('里')
+[1568386165965] add 50.1.11 to 50[8:7]
+[1568386166453] right click on word 50.1.11 ('里')
+[1568386171460] left click on word 50.0.6 ('the')
+[1568386171460] new alignment group
+[1568386171460] add 50.0.6 to 50[:]
+[1568386173326] left click on word 50.1.5 ('钱')
+[1568386173326] del 50.1.5 from 50[7:5]
+[1568386173326] add 50.1.5 to 50[6:]
+[1568386174590] left click on word 50.0.7 ('money')
+[1568386174590] del 50.0.7 from 50[7:]
+[1568386174590] add 50.0.7 to 50[6:5]
+[1568386175124] right click on word 50.0.18 ('door')
+[1568386175124] del 50.0.18 from 50[18:21]
+[1568386175124] add 50.0.18 to 50[6,7:5]
+[1568386176646] left click on word 50.0.18 ('door')
+[1568386176646] edit 50[6,7,18:5]
+[1568386177414] right click on word 50.0.18 ('door')
+[1568386178166] left click on word 50.0.18 ('door')
+[1568386178166] edit 50[6,7,18:5]
+[1568386178631] left click on word 50.0.18 ('door')
+[1568386178631] del 50.0.18 from 50[6,7,18:5]
+[1568386180493] right click on word 50.0.7 ('money')
+[1568386189868] right click on word 50.1.9 ('只')
+[1568386190957] add 50.1.9 to 50[:]
+[1568386190957] label 50[:9] as unaligned_explicitation
+[1568386192205] left click on word 50.1.10 ('纸盒子')
+[1568386192205] new alignment group
+[1568386192205] add 50.1.10 to 50[:]
+[1568386194085] left click on word 50.0.11 ('box')
+[1568386194085] del 50.0.11 from 50[11:16]
+[1568386194085] add 50.0.11 to 50[:10]
+[1568386194886] left click on word 50.0.10 ('cardboard')
+[1568386194886] del 50.0.10 from 50[10:15]
+[1568386194886] add 50.0.10 to 50[11:10]
+[1568386195615] right click on word 50.0.10 ('cardboard')
+[1568386201284] left click on word 50.0.12 ('and')
+[1568386201284] new alignment group
+[1568386201285] add 50.0.12 to 50[:]
+[1568386201927] left click on word 50.0.12 ('and')
+[1568386201927] del 50.0.12 from 50[12:]
+[1568386202548] left click on word 50.0.12 ('and')
+[1568386202548] add 50.0.12 to 50[:]
+[1568386203573] left click on word 50.1.13 ('并')
+[1568386203573] add 50.1.13 to 50[12:]
+[1568386204171] right click on word 50.1.13 ('并')
+[1568386208030] left click on word 50.1.14 ('把')
+[1568386208030] new alignment group
+[1568386208031] add 50.1.14 to 50[:]
+[1568386208606] right click on word 50.1.14 ('把')
+[1568386209589] right click on word 50.1.14 ('把')
+[1568386210749] label 50[:14] as unaligned_explicitation
+[1568386212999] left click on word 50.1.15 ('纸板')
+[1568386212999] edit 50[:15]
+[1568386216113] left click on word 50.1.15 ('纸板')
+[1568386216113] del 50.1.15 from 50[:15]
+[1568386216692] left click on word 50.1.15 ('纸板')
+[1568386216693] add 50.1.15 to 50[:]
+[1568386217615] left click on word 50.1.16 ('盒')
+[1568386217615] del 50.1.16 from 50[:16]
+[1568386217615] add 50.1.16 to 50[:15]
+[1568386218332] left click on word 50.1.15 ('纸板')
+[1568386218332] del 50.1.15 from 50[:15,16]
+[1568386218998] left click on word 50.1.16 ('盒')
+[1568386218998] del 50.1.16 from 50[:16]
+[1568386218998] add 50.1.16 to 50[:]
+[1568386219526] left click on word 50.1.16 ('盒')
+[1568386219526] del 50.1.16 from 50[:16]
+[1568386219526] add 50.1.16 to 50[:]
+[1568386220656] right click on word 50.1.15 ('纸板')
+[1568386220656] add 50.1.15 to 50[:16]
+[1568386222525] left click on word 50.0.15 ('it')
+[1568386222525] new alignment group
+[1568386222525] add 50.0.15 to 50[:]
+[1568386224182] left click on word 50.1.16 ('盒')
+[1568386224182] del 50.1.16 from 50[:16,15]
+[1568386224182] add 50.1.16 to 50[15:]
+[1568386224831] left click on word 50.1.15 ('纸板')
+[1568386224832] del 50.1.15 from 50[:15]
+[1568386224832] add 50.1.15 to 50[15:16]
+[1568386226798] right click on word 50.1.15 ('纸板')
+[1568386380310] right click on word 50.0.3 ('instructed')
+[1568386381517] label 50[3:1] as uncertain
+[1568386391205] right click on word 50.1.15 ('纸板')
+[1568386393901] label 50[15:16,15] as particularization
+[1568386399156] left click on word 50.1.18 ('在')
+[1568386399156] new alignment group
+[1568386399156] add 50.1.18 to 50[:]
+[1568386400044] left click on word 50.1.18 ('在')
+[1568386400044] del 50.1.18 from 50[:18]
+[1568386400583] left click on word 50.1.18 ('在')
+[1568386400584] add 50.1.18 to 50[:]
+[1568386401573] left click on word 50.0.16 ('outside')
+[1568386401573] del 50.0.16 from 50[16:22]
+[1568386401573] add 50.0.16 to 50[:18]
+[1568386402967] left click on word 50.1.22 ('外边')
+[1568386402967] del 50.1.22 from 50[:22]
+[1568386402967] add 50.1.22 to 50[16:18]
+[1568386404021] right click on word 50.1.22 ('外边')
+[1568386408251] right click on word 50.1.17 ('放')
+[1568386413213] label 50[14:17] as equivalence
+[1568386415077] left click on word 50.1.19 ('她')
+[1568386415077] edit 50[17:19]
+[1568386415814] left click on word 50.1.20 ('的')
+[1568386415814] add 50.1.20 to 50[17:19]
+[1568386416093] right click on word 50.1.20 ('的')
+[1568386417424] left click on word 50.1.21 ('门')
+[1568386417424] edit 50[:21]
+[1568386418821] left click on word 50.0.18 ('door')
+[1568386418821] add 50.0.18 to 50[:21]
+[1568386419444] right click on word 50.0.18 ('door')
+[1568386440543] left click on word 51.0.1 ('Sitting')
+[1568386440543] new alignment group
+[1568386440543] add 51.0.1 to 51[:]
+[1568386441220] left click on word 51.0.2 ('and')
+[1568386441220] add 51.0.2 to 51[1:]
+[1568386441692] left click on word 51.0.3 ('waiting')
+[1568386441693] del 51.0.3 from 51[3:4]
+[1568386441693] add 51.0.3 to 51[1,2:]
+[1568386442680] left click on word 51.0.2 ('and')
+[1568386442680] del 51.0.2 from 51[1,2,3:]
+[1568386443867] left click on word 51.1.4 ('等待')
+[1568386443867] del 51.1.4 from 51[:4]
+[1568386443868] add 51.1.4 to 51[1,3:]
+[1568386444726] left click on word 51.0.2 ('and')
+[1568386444726] add 51.0.2 to 51[1,3:4]
+[1568386445125] right click on word 51.0.2 ('and')
+[1568386445853] right click on word 51.0.2 ('and')
+[1568386447154] label 51[1,3,2:4] as uncertain
+[1568386453638] left click on word 51.0.6 ('politics')
+[1568386453638] new alignment group
+[1568386453638] add 51.0.6 to 51[:]
+[1568386454540] left click on word 51.0.5 ('the')
+[1568386454540] add 51.0.5 to 51[6:]
+[1568386455245] left click on word 51.0.6 ('politics')
+[1568386455245] del 51.0.6 from 51[6,5:]
+[1568386455984] left click on word 51.1.5 ('警察')
+[1568386455984] add 51.1.5 to 51[5:]
+[1568386456750] left click on word 51.0.6 ('politics')
+[1568386456750] add 51.0.6 to 51[5:5]
+[1568386457036] right click on word 51.0.6 ('politics')
+[1568386458244] right click on word 51.0.6 ('politics')
+[1568386459727] label 51[5,6:5] as translation_error
+[1568386462056] left click on word 51.0.8 ('fix')
+[1568386462056] new alignment group
+[1568386462056] add 51.0.8 to 51[:]
+[1568386463143] left click on word 51.0.8 ('fix')
+[1568386463143] del 51.0.8 from 51[8:]
+[1568386463851] left click on word 51.0.8 ('fix')
+[1568386463851] add 51.0.8 to 51[:]
+[1568386465318] right click on word 51.0.8 ('fix')
+[1568386467196] left click on word 51.1.7 ('收拾')
+[1568386467196] new alignment group
+[1568386467197] add 51.1.7 to 51[:]
+[1568386469552] left click on word 51.1.7 ('收拾')
+[1568386469552] del 51.1.7 from 51[:7]
+[1568386470231] left click on word 51.1.7 ('收拾')
+[1568386470231] add 51.1.7 to 51[:]
+[1568386471229] left click on word 51.0.8 ('fix')
+[1568386471229] del 51.0.8 from 51[8:]
+[1568386471229] add 51.0.8 to 51[:7]
+[1568386472812] right click on word 51.0.8 ('fix')
+[1568386473934] right click on word 51.0.8 ('fix')
+[1568386479038] label 51[8:7] as equivalence
+[1568386480303] left click on word 51.1.8 ('残局')
+[1568386480303] new alignment group
+[1568386480303] add 51.1.8 to 51[:]
+[1568386481412] left click on word 51.0.9 ('this')
+[1568386481412] add 51.0.9 to 51[:8]
+[1568386482135] right click on word 51.0.9 ('this')
+[1568386483119] right click on word 51.0.9 ('this')
+[1568386490085] label 51[9:8] as generalization
+[1568386530918] left click on word 52.0.7 (''m')
+[1568386530919] new alignment group
+[1568386530919] add 52.0.7 to 52[:]
+[1568386531903] left click on word 52.0.8 ('going')
+[1568386531903] del 52.0.8 from 52[8:10]
+[1568386531903] add 52.0.8 to 52[7:]
+[1568386532582] left click on word 52.0.9 ('to')
+[1568386532582] add 52.0.9 to 52[7,8:]
+[1568386533654] left click on word 52.1.10 ('会')
+[1568386533654] del 52.1.10 from 52[:10]
+[1568386533654] add 52.1.10 to 52[7,8,9:]
+[1568386534245] left click on word 52.1.9 ('不')
+[1568386534245] add 52.1.9 to 52[7,8,9:10]
+[1568386534869] left click on word 52.1.8 ('才')
+[1568386534869] add 52.1.8 to 52[7,8,9:10,9]
+[1568386535140] right click on word 52.1.8 ('才')
+[1568386535797] right click on word 52.1.8 ('才')
+[1568386539237] label 52[7,8,9:10,9,8] as uncertain
+[1568386565071] left click on word 52.0.10 ('schlep')
+[1568386565071] new alignment group
+[1568386565071] add 52.0.10 to 52[:]
+[1568386575957] left click on word 52.1.11 ('开车')
+[1568386575957] add 52.1.11 to 52[10:]
+[1568386581421] left click on word 52.1.13 ('拥堵')
+[1568386581421] add 52.1.13 to 52[10:11]
+[1568386582126] left click on word 52.1.14 ('的')
+[1568386582126] add 52.1.14 to 52[10:11,13]
+[1568386582694] right click on word 52.1.14 ('的')
+[1568386584137] right click on word 52.1.14 ('的')
+[1568386585335] label 52[10:11,13,14] as uncertain
+[1568386591012] right click on word 52.1.2 ('会')
+[1568386600988] left click on word 53.1.0 ('这个')
+[1568386600988] new alignment group
+[1568386600988] add 53.1.0 to 53[:]
+[1568386601909] left click on word 53.0.0 ('The')
+[1568386601910] add 53.0.0 to 53[:0]
+[1568386604199] right click on word 53.1.0 ('这个')
+[1568386605274] right click on word 53.1.0 ('这个')
+[1568386609837] label 53[0:0] as particularization
+[1568386615523] left click on word 53.1.2 ('由')
+[1568386615523] edit 53[4:2]
+[1568386621594] left click on word 53.0.2 ('was')
+[1568386621594] add 53.0.2 to 53[4:2]
+[1568386622109] left click on word 53.0.3 ('protected')
+[1568386622109] add 53.0.3 to 53[4,2:2]
+[1568386622981] left click on word 53.1.11 ('保卫')
+[1568386622981] del 53.1.11 from 53[11:11]
+[1568386622981] add 53.1.11 to 53[4,2,3:2]
+[1568386623493] right click on word 53.1.11 ('保卫')
+[1568386624764] right click on word 53.1.11 ('保卫')
+[1568386626093] label 53[4,2,3:2,11] as uncertain
+[1568386634196] left click on word 53.1.4 ('机动')
+[1568386634196] edit 53[7:4]
+[1568386634757] left click on word 53.1.5 ('的')
+[1568386634757] add 53.1.5 to 53[7:4]
+[1568386635054] right click on word 53.1.5 ('的')
+[1568386636315] right click on word 53.1.5 ('的')
+[1568386643221] left click on word 53.1.6 ('反')
+[1568386643221] new alignment group
+[1568386643221] add 53.1.6 to 53[:]
+[1568386643706] left click on word 53.1.6 ('反')
+[1568386643707] del 53.1.6 from 53[:6]
+[1568386644325] left click on word 53.1.7 ('坦克')
+[1568386644325] del 53.1.7 from 53[8:7]
+[1568386644325] add 53.1.7 to 53[:]
+[1568386645245] left click on word 53.1.6 ('反')
+[1568386645246] add 53.1.6 to 53[:7]
+[1568386645748] left click on word 53.1.7 ('坦克')
+[1568386645749] del 53.1.7 from 53[:7,6]
+[1568386645749] add 53.1.7 to 53[8:]
+[1568386646549] left click on word 53.1.6 ('反')
+[1568386646549] del 53.1.6 from 53[:6]
+[1568386648255] left click on word 53.1.7 ('坦克')
+[1568386648255] del 53.1.7 from 53[8:7]
+[1568386648255] add 53.1.7 to 53[:]
+[1568386649996] left click on word 53.1.7 ('坦克')
+[1568386649996] del 53.1.7 from 53[:7]
+[1568386649996] add 53.1.7 to 53[8:]
+[1568386651117] left click on word 53.1.6 ('反')
+[1568386651117] add 53.1.6 to 53[:]
+[1568386652845] left click on word 53.1.7 ('坦克')
+[1568386652845] del 53.1.7 from 53[8:7]
+[1568386652845] add 53.1.7 to 53[:6]
+[1568386653973] left click on word 53.1.7 ('坦克')
+[1568386653973] del 53.1.7 from 53[:6,7]
+[1568386653973] add 53.1.7 to 53[8:]
+[1568386654677] left click on word 53.1.7 ('坦克')
+[1568386654677] del 53.1.7 from 53[8:7]
+[1568386654677] add 53.1.7 to 53[:6]
+[1568386655656] left click on word 53.1.6 ('反')
+[1568386655656] del 53.1.6 from 53[:6,7]
+[1568386656613] left click on word 53.0.8 ('anti-tank')
+[1568386656613] del 53.0.8 from 53[8:]
+[1568386656613] add 53.0.8 to 53[:7]
+[1568386658262] left click on word 53.1.6 ('反')
+[1568386658262] add 53.1.6 to 53[8:7]
+[1568386659598] right click on word 53.1.6 ('反')
+[1568386664997] left click on word 53.1.8 ('和')
+[1568386664997] new alignment group
+[1568386664997] add 53.1.8 to 53[:]
+[1568386665918] left click on word 53.0.9 ('and')
+[1568386665918] add 53.0.9 to 53[:8]
+[1568386666205] right click on word 53.0.9 ('and')
+[1568386669351] left click on word 53.1.9 ('防空')
+[1568386669351] edit 53[11:9]
+[1568386671439] left click on word 53.0.10 ('air')
+[1568386671439] del 53.0.10 from 53[10:9]
+[1568386671439] add 53.0.10 to 53[11:9]
+[1568386675967] left click on word 53.1.10 ('部队')
+[1568386675967] add 53.1.10 to 53[11,10:9]
+[1568386678078] right click on word 53.1.10 ('部队')
+[1568386685113] left click on word 53.1.10 ('部队')
+[1568386685113] edit 53[11,10:9,10]
+[1568386686055] left click on word 53.1.10 ('部队')
+[1568386686055] del 53.1.10 from 53[11,10:9,10]
+[1568386686958] left click on word 53.0.11 ('defense')
+[1568386686958] del 53.0.11 from 53[11:]
+[1568386686958] add 53.0.11 to 53[11,10:9]
+[1568386694877] left click on word 53.1.10 ('部队')
+[1568386694877] add 53.1.10 to 53[11,10:9]
+[1568386695574] right click on word 53.1.10 ('部队')
+[1568386718524] left click on word 54.1.1 ('蓝')
+[1568386718524] edit 54[2:1]
+[1568386722254] right click on word 54.1.1 ('蓝')
+[1568386723227] left click on word 54.1.2 ('类')
+[1568386723227] edit 54[3:2]
+[1568386723789] right click on word 54.1.2 ('类')
+[1568386725278] left click on word 54.1.0 ('普鲁士')
+[1568386725278] edit 54[1:0]
+[1568386726189] left click on word 54.0.0 ('The')
+[1568386726190] add 54.0.0 to 54[1:0]
+[1568386726533] right click on word 54.0.0 ('The')
+[1568386730438] right click on word 54.1.0 ('普鲁士')
+[1568386734461] label 54[1,0:0] as transposition
+[1568386743423] left click on word 54.1.5 ('磁体')
+[1568386743423] new alignment group
+[1568386743423] add 54.1.5 to 54[:]
+[1568386744749] left click on word 54.1.4 ('铁')
+[1568386744749] add 54.1.4 to 54[:5]
+[1568386745479] left click on word 54.1.3 ('分子')
+[1568386745479] add 54.1.3 to 54[:5,4]
+[1568386746396] left click on word 54.0.4 ('ferromagnets')
+[1568386746396] add 54.0.4 to 54[:5,4,3]
+[1568386747228] right click on word 54.0.4 ('ferromagnets')
+[1568386750661] right click on word 54.1.6 ('是')
+[1568386753389] label 54[5:6] as lexical_shift
+[1568386765276] left click on word 54.1.10 ('用于')
+[1568386765276] edit 54[12:10]
+[1568386771273] left click on word 54.0.11 ('be')
+[1568386771273] add 54.0.11 to 54[12:10]
+[1568386777240] left click on word 54.0.13 ('to')
+[1568386777240] add 54.0.13 to 54[12,11:10]
+[1568386777606] right click on word 54.0.13 ('to')
+[1568386778440] right click on word 54.0.13 ('to')
+[1568386779901] label 54[12,11,13:10] as uncertain
+[1568386793876] right click on word 55.1.0 ('期待')
+[1568386794917] label 55[0:0] as lexical_shift
+[1568386837612] left click on word 55.1.2 ('种情')
+[1568386837613] new alignment group
+[1568386837613] add 55.1.2 to 55[:]
+[1568386838181] right click on word 55.1.2 ('种情')
+[1568386841259] left click on word 55.1.1 ('这')
+[1568386841260] edit 55[3:1]
+[1568386842285] left click on word 55.1.2 ('种情')
+[1568386842285] del 55.1.2 from 55[:2]
+[1568386842285] add 55.1.2 to 55[3:1]
+[1568386843245] left click on word 55.1.3 ('况')
+[1568386843245] add 55.1.3 to 55[3:1,2]
+[1568386844023] left click on word 55.0.4 ('interaction')
+[1568386844023] add 55.0.4 to 55[3:1,2,3]
+[1568386844500] right click on word 55.0.4 ('interaction')
+[1568386845478] right click on word 55.0.4 ('interaction')
+[1568386846710] label 55[3,4:1,2,3] as uncertain
+[1568386853213] left click on word 55.1.8 (',')
+[1568386853213] new alignment group
+[1568386853213] add 55.1.8 to 55[:]
+[1568386855236] left click on word 55.0.7 (',')
+[1568386855236] add 55.0.7 to 55[:8]
+[1568386855724] right click on word 55.0.7 (',')
+[1568386862708] right click on word 55.1.11 ('的')
+[1568386865134] left click on word 55.1.11 ('的')
+[1568386865134] new alignment group
+[1568386865135] add 55.1.11 to 55[:]
+[1568386865749] right click on word 55.1.11 ('的')
+[1568386872348] right click on word 55.1.13 ('这些')
+[1568386880525] label 55[11:13] as uncertain
+[1568386882485] left click on word 55.0.12 ('were')
+[1568386882485] new alignment group
+[1568386882485] add 55.0.12 to 55[:]
+[1568386883549] left click on word 55.1.14 ('是')
+[1568386883549] add 55.1.14 to 55[12:]
+[1568386884100] right click on word 55.1.14 ('是')
+[1568386885205] right click on word 55.1.14 ('是')
+[1568386886477] label 55[12:14] as lexical_shift
+[1568386888069] left click on word 55.1.15 ('小')
+[1568386888069] new alignment group
+[1568386888069] add 55.1.15 to 55[:]
+[1568386888846] left click on word 55.1.16 ('卵石')
+[1568386888846] del 55.1.16 from 55[13:16]
+[1568386888846] add 55.1.16 to 55[:15]
+[1568386889541] left click on word 55.1.15 ('小')
+[1568386889541] del 55.1.15 from 55[:15,16]
+[1568386889991] left click on word 55.1.16 ('卵石')
+[1568386889991] del 55.1.16 from 55[:16]
+[1568386889992] add 55.1.16 to 55[13:]
+[1568386890708] left click on word 55.1.15 ('小')
+[1568386890708] add 55.1.15 to 55[:]
+[1568386891350] right click on word 55.1.15 ('小')
+[1568386892014] left click on word 55.1.16 ('卵石')
+[1568386892014] edit 55[13:16]
+[1568386892933] left click on word 55.1.15 ('小')
+[1568386892933] del 55.1.15 from 55[:15]
+[1568386892933] add 55.1.15 to 55[13:16]
+[1568386893365] right click on word 55.1.15 ('小')
+[1568386895359] left click on word 55.1.17 ('-')
+[1568386895359] new alignment group
+[1568386895359] add 55.1.17 to 55[:]
+[1568386896913] left click on word 55.0.14 ('--')
+[1568386896913] add 55.0.14 to 55[:17]
+[1568386898854] left click on word 55.1.18 ('-')
+[1568386898854] add 55.1.18 to 55[14:17]
+[1568386899279] right click on word 55.1.18 ('-')
+[1568386907294] right click on word 56.0.0 ('because')
+[1568386910701] left click on word 56.0.0 ('because')
+[1568386910701] edit 56[0:0]
+[1568386911637] left click on word 56.1.0 ('对于')
+[1568386911637] del 56.1.0 from 56[0:0]
+[1568386913653] cancel edit
+[1568386913653] add 56.1.0 to 56[0:]
+[1568386914829] left click on word 56.0.0 ('because')
+[1568386914829] edit 56[0:0]
+[1568386916381] left click on word 56.0.0 ('because')
+[1568386916381] del 56.0.0 from 56[0:0]
+[1568386917047] right click on word 56.0.0 ('because')
+[1568386917047] add 56.0.0 to 56[:0]
+[1568386918407] left click on word 56.0.0 ('because')
+[1568386918407] edit 56[0:0]
+[1568386919175] left click on word 56.0.0 ('because')
+[1568386919175] del 56.0.0 from 56[0:0]
+[1568386920517] left click on word 56.1.10 ('的')
+[1568386920517] add 56.1.10 to 56[:0]
+[1568386921381] left click on word 56.1.0 ('对于')
+[1568386921381] del 56.1.0 from 56[:0,10]
+[1568386940775] left click on word 56.0.11 ('a')
+[1568386940775] add 56.0.11 to 56[:10]
+[1568386943581] left click on word 56.1.10 ('的')
+[1568386943581] del 56.1.10 from 56[11:10]
+[1568386944966] left click on word 56.1.3 ('一个')
+[1568386944967] del 56.1.3 from 56[3:3]
+[1568386944967] add 56.1.3 to 56[11:]
+[1568386945710] right click on word 56.1.3 ('一个')
+[1568386946978] right click on word 56.1.3 ('一个')
+[1568386949493] label 56[11:3] as uncertain
+[1568386974013] left click on word 56.1.4 ('案例')
+[1568386974013] new alignment group
+[1568386974013] add 56.1.4 to 56[:]
+[1568386974605] left click on word 56.1.4 ('案例')
+[1568386974605] del 56.1.4 from 56[:4]
+[1568386975392] left click on word 56.0.12 ('project')
+[1568386975392] del 56.0.12 from 56[12:6]
+[1568386975392] add 56.0.12 to 56[:]
+[1568386988748] left click on word 56.1.6 ('项目')
+[1568386988748] del 56.1.6 from 56[:6]
+[1568386988749] add 56.1.6 to 56[12:]
+[1568386989645] right click on word 56.1.6 ('项目')
+[1568387006137] left click on word 56.1.7 ('是')
+[1568387006137] new alignment group
+[1568387006137] add 56.1.7 to 56[:]
+[1568387006908] left click on word 56.1.7 ('是')
+[1568387006908] del 56.1.7 from 56[:7]
+[1568387008821] left click on word 56.0.2 ('was')
+[1568387008821] add 56.0.2 to 56[:]
+[1568387009825] cancel edit
+[1568387010270] left click on word 56.1.7 ('是')
+[1568387010270] new alignment group
+[1568387010270] add 56.1.7 to 56[:]
+[1568387011917] left click on word 56.0.2 ('was')
+[1568387011917] add 56.0.2 to 56[:7]
+[1568387012660] right click on word 56.0.2 ('was')
+[1568387013845] right click on word 56.1.7 ('是')
+[1568387015165] label 56[2:7] as lexical_shift
+[1568387018920] right click on word 56.1.8 ('非常')
+[1568387020127] label 56[4:8] as transposition
+[1568387022277] left click on word 56.1.9 ('荣耀')
+[1568387022277] new alignment group
+[1568387022278] add 56.1.9 to 56[:]
+[1568387023501] left click on word 56.1.9 ('荣耀')
+[1568387023501] del 56.1.9 from 56[:9]
+[1568387024127] left click on word 56.1.9 ('荣耀')
+[1568387024127] add 56.1.9 to 56[:]
+[1568387025543] left click on word 56.0.5 ('privilege')
+[1568387025543] add 56.0.5 to 56[:9]
+[1568387029452] cancel edit
+[1568387031165] left click on word 56.0.5 ('privilege')
+[1568387031165] new alignment group
+[1568387031165] add 56.0.5 to 56[:]
+[1568387032206] left click on word 56.1.9 ('荣耀')
+[1568387032206] add 56.1.9 to 56[5:]
+[1568387032988] right click on word 56.1.9 ('荣耀')
+[1568387043877] left click on word 57.0.2 ('had')
+[1568387043878] new alignment group
+[1568387043878] add 57.0.2 to 57[:]
+[1568387044711] left click on word 57.0.3 ('to')
+[1568387044711] add 57.0.3 to 57[2:]
+[1568387045821] left click on word 57.1.1 ('得')
+[1568387045821] add 57.1.1 to 57[2,3:]
+[1568387046599] right click on word 57.0.2 ('had')
+[1568387047836] right click on word 57.0.2 ('had')
+[1568387049085] label 57[2,3:1] as equivalence
+[1568387053562] right click on word 57.1.4 ('篇')
+[1568387057998] left click on word 57.0.6 ('paper')
+[1568387057998] edit 57[6:4]
+[1568387058791] left click on word 57.0.6 ('paper')
+[1568387058791] del 57.0.6 from 57[6:4]
+[1568387059901] right click on word 57.1.4 ('篇')
+[1568387060581] right click on word 57.1.4 ('篇')
+[1568387061862] label 57[:4] as unaligned_explicitation
+[1568387063133] left click on word 57.1.5 ('演讲')
+[1568387063133] new alignment group
+[1568387063133] add 57.1.5 to 57[:]
+[1568387064094] left click on word 57.0.6 ('paper')
+[1568387064095] add 57.0.6 to 57[:5]
+[1568387065419] right click on word 57.1.5 ('演讲')
+[1568387066517] right click on word 57.1.5 ('演讲')
+[1568387068142] label 57[6:5] as particularization
+[1568387070743] left click on word 57.1.6 ('，')
+[1568387070744] new alignment group
+[1568387070744] add 57.1.6 to 57[:]
+[1568387071966] left click on word 57.0.9 (',')
+[1568387071966] add 57.0.9 to 57[:6]
+[1568387072412] right click on word 57.0.9 (',')
+[1568387079606] left click on word 58.0.1 ('have')
+[1568387079606] edit 58[1:1]
+[1568387080789] left click on word 58.0.2 ('to')
+[1568387080789] add 58.0.2 to 58[1:1]
+[1568387081885] right click on word 58.0.2 ('to')
+[1568387094814] right click on word 58.0.2 ('to')
+[1568387096144] label 58[1,2:1] as equivalence
+[1568387098228] left click on word 58.0.5 ('her')
+[1568387098228] edit 58[5:4]
+[1568387098943] left click on word 58.1.5 ('的')
+[1568387098944] add 58.1.5 to 58[5:4]
+[1568387099245] right click on word 58.1.5 ('的')
+[1568387100245] left click on word 58.0.4 (',')
+[1568387100245] new alignment group
+[1568387100245] add 58.0.4 to 58[:]
+[1568387101238] left click on word 58.1.3 ('，')
+[1568387101238] add 58.1.3 to 58[4:]
+[1568387101564] right click on word 58.1.3 ('，')
+[1568387106373] right click on word 58.0.7 ('backed')
+[1568387107512] label 58[7:10] as uncertain
+[1568387108661] right click on word 58.0.7 ('backed')
+[1568387109830] label 58[7:10] as lexical_shift
+[1568387117413] left click on word 58.0.9 ('from')
+[1568387117413] new alignment group
+[1568387117413] add 58.0.9 to 58[:]
+[1568387121279] left click on word 58.1.7 ('从')
+[1568387121279] del 58.1.7 from 58[11:7]
+[1568387121279] add 58.1.7 to 58[9:]
+[1568387122298] right click on word 58.1.7 ('从')
+[1568387123469] left click on word 58.1.8 ('一开始')
+[1568387123469] new alignment group
+[1568387123469] add 58.1.8 to 58[:]
+[1568387124645] left click on word 58.0.10 ('the')
+[1568387124646] add 58.0.10 to 58[:8]
+[1568387125118] left click on word 58.0.11 ('start')
+[1568387125118] del 58.0.11 from 58[11:]
+[1568387125118] add 58.0.11 to 58[10:8]
+[1568387125560] right click on word 58.0.11 ('start')
+[1568387126733] right click on word 58.1.9 ('就')
+[1568387127638] add 58.1.9 to 58[:]
+[1568387127638] label 58[:9] as unaligned_explicitation
+[1568387132463] left click on word 59.0.0 ('The')
+[1568387132464] new alignment group
+[1568387132464] add 59.0.0 to 59[:]
+[1568387133063] left click on word 59.0.1 ('clue')
+[1568387133063] del 59.0.1 from 59[1:4]
+[1568387133063] add 59.0.1 to 59[0:]
+[1568387134048] left click on word 59.1.4 ('线索')
+[1568387134048] del 59.1.4 from 59[:4]
+[1568387134048] add 59.1.4 to 59[0,1:]
+[1568387134883] right click on word 59.1.4 ('线索')
+[1568387171149] left click on word 60.0.0 ('with')
+[1568387171149] edit 60[0:2]
+[1568387171680] left click on word 60.0.1 ('the')
+[1568387171680] add 60.0.1 to 60[0:2]
+[1568387172173] left click on word 60.0.2 ('help')
+[1568387172173] add 60.0.2 to 60[0,1:2]
+[1568387172813] left click on word 60.0.3 ('of')
+[1568387172813] add 60.0.3 to 60[0,1,2:2]
+[1568387173862] left click on word 60.1.0 ('使用')
+[1568387173862] add 60.1.0 to 60[0,1,2,3:2]
+[1568387174509] left click on word 60.1.2 ('带')
+[1568387174509] del 60.1.2 from 60[0,1,2,3:2,0]
+[1568387175246] right click on word 60.1.0 ('使用')
+[1568387176702] right click on word 60.1.0 ('使用')
+[1568387184879] label 60[0,1,2,3:0] as equivalence
+[1568387187317] left click on word 60.0.4 ('the')
+[1568387187317] new alignment group
+[1568387187317] add 60.0.4 to 60[:]
+[1568387187872] left click on word 60.0.4 ('the')
+[1568387187872] del 60.0.4 from 60[4:]
+[1568387188437] left click on word 60.0.5 ('girdle')
+[1568387188437] add 60.0.5 to 60[:]
+[1568387189053] left click on word 60.0.4 ('the')
+[1568387189053] add 60.0.4 to 60[5:]
+[1568387190053] left click on word 60.1.1 ('肢')
+[1568387190053] add 60.1.1 to 60[5,4:]
+[1568387190621] left click on word 60.1.2 ('带')
+[1568387190621] add 60.1.2 to 60[5,4:1]
+[1568387191220] right click on word 60.1.2 ('带')
+[1568387194878] left click on word 60.0.7 ('an')
+[1568387194878] new alignment group
+[1568387194878] add 60.0.7 to 60[:]
+[1568387195830] left click on word 60.0.8 ('ACE')
+[1568387195830] add 60.0.8 to 60[7:]
+[1568387196997] left click on word 60.0.9 ('bandage')
+[1568387196997] del 60.0.9 from 60[9:5]
+[1568387196997] add 60.0.9 to 60[7,8:]
+[1568387197781] left click on word 60.1.4 ('ACE')
+[1568387197781] add 60.1.4 to 60[7,8,9:]
+[1568387198372] left click on word 60.1.5 ('绷带')
+[1568387198372] del 60.1.5 from 60[:5]
+[1568387198373] add 60.1.5 to 60[7,8,9:4]
+[1568387198995] right click on word 60.1.5 ('绷带')
+[1568482607337] NEW SESSION
+[1568482712629] left click on word 48.0.4 ('he')
+[1568482712629] new alignment group
+[1568482712629] add 48.0.4 to 48[:]
+[1568482713767] cancel edit
+[1568482800891] right click on word 52.1.0 ('很多')
+[1568482803778] label 52[0:0] as uncertain
+[1568482805510] left click on word 52.1.0 ('很多')
+[1568482805510] edit 52[0:0]
+[1568482807418] left click on word 52.1.0 ('很多')
+[1568482807418] del 52.1.0 from 52[0:0]
+[1568482808254] right click on word 52.1.0 ('很多')
+[1568482808255] add 52.1.0 to 52[0:]
+[1568482810212] left click on word 52.1.0 ('很多')
+[1568482810212] edit 52[0:0]
+[1568482810843] right click on word 52.1.0 ('很多')
+[1568482813026] right click on word 52.1.0 ('很多')
+[1568482814881] label 52[0:0] as translation_error
+[1568482879527] left click on word 54.0.2 ('blue')
+[1568482879527] edit 54[2:1]
+[1568482880861] left click on word 54.0.1 ('Prussian')
+[1568482880862] del 54.0.1 from 54[1,0:0]
+[1568482880862] add 54.0.1 to 54[2:1]
+[1568482881717] left click on word 54.1.1 ('蓝')
+[1568482881717] del 54.1.1 from 54[2,1:1]
+[1568482882309] left click on word 54.1.1 ('蓝')
+[1568482882309] add 54.1.1 to 54[2,1:]
+[1568482883077] left click on word 54.1.2 ('类')
+[1568482883077] del 54.1.2 from 54[3:2]
+[1568482883078] add 54.1.2 to 54[2,1:1]
+[1568482883591] left click on word 54.1.0 ('普鲁士')
+[1568482883591] del 54.1.0 from 54[0:0]
+[1568482883592] add 54.1.0 to 54[2,1:1,2]
+[1568482884924] right click on word 54.1.0 ('普鲁士')
+[1568482885735] right click on word 54.1.0 ('普鲁士')
+[1568482886966] label 54[2,1:1,2,0] as uncertain
+[1568482936766] right click on word 54.1.14 ('类')
+[1568482937767] add 54.1.14 to 54[:]
+[1568482937768] label 54[:14] as unaligned_explicitation
+[1572715087950] NEW SESSION
+[1572715102213] left click on word 44.0.4 (',')
+[1572715102213] new alignment group
+[1572715102213] add 44.0.4 to 44[:]
+[1572715102902] left click on word 44.1.5 ('，')
+[1572715102902] add 44.1.5 to 44[4:]
+[1572715103310] right click on word 44.1.5 ('，')
+[1572715191273] left click on word 46.0.3 ('powers')
+[1572715191273] edit 46[3:4]
+[1572715192078] left click on word 46.1.4 ('，')
+[1572715192078] del 46.1.4 from 46[3:4]
+[1572715197375] left click on word 46.0.5 ('resistance')
+[1572715197376] del 46.0.5 from 46[5:1,2]
+[1572715197376] add 46.0.5 to 46[3:]
+[1572715198718] left click on word 46.1.1 ('抗病力')
+[1572715198718] del 46.1.1 from 46[:1,2]
+[1572715198718] add 46.1.1 to 46[3,5:]
+[1572715199742] left click on word 46.0.3 ('powers')
+[1572715199742] del 46.0.3 from 46[3,5:1]
+[1572715201182] right click on word 46.0.5 ('resistance')
+[1572715205069] right click on word 46.0.5 ('resistance')
+[1572715207214] label 46[5:1] as particularization
+[1572715209566] left click on word 46.1.2 ('很')
+[1572715209566] edit 46[:2]
+[1572715210902] left click on word 46.0.2 ('great')
+[1572715210902] del 46.0.2 from 46[2:3]
+[1572715210902] add 46.0.2 to 46[:2]
+[1572715211601] right click on word 46.0.2 ('great')
+[1572715212076] right click on word 46.0.2 ('great')
+[1572715212967] label 46[2:2] as transposition
+[1572715215680] left click on word 46.0.3 ('powers')
+[1572715215680] new alignment group
+[1572715215680] add 46.0.3 to 46[:]
+[1572715216437] left click on word 46.0.5 ('resistance')
+[1572715216437] del 46.0.5 from 46[5:1]
+[1572715216437] add 46.0.5 to 46[3:]
+[1572715217207] left click on word 46.0.4 ('of')
+[1572715217207] add 46.0.4 to 46[3,5:]
+[1572715217631] left click on word 46.0.3 ('powers')
+[1572715217631] del 46.0.3 from 46[3,5,4:]
+[1572715217632] add 46.0.3 to 46[:1]
+[1572715218309] left click on word 46.1.1 ('抗病力')
+[1572715218309] del 46.1.1 from 46[3:1]
+[1572715218310] add 46.1.1 to 46[5,4:]
+[1572715219254] left click on word 46.0.4 ('of')
+[1572715219254] del 46.0.4 from 46[5,4:1]
+[1572715219855] left click on word 46.0.3 ('powers')
+[1572715219855] del 46.0.3 from 46[3:]
+[1572715219855] add 46.0.3 to 46[5:1]
+[1572715220391] left click on word 46.0.4 ('of')
+[1572715220392] add 46.0.4 to 46[5,3:1]
+[1572715220885] right click on word 46.0.4 ('of')
+[1572715221358] right click on word 46.0.4 ('of')
+[1572715224633] label 46[5,3,4:1] as lexical_shift
+[1572715230742] left click on word 46.1.3 ('强')
+[1572715230742] edit 46[:3]
+[1572715232046] left click on word 46.0.2 ('great')
+[1572715232046] del 46.0.2 from 46[2:2]
+[1572715232046] add 46.0.2 to 46[:3]
+[1572715233101] left click on word 46.1.2 ('很')
+[1572715233101] del 46.1.2 from 46[:2]
+[1572715233101] add 46.1.2 to 46[2:3]
+[1572715236326] right click on word 46.1.2 ('很')
+[1572715242943] left click on word 46.1.5 ('很快')
+[1572715242943] new alignment group
+[1572715242943] add 46.1.5 to 46[:]
+[1572715244237] left click on word 46.0.10 ('quickly')
+[1572715244237] del 46.0.10 from 46[10:6]
+[1572715244237] add 46.0.10 to 46[:5]
+[1572715245104] right click on word 46.0.10 ('quickly')
+[1572715254737] left click on word 46.0.7 ('will')
+[1572715254737] edit 46[7:8]
+[1572715256063] left click on word 46.1.7 ('会')
+[1572715256063] del 46.1.7 from 46[:7]
+[1572715256063] add 46.1.7 to 46[7:8]
+[1572715257101] left click on word 46.1.8 ('康复')
+[1572715257101] del 46.1.8 from 46[7:8,7]
+[1572715257709] right click on word 46.1.7 ('会')
+[1572715258406] left click on word 46.1.8 ('康复')
+[1572715258406] new alignment group
+[1572715258406] add 46.1.8 to 46[:]
+[1572715259215] left click on word 46.0.8 ('get')
+[1572715259215] del 46.0.8 from 46[9,8:9]
+[1572715259216] add 46.0.8 to 46[:8]
+[1572715259732] left click on word 46.0.9 ('well')
+[1572715259732] del 46.0.9 from 46[9:9]
+[1572715259733] add 46.0.9 to 46[8:8]
+[1572715260399] right click on word 46.0.9 ('well')
+[1572715277093] right click on word 47.1.0 ('它')
+[1572715303656] label 47[0:0] as particularization
+[1572715306965] right click on word 47.1.1 ('喜欢')
+[1572715308797] label 47[1:1] as lexical_shift
+[1572715315045] left click on word 47.0.4 ('birds')
+[1572715315045] edit 47[4:16]
+[1572715315768] left click on word 47.0.3 ('the')
+[1572715315768] add 47.0.3 to 47[4:16]
+[1572715317168] left click on word 47.1.16 ('。')
+[1572715317168] del 47.1.16 from 47[15:16]
+[1572715317168] add 47.1.16 to 47[4,3:16]
+[1572715327183] left click on word 47.1.15 ('鸟')
+[1572715327183] add 47.1.15 to 47[4,3:16]
+[1572715328360] left click on word 47.1.16 ('。')
+[1572715328360] del 47.1.16 from 47[4,3:16,15]
+[1572715328360] add 47.1.16 to 47[15:]
+[1572715329078] right click on word 47.1.15 ('鸟')
+[1572715329561] right click on word 47.1.15 ('鸟')
+[1572715330751] label 47[4,3:15] as lexical_shift
+[1572715338584] left click on word 47.0.6 ('attracted')
+[1572715338584] edit 47[6:11]
+[1572715339527] left click on word 47.1.11 ('到')
+[1572715339527] del 47.1.11 from 47[6:11]
+[1572715340126] left click on word 47.1.10 ('吸引')
+[1572715340126] del 47.1.10 from 47[14:9,10]
+[1572715340126] add 47.1.10 to 47[6:]
+[1572715345125] right click on word 47.1.10 ('吸引')
+[1572715346186] right click on word 47.1.10 ('吸引')
+[1572715348326] label 47[6:10] as lexical_shift
+[1572715349565] left click on word 47.1.11 ('到')
+[1572715349565] new alignment group
+[1572715349566] add 47.1.11 to 47[:]
+[1572715350509] left click on word 47.0.7 ('to')
+[1572715350510] add 47.0.7 to 47[:11]
+[1572715351005] right click on word 47.0.7 ('to')
+[1572715352720] left click on word 47.0.9 ('yard')
+[1572715352720] edit 47[9:13]
+[1572715353358] left click on word 47.1.12 ('院子')
+[1572715353359] add 47.1.12 to 47[9:13]
+[1572715354349] left click on word 47.1.13 ('里')
+[1572715354349] del 47.1.13 from 47[9:13,12]
+[1572715355038] right click on word 47.1.12 ('院子')
+[1572715359321] left click on word 47.1.11 ('到')
+[1572715359321] edit 47[7:11]
+[1572715361141] left click on word 47.1.13 ('里')
+[1572715361141] add 47.1.13 to 47[7:11]
+[1572715364447] left click on word 47.1.13 ('里')
+[1572715364447] del 47.1.13 from 47[7:11,13]
+[1572715364447] add 47.1.13 to 47[9:12]
+[1572715367596] right click on word 47.1.11 ('到')
+[1572715369054] left click on word 47.1.12 ('院子')
+[1572715369054] edit 47[9:12,13]
+[1572715369807] left click on word 47.1.13 ('里')
+[1572715369807] del 47.1.13 from 47[9:12,13]
+[1572715370438] right click on word 47.1.12 ('院子')
+[1572715373110] left click on word 47.0.10 ('with')
+[1572715373110] new alignment group
+[1572715373110] add 47.0.10 to 47[:]
+[1572715374263] left click on word 47.1.4 ('用')
+[1572715374263] add 47.1.4 to 47[10:]
+[1572715374616] right click on word 47.1.4 ('用')
+[1572715377678] left click on word 47.1.6 ('喂食器')
+[1572715377678] edit 47[12:7,6]
+[1572715378413] left click on word 47.1.7 ('和')
+[1572715378414] del 47.1.7 from 47[12:7,6]
+[1572715379101] right click on word 47.1.6 ('喂食器')
+[1572715379824] left click on word 47.1.7 ('和')
+[1572715379824] new alignment group
+[1572715379824] add 47.1.7 to 47[:]
+[1572715380863] left click on word 47.0.13 ('and')
+[1572715380863] del 47.0.13 from 47[13:8]
+[1572715380863] add 47.0.13 to 47[:7]
+[1572715381164] right click on word 47.0.13 ('and')
+[1572715381773] left click on word 47.0.14 ('birdbaths')
+[1572715381773] edit 47[14:9]
+[1572715383252] left click on word 47.1.8 ('鸟')
+[1572715383252] del 47.1.8 from 47[:8]
+[1572715383252] add 47.1.8 to 47[14:9]
+[1572715383757] right click on word 47.1.8 ('鸟')
+[1572715384359] right click on word 47.1.8 ('鸟')
+[1572715385969] label 47[14:9,8] as lexical_shift
+[1572715393670] right click on word 47.1.3 ('我们')
+[1572715394606] label 47[5:3] as literal
+[1572715410517] left click on word 49.0.2 ('the')
+[1572715410517] edit 49[4,3,2:7,6]
+[1572715411773] left click on word 49.1.7 ('，')
+[1572715411774] del 49.1.7 from 49[4,3,2:7,6]
+[1572715414902] left click on word 49.0.3 ('cure')
+[1572715414902] del 49.0.3 from 49[4,3,2:6]
+[1572715416230] right click on word 49.1.6 ('效果')
+[1572715416910] left click on word 49.1.5 ('治疗')
+[1572715416910] edit 49[5:5]
+[1572715417828] left click on word 49.0.3 ('cure')
+[1572715417828] add 49.0.3 to 49[5:5]
+[1572715418912] left click on word 49.0.5 ('of')
+[1572715418912] del 49.0.5 from 49[5,3:5]
+[1572715419680] right click on word 49.1.5 ('治疗')
+[1572715421031] left click on word 49.1.4 ('的')
+[1572715421031] edit 49[6:4,3,2]
+[1572715422758] left click on word 49.1.3 ('感染')
+[1572715422759] del 49.1.3 from 49[6:4,3,2]
+[1572715423301] left click on word 49.1.2 ('生殖道')
+[1572715423301] del 49.1.2 from 49[6:4,2]
+[1572715424079] left click on word 49.0.6 ('RTIs')
+[1572715424079] del 49.0.6 from 49[6:4]
+[1572715424804] left click on word 49.0.5 ('of')
+[1572715424804] add 49.0.5 to 49[:4]
+[1572715425736] right click on word 49.0.5 ('of')
+[1572715427182] left click on word 49.0.6 ('RTIs')
+[1572715427182] new alignment group
+[1572715427182] add 49.0.6 to 49[:]
+[1572715428077] left click on word 49.1.3 ('感染')
+[1572715428077] add 49.1.3 to 49[6:]
+[1572715428565] left click on word 49.1.2 ('生殖道')
+[1572715428565] add 49.1.2 to 49[6:3]
+[1572715429113] right click on word 49.1.2 ('生殖道')
+[1572715431767] right click on word 49.1.4 ('的')
+[1572715432686] label 49[5:4] as literal
+[1572715433950] left click on word 49.1.7 ('，')
+[1572715433950] new alignment group
+[1572715433950] add 49.1.7 to 49[:]
+[1572715434806] left click on word 49.0.7 (',')
+[1572715434806] add 49.0.7 to 49[:7]
+[1572715435373] right click on word 49.0.7 (',')
+[1572715437982] left click on word 49.0.9 ('must')
+[1572715437982] edit 49[9:9]
+[1572715439104] left click on word 49.1.8 ('必须')
+[1572715439104] add 49.1.8 to 49[9:9]
+[1572715440837] left click on word 49.1.9 ('针对')
+[1572715440837] del 49.1.9 from 49[9:9,8]
+[1572715443389] left click on word 49.0.10 ('be')
+[1572715443389] add 49.0.10 to 49[9:8]
+[1572715444174] left click on word 49.0.10 ('be')
+[1572715444174] del 49.0.10 from 49[9,10:8]
+[1572715449575] right click on word 49.0.9 ('must')
+[1572715454590] left click on word 49.1.9 ('针对')
+[1572715454590] new alignment group
+[1572715454590] add 49.1.9 to 49[:]
+[1572715457725] left click on word 49.0.13 ('at')
+[1572715457725] add 49.0.13 to 49[:9]
+[1572715458343] left click on word 49.0.12 ('aiming')
+[1572715458343] del 49.0.12 from 49[12:10]
+[1572715458343] add 49.0.12 to 49[13:9]
+[1572715459386] right click on word 49.0.12 ('aiming')
+[1572715460100] right click on word 49.0.12 ('aiming')
+[1572715461110] label 49[13,12:9] as lexical_shift
+[1572715462247] left click on word 49.1.10 ('病原体')
+[1572715462247] edit 49[:10]
+[1572715463061] left click on word 49.0.14 ('pathogens')
+[1572715463061] del 49.0.14 from 49[14:11]
+[1572715463061] add 49.0.14 to 49[:10]
+[1572715463572] right click on word 49.0.14 ('pathogens')
+[1572715464191] right click on word 49.0.14 ('pathogens')
+[1572715467246] label 49[14:10] as lexical_shift
+[1572715471949] left click on word 49.1.12 ('合理')
+[1572715471949] new alignment group
+[1572715471949] add 49.1.12 to 49[:]
+[1572715473036] left click on word 49.0.10 ('be')
+[1572715473036] add 49.0.10 to 49[:12]
+[1572715474709] left click on word 49.0.11 ('reasonable')
+[1572715474709] del 49.0.11 from 49[11:13]
+[1572715474709] add 49.0.11 to 49[10:12]
+[1572715477965] right click on word 49.1.12 ('合理')
+[1572715479371] right click on word 49.1.12 ('合理')
+[1572715481256] label 49[10,11:12] as transposition
+[1572715487829] left click on word 49.1.13 ('用药')
+[1572715487829] edit 49[:13]
+[1572715488726] left click on word 49.0.8 ('administration')
+[1572715488726] del 49.0.8 from 49[8:14]
+[1572715488726] add 49.0.8 to 49[:13]
+[1572715489494] right click on word 49.0.8 ('administration')
+[1572715490111] right click on word 49.0.8 ('administration')
+[1572715495757] label 49[8:13] as literal
+[1572715511496] right click on word 49.1.13 ('用药')
+[1572715513831] label 49[8:13] as particularization
+[1572715536174] left click on word 50.0.2 ('was')
+[1572715536174] new alignment group
+[1572715536174] add 50.0.2 to 50[:]
+[1572715536799] left click on word 50.0.3 ('instructed')
+[1572715536799] del 50.0.3 from 50[3:1]
+[1572715536799] add 50.0.3 to 50[2:]
+[1572715537454] left click on word 50.0.4 ('to')
+[1572715537454] add 50.0.4 to 50[2,3:]
+[1572715538287] left click on word 50.1.1 ('指定')
+[1572715538287] del 50.1.1 from 50[:1]
+[1572715538287] add 50.1.1 to 50[2,3,4:]
+[1572715539636] right click on word 50.1.1 ('指定')
+[1572715540501] right click on word 50.1.1 ('指定')
+[1572715542832] label 50[2,3,4:1] as modulation
+[1572715546271] left click on word 50.0.5 ('place')
+[1572715546271] edit 50[5:6]
+[1572715547374] left click on word 50.1.4 ('把')
+[1572715547374] del 50.1.4 from 50[:4]
+[1572715547374] add 50.1.4 to 50[5:6]
+[1572715549630] left click on word 50.1.7 ('在')
+[1572715549630] del 50.1.7 from 50[8:7,11]
+[1572715549630] add 50.1.7 to 50[5:6,4]
+[1572715551296] left click on word 50.1.11 ('里')
+[1572715551296] del 50.1.11 from 50[8:11]
+[1572715551296] add 50.1.11 to 50[5:6,4,7]
+[1572715554040] left click on word 50.0.8 ('in')
+[1572715554040] del 50.0.8 from 50[8:]
+[1572715554040] add 50.0.8 to 50[5:6,4,7,11]
+[1572715554880] right click on word 50.0.8 ('in')
+[1572715582422] left click on word 50.0.14 ('leave')
+[1572715582422] edit 50[14:17]
+[1572715583928] left click on word 50.1.14 ('把')
+[1572715583928] del 50.1.14 from 50[:14]
+[1572715583929] add 50.1.14 to 50[14:17]
+[1572715585182] left click on word 50.1.16 ('放')
+[1572715585182] del 50.1.16 from 50[15:16,15]
+[1572715585182] add 50.1.16 to 50[14:17,14]
+[1572715591218] right click on word 50.1.16 ('放')
+[1572715593989] right click on word 50.1.15 ('纸板盒')
+[1572715595582] label 50[15:15] as particularization
+[1572715601327] left click on word 50.1.18 ('她')
+[1572715601327] edit 50[16:18,22]
+[1572715602095] left click on word 50.1.19 ('的')
+[1572715602095] del 50.1.19 from 50[17:19,20]
+[1572715602095] add 50.1.19 to 50[16:18,22]
+[1572715603574] left click on word 50.0.16 ('outside')
+[1572715603574] del 50.0.16 from 50[16:18,22,19]
+[1572715604326] left click on word 50.1.22 ('。')
+[1572715604326] del 50.1.22 from 50[19:22]
+[1572715604326] add 50.1.22 to 50[:18,22,19]
+[1572715605038] left click on word 50.0.17 ('her')
+[1572715605038] del 50.0.17 from 50[17:20]
+[1572715605038] add 50.0.17 to 50[:18,22,19]
+[1572715606590] left click on word 50.1.22 ('。')
+[1572715606590] del 50.1.22 from 50[17:18,22,19]
+[1572715606590] add 50.1.22 to 50[19:]
+[1572715607559] right click on word 50.0.17 ('her')
+[1572715608479] left click on word 50.0.18 ('door')
+[1572715608479] edit 50[18:21]
+[1572715610048] left click on word 50.1.20 ('门')
+[1572715610048] del 50.1.20 from 50[:20]
+[1572715610048] add 50.1.20 to 50[18:21]
+[1572715610726] left click on word 50.1.21 ('外边')
+[1572715610726] del 50.1.21 from 50[18:21,20]
+[1572715611686] right click on word 50.1.20 ('门')
+[1572715617826] left click on word 50.1.21 ('外边')
+[1572715617826] new alignment group
+[1572715617826] add 50.1.21 to 50[:]
+[1572715618912] left click on word 50.0.16 ('outside')
+[1572715618912] add 50.0.16 to 50[:21]
+[1572715619445] right click on word 50.0.16 ('outside')
+[1572715659322] left click on word 50.0.14 ('leave')
+[1572715659322] edit 50[14:17,14,16]
+[1572715662530] left click on word 50.0.16 ('outside')
+[1572715662530] del 50.0.16 from 50[16:21]
+[1572715662530] add 50.0.16 to 50[14:17,14,16]
+[1572715663924] left click on word 50.1.21 ('外边')
+[1572715663924] del 50.1.21 from 50[:21]
+[1572715663925] add 50.1.21 to 50[14,16:17,14,16]
+[1572715668024] right click on word 50.1.21 ('外边')
+[1572715695335] left click on word 54.0.1 ('Prussian')
+[1572715695335] edit 54[2,1:1,2,0]
+[1572715696150] left click on word 54.0.0 ('The')
+[1572715696150] del 54.0.0 from 54[0:]
+[1572715696150] add 54.0.0 to 54[2,1:1,2,0]
+[1572715696760] right click on word 54.0.0 ('The')
+[1572715704552] right click on word 54.0.4 ('ferromagnets')
+[1572715706013] label 54[4:5,4,3] as lexical_shift
+[1572715720265] right click on word 54.0.5 ('are')
+[1572715721391] label 54[5:6] as literal
+[1572715724438] left click on word 54.0.6 ('the')
+[1572715724438] new alignment group
+[1572715724438] add 54.0.6 to 54[:]
+[1572715725567] left click on word 54.0.9 ('system')
+[1572715725567] del 54.0.9 from 54[9:15]
+[1572715725567] add 54.0.9 to 54[6:]
+[1572715726822] left click on word 54.1.15 ('体系')
+[1572715726823] del 54.1.15 from 54[:15]
+[1572715726823] add 54.1.15 to 54[6,9:]
+[1572715727823] right click on word 54.0.9 ('system')
+[1572715765768] left click on word 54.1.13 ('一')
+[1572715765768] new alignment group
+[1572715765768] add 54.1.13 to 54[:]
+[1572715770495] left click on word 54.1.14 ('类')
+[1572715770495] del 54.1.14 from 54[:14]
+[1572715770495] add 54.1.14 to 54[:13]
+[1572715802104] cancel edit
+[1572715802104] add 54.1.14 to 54[:]
+[1572715820455] left click on word 55.1.12 (',')
+[1572715820455] new alignment group
+[1572715820455] add 55.1.12 to 55[:]
+[1572715821533] left click on word 55.0.10 (',')
+[1572715821534] add 55.0.10 to 55[:12]
+[1572715821965] right click on word 55.0.10 (',')
+[1572715830909] right click on word 55.0.11 ('they')
+[1572715832292] label 55[11:13] as particularization
+[1572715836221] right click on word 55.1.16 ('卵石')
+[1572715837965] label 55[13:16,15] as lexical_shift
+[1572715841533] left click on word 55.1.5 ('-')
+[1572715841533] new alignment group
+[1572715841533] add 55.1.5 to 55[:]
+[1572715842229] left click on word 55.1.6 ('-')
+[1572715842229] add 55.1.6 to 55[:5]
+[1572715843472] left click on word 55.0.5 ('--')
+[1572715843472] add 55.0.5 to 55[:5,6]
+[1572715844019] right click on word 55.0.5 ('--')
+[1572715847948] left click on word 55.1.0 ('期待')
+[1572715847948] edit 55[0:0]
+[1572715849094] left click on word 55.0.1 ('for')
+[1572715849094] add 55.0.1 to 55[0:0]
+[1572715850221] right click on word 55.0.1 ('for')
+[1572715852798] left click on word 55.1.2 ('种')
+[1572715852798] edit 55[3,4:1,2,3]
+[1572715853719] left click on word 55.1.3 ('情况')
+[1572715853719] del 55.1.3 from 55[3,4:1,2,3]
+[1572715854397] left click on word 55.0.4 ('interaction')
+[1572715854397] del 55.0.4 from 55[3,4:1,2]
+[1572715855223] right click on word 55.0.3 ('this')
+[1572715855677] right click on word 55.0.3 ('this')
+[1572715856653] label 55[3:1,2] as literal
+[1572715857854] left click on word 55.1.3 ('情况')
+[1572715857854] new alignment group
+[1572715857854] add 55.1.3 to 55[:]
+[1572715858647] left click on word 55.0.4 ('interaction')
+[1572715858647] add 55.0.4 to 55[:3]
+[1572715859252] right click on word 55.0.4 ('interaction')
+[1572715860134] right click on word 55.0.4 ('interaction')
+[1572715864525] label 55[4:3] as generalization
+[1572715895382] right click on word 56.1.4 ('个')
+[1572715896206] add 56.1.4 to 56[:]
+[1572715896206] label 56[:4] as unaligned_explicitation
+[1572715896920] left click on word 56.1.5 ('案例')
+[1572715896920] new alignment group
+[1572715896920] add 56.1.5 to 56[:]
+[1572715897950] left click on word 56.0.12 ('project')
+[1572715897950] del 56.0.12 from 56[12:6]
+[1572715897950] add 56.0.12 to 56[:5]
+[1572715899390] right click on word 56.0.12 ('project')
+[1572715920422] left click on word 56.0.6 ('to')
+[1572715920422] new alignment group
+[1572715920422] add 56.0.6 to 56[:]
+[1572715921630] left click on word 56.1.0 ('对于')
+[1572715921631] add 56.1.0 to 56[6:]
+[1572715922007] right click on word 56.1.0 ('对于')
+[1572715937085] left click on word 56.1.7 ('项目')
+[1572715937086] edit 56[2:7]
+[1572715937844] left click on word 56.0.2 ('was')
+[1572715937844] del 56.0.2 from 56[2:7]
+[1572715938957] left click on word 56.0.11 ('a')
+[1572715938958] del 56.0.11 from 56[11:3]
+[1572715938958] add 56.0.11 to 56[:7]
+[1572715939702] left click on word 56.0.12 ('project')
+[1572715939703] del 56.0.12 from 56[12:5]
+[1572715939703] add 56.0.12 to 56[11:7]
+[1572715940433] right click on word 56.0.12 ('project')
+[1572715940854] right click on word 56.0.12 ('project')
+[1572715941751] label 56[11,12:7] as literal
+[1572715944876] left click on word 56.1.5 ('案例')
+[1572715944876] edit 56[:5]
+[1572715945606] cancel edit
+[1572715980742] right click on word 56.1.4 ('个')
+[1572715985189] del 56.1.4 from 56[:4]
+[1572715997486] left click on word 56.0.12 ('project')
+[1572715997486] edit 56[11,12:7]
+[1572715998375] left click on word 56.0.11 ('a')
+[1572715998375] del 56.0.11 from 56[11,12:7]
+[1572715999271] right click on word 56.0.12 ('project')
+[1572716000167] left click on word 56.0.11 ('a')
+[1572716000167] new alignment group
+[1572716000167] add 56.0.11 to 56[:]
+[1572716001135] left click on word 56.1.3 ('一')
+[1572716001135] del 56.1.3 from 56[:3]
+[1572716001135] add 56.1.3 to 56[11:]
+[1572716001461] right click on word 56.1.3 ('一')
+[1572716002534] right click on word 56.1.4 ('个')
+[1572716003337] add 56.1.4 to 56[:]
+[1572716003337] label 56[:4] as unaligned_explicitation
+[1572716009276] left click on word 56.1.8 ('是')
+[1572716009276] edit 56[4:8]
+[1572716010279] left click on word 56.0.4 ('huge')
+[1572716010279] del 56.0.4 from 56[4:8]
+[1572716010999] left click on word 56.0.2 ('was')
+[1572716010999] add 56.0.2 to 56[:8]
+[1572716011661] right click on word 56.0.2 ('was')
+[1572716013326] right click on word 56.1.8 ('是')
+[1572716015574] label 56[2:8] as lexical_shift
+[1572716018587] left click on word 56.1.9 ('非常')
+[1572716018587] edit 56[5:9]
+[1572716019286] left click on word 56.0.5 ('privilege')
+[1572716019286] del 56.0.5 from 56[5:9]
+[1572716020625] left click on word 56.0.4 ('huge')
+[1572716020625] add 56.0.4 to 56[:9]
+[1572716021447] right click on word 56.0.4 ('huge')
+[1572716022205] right click on word 56.0.4 ('huge')
+[1572716023447] label 56[4:9] as transposition
+[1572716024750] left click on word 56.1.10 ('荣耀')
+[1572716024750] new alignment group
+[1572716024750] add 56.1.10 to 56[:]
+[1572716025560] left click on word 56.0.5 ('privilege')
+[1572716025560] add 56.0.5 to 56[:10]
+[1572716026134] right click on word 56.0.5 ('privilege')
+[1572716031912] right click on word 56.1.10 ('荣耀')
+[1572716032982] label 56[5:10] as transposition
+[1572716147253] right click on word 60.0.1 ('the')
+[1572716151504] label 60[0,1,2,3:0] as particularization
+[1572716161436] left click on word 60.0.5 ('girdle')
+[1572716161436] edit 60[5,4:1,2]
+[1572716162424] left click on word 60.1.2 ('和')
+[1572716162424] del 60.1.2 from 60[5,4:1,2]
+[1572716163055] right click on word 60.1.1 ('肢带')
+[1572716163852] left click on word 60.1.2 ('和')
+[1572716163852] new alignment group
+[1572716163853] add 60.1.2 to 60[:]
+[1572716164734] left click on word 60.0.6 ('and')
+[1572716164734] del 60.0.6 from 60[6:3]
+[1572716164734] add 60.0.6 to 60[:2]
+[1572716165350] right click on word 60.0.6 ('and')
+[1572716167397] left click on word 60.0.7 ('an')
+[1572716167397] edit 60[7,8,9:4,5]
+[1572716172115] left click on word 60.0.8 ('ACE')
+[1572716172115] del 60.0.8 from 60[7,8,9:4,5]
+[1572716173199] left click on word 60.1.5 ('将')
+[1572716173199] del 60.1.5 from 60[7,9:4,5]
+[1572716173831] right click on word 60.1.4 ('绷带')
+[1572716174789] left click on word 60.0.8 ('ACE')
+[1572716174789] new alignment group
+[1572716174789] add 60.0.8 to 60[:]
+[1572716175805] left click on word 60.1.3 ('ACE')
+[1572716175805] del 60.1.3 from 60[:3]
+[1572716175805] add 60.1.3 to 60[8:]
+[1572716176197] right click on word 60.1.3 ('ACE')
+[1572716197007] right click on word 60.1.0 ('使用')
+[1572716199000] label 60[0,1,2,3:0] as generalization
+[1572716208791] right click on word 60.1.0 ('使用')
+[1572716232012] right click on word 60.0.3 ('of')
+[1572716233814] left click on word 60.0.3 ('of')
+[1572716233814] edit 60[0,1,2,3:0]
+[1572716234916] right click on word 60.0.3 ('of')
+[1572863169572] NEW SESSION
+[1572863178112] right click on word 46.0.1 ('has')
+[1572863180499] add 46.0.1 to 46[:]
+[1572863180500] label 46[1:] as unaligned_reduction
+[1572863181555] right click on word 46.0.6 ('and')
+[1572863182076] add 46.0.6 to 46[:]
+[1572863182076] label 46[6:] as unaligned_reduction
+[1572863184246] right click on word 47.0.8 ('our')
+[1572863184819] add 47.0.8 to 47[:]
+[1572863184819] label 47[8:] as unaligned_reduction
+[1572863226495] left click on word 50.0.3 ('instructed')
+[1572863226495] edit 50[2,3,4:1]
+[1572863228751] left click on word 50.0.13 ('to')
+[1572863228751] add 50.0.13 to 50[2,3,4:1]
+[1572863229389] right click on word 50.0.13 ('to')
+[1572863243012] right click on word 50.1.0 ('有人')
+[1572863243803] add 50.1.0 to 50[:]
+[1572863243803] label 50[:0] as unaligned_explicitation
+[1572863251715] left click on word 51.0.2 ('and')
+[1572863251715] edit 51[1,3,2:4]
+[1572863252268] left click on word 51.0.1 ('Sitting')
+[1572863252268] del 51.0.1 from 51[1,3,2:4]
+[1572863252691] left click on word 51.0.2 ('and')
+[1572863252691] del 51.0.2 from 51[3,2:4]
+[1572863253548] left click on word 51.0.4 ('for')
+[1572863253548] add 51.0.4 to 51[3:4]
+[1572863254227] right click on word 51.0.3 ('waiting')
+[1572863254644] right click on word 51.0.3 ('waiting')
+[1572863255915] label 51[3,4:4] as lexical_shift
+[1572863944596] NEW SESSION
+[1572863954472] right click on word 52.1.0 ('很多')
+[1572863960734] right click on word 52.1.0 ('很多')
+[1572863961999] label 52[0:0] as particularization
+[1572863963767] right click on word 52.1.2 ('会')
+[1572863964342] add 52.1.2 to 52[:]
+[1572863964342] label 52[:2] as unaligned_explicitation
+[1572863966439] left click on word 52.0.3 (',')
+[1572863966440] new alignment group
+[1572863966440] add 52.0.3 to 52[:]
+[1572863967046] cancel edit
+[1572863967495] left click on word 52.1.4 ('，')
+[1572863967496] new alignment group
+[1572863967496] add 52.1.4 to 52[:]
+[1572863968582] left click on word 52.0.3 (',')
+[1572863968583] add 52.0.3 to 52[:4]
+[1572863968783] right click on word 52.0.3 (',')
+[1572863970063] left click on word 52.0.5 (',')
+[1572863970063] new alignment group
+[1572863970063] add 52.0.5 to 52[:]
+[1572863970768] left click on word 52.1.6 ('，')
+[1572863970768] add 52.1.6 to 52[5:]
+[1572863971007] right click on word 52.1.6 ('，')
+[1572864109717] NEW SESSION
+[1572864139092] left click on word 53.1.9 ('防空')
+[1572864139092] edit 53[11,10:9,10]
+[1572864140423] left click on word 53.1.10 ('部队')
+[1572864140424] del 53.1.10 from 53[11,10:9,10]
+[1572864169153] right click on word 53.1.9 ('防空')
+[1572864173006] right click on word 53.0.5 ('a')
+[1572864176720] right click on word 53.1.10 ('部队')
+[1572864177519] add 53.1.10 to 53[:]
+[1572864177519] label 53[:10] as unaligned_explicitation
+[1572864185896] left click on word 53.0.1 ('squadron')
+[1572864185896] edit 53[1:1]
+[1572864187216] cancel edit
+[1572864191086] right click on word 54.0.3 ('like')
+[1572864192070] label 54[3:] as unaligned_reduction
+[1572864204046] right click on word 54.1.7 ('目前')
+[1572864204760] add 54.1.7 to 54[:]
+[1572864204760] label 54[:7] as unaligned_explicitation
+[1572864205912] right click on word 54.1.12 ('的')
+[1572864206751] add 54.1.12 to 54[:]
+[1572864206751] label 54[:12] as unaligned_explicitation
+[1572864210981] left click on word 54.1.15 ('体系')
+[1572864210982] edit 54[6,9:15]
+[1572864211502] left click on word 54.1.14 ('类')
+[1572864211502] del 54.1.14 from 54[:14]
+[1572864211502] add 54.1.14 to 54[6,9:15]
+[1572864212294] left click on word 54.1.13 ('一')
+[1572864212294] add 54.1.13 to 54[6,9:15,14]
+[1572864217999] left click on word 54.1.14 ('类')
+[1572864217999] del 54.1.14 from 54[6,9:15,14,13]
+[1572864217999] add 54.1.14 to 54[:]
+[1572864218817] left click on word 54.1.13 ('一')
+[1572864218817] del 54.1.13 from 54[6,9:15,13]
+[1572864219472] left click on word 54.0.6 ('the')
+[1572864219472] del 54.0.6 from 54[6,9:15]
+[1572864220342] right click on word 54.1.15 ('体系')
+[1572864221120] left click on word 54.1.14 ('类')
+[1572864221120] edit 54[:14]
+[1572864221583] left click on word 54.1.13 ('一')
+[1572864221583] add 54.1.13 to 54[:14]
+[1572864222295] left click on word 54.0.6 ('the')
+[1572864222295] add 54.0.6 to 54[:14,13]
+[1572864222694] right click on word 54.0.6 ('the')
+[1572864223151] right click on word 54.0.6 ('the')
+[1572864224431] label 54[6:14,13] as particularization
+[1572864228022] right click on word 55.0.2 ('just')
+[1572864228870] add 55.0.2 to 55[:]
+[1572864228870] label 55[2:] as unaligned_reduction
+[1572864233255] right click on word 57.0.0 ('and')
+[1572864234262] add 57.0.0 to 57[:]
+[1572864234262] label 57[0:] as unaligned_reduction
+[1572864237190] right click on word 57.0.3 ('to')
+[1572864239142] label 57[2,3:1] as lexical_shift
+[1572864241896] left click on word 57.0.6 ('paper')
+[1572864241896] edit 57[6:5]
+[1572864244398] cancel edit
+[1572864245943] left click on word 57.1.3 ('一')
+[1572864245944] new alignment group
+[1572864245944] add 57.1.3 to 57[:]
+[1572864246694] left click on word 57.0.5 ('a')
+[1572864246694] add 57.0.5 to 57[:3]
+[1572864246959] right click on word 57.0.5 ('a')
+[1572864248646] right click on word 57.0.7 ('on')
+[1572864249408] add 57.0.7 to 57[:]
+[1572864249408] label 57[7:] as unaligned_reduction
+[1572864249984] right click on word 57.0.8 ('it')
+[1572864250479] add 57.0.8 to 57[:]
+[1572864250479] label 57[8:] as unaligned_reduction
+[1572864256407] right click on word 58.1.1 ('必须')
+[1572864259871] label 58[1,2:1] as literal
+[1572864262192] right click on word 58.0.7 ('backed')
+[1572864263078] label 58[7:10] as lexical_shift
+[1572864270992] right click on word 60.0.0 ('with')
+[1572864272070] label 60[0,1,2,3:0] as equivalence
+[1572864275542] right click on word 60.1.5 ('将')
+[1572864277142] add 60.1.5 to 60[:]
+[1572864277142] label 60[:5] as unaligned_explicitation
+[1572864277640] right click on word 60.1.6 ('它')
+[1572864278135] add 60.1.6 to 60[:]
+[1572864278136] label 60[:6] as unaligned_explicitation
+[1572864278647] right click on word 60.1.7 ('缠绕')
+[1572864279199] add 60.1.7 to 60[:]
+[1572864279199] label 60[:7] as unaligned_explicitation
+[1572864303997] NEW SESSION
+[1572864311294] right click on word 45.1.2 ('那些')
+[1572864312887] label 45[2:2] as modulation

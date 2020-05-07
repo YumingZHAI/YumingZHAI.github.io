@@ -1,0 +1,38 @@
+
+1 0,1:0:literal 2:1:literal 4,3:3:literal 5,6:5:literal 7::unaligned_reduction 8:7:literal 9:8:literal 10:9:literal 11:10:literal 12:2:literal :11:unaligned_explicitation
+2 0:2:literal 1:3:literal 2:5:literal 3:12:equivalence 4:11:literal 5::unaligned_reduction 6:13:equivalence 8::unaligned 9,10:8,9,10:literal 11:14,15:literal 13:16:literal 14:17:literal 15:19,18:literal 16:20:literal :0:unaligned_explicitation :1:unaligned_explicitation :4:unaligned_explicitation
+5 0,1:0:literal 2:2:literal 3:3:lexical_shift 4:4,7:literal 8,5,7:6:literal 6:5:literal
+7 0,3,2,1:0,1,2:modulation 4:3:literal 7,6,8:5,6,4:literal :7:unaligned_explicitation
+8 0:9:literal 1:0,8:literal 3,2:2:literal 4:4:literal 5:6:literal 7,6:11:lexical_shift 8:12,15:literal 9:13:literal 10:14:literal 11:16:literal :7:unaligned :10:unaligned_explicitation
+9 0,1:0:literal 2:1:literal 3:2:literal 4:9:literal 5:10:literal 6,7:4,7:literal 8:5,6:literal 9:11:literal 10:12:equivalence 11:13:transposition 12:14:literal :3:unaligned_explicitation
+10 2,3,1,0:3,4,5:literal 4:0,1:literal 5:2:literal 6::unaligned_reduction 7:6,7:literal 8:8:literal 9:10,11:modulation_transposition 10:13,14:equivalence 11:15:literal 12:16:literal 13::unaligned_reduction 14:17:literal 15:21,22:lexical_shift 16:19,20:literal 17:23:literal :12:unaligned_explicitation :18:unaligned_explicitation
+11 0:0:literal 2,1,3:1:literal 4:2:particularization 5,6,7:3,4:equivalence 8:5,6:literal
+13 0:0:literal 1,3:1:literal 2::unaligned_reduction 4::unaligned_reduction 5:2:literal 6:3:literal 7:4:equivalence 8:5,8,11,12:literal 9:6:literal 10::unaligned 11:9:literal 12::unaligned_reduction 13:13:literal 15:14:literal :7:unaligned :10:unaligned
+14 1,0:9:transposition 2::unaligned_reduction 3:6:literal 4:8,7:literal 5:0:modulation_transposition 6:1:literal 7:2:literal 8:11:literal 9,10:16:literal 13,11:15:literal 12:14:literal 15,14:12:literal 16:17:literal :3:unaligned_explicitation :4:unaligned_explicitation :13:unaligned_explicitation
+15 0:0:literal 1,2:1:literal 3:3:equivalence 9,5,4:6:literal 6:5:transposition 7:4:literal 8::unaligned_reduction 9:7:literal :2:unaligned_explicitation
+16 0::unaligned_reduction 1:5:literal 2:6:literal 3:0,4:literal 4::unaligned_reduction 5::unaligned_reduction 6:1,2:literal 7:3:literal 8:9:literal :7:unaligned_explicitation :8:unaligned_explicitation
+17 1,0:10:literal 2:9:transposition 3,5:5,1:equivalence 4:2,3,4:particularization 8,6:7:literal 7:6:literal 9:8:literal 10::unaligned_reduction 12,11:0:lexical_shift 13:11:literal
+18 2,3,0,1:0:literal 4:1:literal 5:2:literal 9,7,6:6:literal 8:4,5:literal 10:3:transposition 11::unaligned_reduction
+19 1,0,2:0:literal 3:1:literal 4:2:literal 5:3:literal 6:4:literal 7:8:literal 8:7:transposition 9:6:literal 10:9:literal 11:11,12:literal 12:14:literal 13:15:literal :5:unaligned_explicitation :10:unaligned_explicitation :13:unaligned_explicitation
+20 0,1,2:1,2,3,4,5,6:particularization 3,4:8,9:equivalence 5,13:14,11:literal 7,8,6:10:literal 9::unaligned_reduction 10::unaligned_reduction 12,11:12,13:literal 14::unaligned_reduction 15:15:transposition 16:16:literal :0:unaligned_explicitation
+21 0:0:literal 1:1:literal 4,3,2:2,5:literal 5,6,7,8:3:equivalence 9:6:literal :4:unaligned_explicitation
+22 0,1:0:literal 2:1:literal 3:5,4,3,2:equivalence 4:6:particularization 5:7:particularization 6::unaligned_reduction 7::unaligned_reduction 8::unaligned_reduction 9:11:literal 10:10:transposition 11::unaligned_reduction 12:9:literal
+23 0:0:literal 1:1,5:literal 2:2:literal 3:3:literal 4:4:literal 6::unaligned_reduction 7,8:7:literal 9::unaligned_reduction 10::unaligned_reduction 11::unaligned_reduction 12:9:literal 13:10:literal :6:unaligned_explicitation :8:unaligned_explicitation
+24 1:0:literal 2:1:literal 3:2:literal 4:4,5,6:literal 5:3:literal 6:7:literal 7:8:literal 8:9:literal 9,10:10:translation_error
+25 0:0:literal 1::unspec 3,2:7:literal 4:6:transposition 7,5:5:literal 6:2:literal 9,8,12:9:literal 10,11:8:literal 13,14,15:10:literal 16:11:literal :3,4:unaligned_explicitation
+26 1,0:0:literal 2:1:literal 4,3:3:literal 5:5:literal 6:10:literal 7:7:literal 8:6:equivalence 10,9:9:literal 12::unaligned_reduction 13:11:literal :2:unaligned_explicitation :4:unaligned_explicitation :8:unaligned_explicitation
+28 1,0:0,1:literal 2,3:3,2:particularization 4:4,5:literal 5:6:literal 6::unaligned_reduction 7:7,8:literal 8:11:equivalence 9:13:literal 12,10:18:literal 11:16,17,15:literal 15,13,14:14:literal 16:19:literal :10:unaligned_explicitation
+29 0:0:literal 1:1:literal 2:2:literal 3:3:literal 5:4:literal 6:5:literal 7:6:literal 8,9:7,8:literal 10:11:literal 11:9,10:literal 12:12:literal 13:13:literal 14:14:literal 15,16:15,16,17,18:literal 17:19:literal
+30 0:0:literal 1,3,2:1,2:literal 4,5:3:literal 6,7:6:particularization 8:5:transposition 9::unaligned_reduction 10:4:literal 11:7:literal
+31 0::unaligned_reduction 1:3:literal 2,3,4:5,6,7,8,9:equivalence 6,7,5:0:literal 8:1:transposition 9:2:transposition 10:10:literal :4:unaligned_explicitation
+32 0:0,1:literal 2,1:2:literal 3:3:literal 4:5,6:literal 6,5::unaligned_reduction 7::unaligned_reduction 8::unaligned_reduction 9::unaligned_reduction 10::unaligned_reduction 11::unaligned_reduction 12:9:literal 13:10:literal 16,15,14:15:literal 17:16:literal 18:17:literal 19:18:literal 20:19:literal :4:unaligned_explicitation :7:unaligned_explicitation :8:unaligned_explicitation :11:unaligned_explicitation :12:unaligned_explicitation :13:unaligned_explicitation :14:unaligned_explicitation
+33 0,2,1:0:literal 3:2:literal 4:1:equivalence 6:4:literal 7:10:literal 8::unaligned_reduction 9:13:literal 10,11:12:equivalence 12:5:literal 13:8:particularization 14:14:literal 15:15:literal :6:unaligned_explicitation :7:unaligned_explicitation :11:unaligned_explicitation
+34 0:0:literal 1:1:literal 2:2:literal 3:6:literal 4:5:literal 5::unaligned_reduction 6::unaligned_reduction 7::unaligned_reduction 8::unaligned_reduction :3:unaligned_explicitation :4:unaligned_explicitation
+35 0:0:literal 1:1,2,3,4:literal 3:5:literal 5,4:7,8:literal 6::unaligned_reduction 7::unaligned_reduction 8::unaligned_reduction 9:9:literal :6:unaligned_explicitation
+36 0:0:literal 1:2:literal 2::unaligned_reduction 4,3:3:transposition 5::unaligned_reduction 6:5:literal 7:10:literal 8:6:literal 9:7:literal 10:8:literal 11:11:literal :1:unaligned_explicitation :4:unaligned_explicitation :9:unaligned_explicitation
+37 0:1:literal 1:0:literal 3,2,4:6,2:literal 5:3,4:literal 6:5:literal 7:7:literal 8:8:literal 9:11:literal 10:10:literal 11:12:literal :9:unaligned_explicitation
+39 0:4:transposition 1:1:literal 2::unaligned_reduction 3:3:literal 4:5:literal 6,5:6:literal 7::unaligned_reduction 8:7:literal 9:8:literal 10:9:literal 11:10:literal 12:12:literal 13:13:literal 15,14:14:literal :0:unaligned_explicitation :2:unaligned_explicitation :11:unaligned_explicitation :15:unaligned_explicitation :16:unaligned_explicitation
+40 4,0,1,2,3:0:equivalence 6,7,8,9,11,12,10:6,2,4,7,8,9:modulation 13:10:literal :3:unaligned_explicitation :5:unaligned_explicitation
+41 1,0:0,1:literal 3,4,2:2:literal 5:11:literal 7::unaligned 8:5:literal 10:4:literal 11:7,6,8,9,10:literal 12:12:literal 13:18:literal 16:14:literal 18:13:literal 19:15,16,17:literal 20:19:literal :3:unaligned_explicitation
+42 0::unaligned_reduction 1:1:literal 2:2:modulation 3::unaligned_reduction 4,5:5,6:literal 6::unaligned_reduction 7::unaligned_reduction 8::unaligned_reduction 9::unaligned_reduction 10::unaligned_reduction 11:7:literal 12::unaligned_reduction 13::unaligned_reduction 14:9:literal 15::unaligned_reduction 16:10:literal :0:unaligned_explicitation :3:unaligned_explicitation :4:unaligned_explicitation :8:unaligned_explicitation
+

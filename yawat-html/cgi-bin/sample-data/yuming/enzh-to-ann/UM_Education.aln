@@ -1,0 +1,233 @@
+
+51 0,1:0:literal 3:2:literal 4:3:literal 6:4:literal 7:5:literal 8:6:literal 11:10:particularization 12:11:literal 13:12,13,14,15,16:particularization 14:17:literal 15:18:literal 16:19:literal 17,18:20,21:literal 19:22,23:literal 20:24:literal 22,21:28:literal 23:27:literal 24:25:literal 25:26:literal 27,28,29:29:literal 31,30:36:literal 32:34:transposition 33:31,30:literal 34::unaligned_reduction 35:32:literal 36,37:33:literal 38:37:literal :7:unaligned_explicitation :35:unaligned_explicitation
+54 0:0:literal 1:1:literal 2:2:literal 3:3:literal 4::unaligned_reduction 5:9:literal 6:7:literal 7:4:literal 8:5:literal 9:6:literal 10:11:literal 11:12:literal 12,13,14:13,14:generalization 15:15:literal :8:unaligned_explicitation
+56 0,1:3:literal 2,3:2,1:transposition 4:5:literal 5:6:literal 6:7:equivalence 7:8:literal 8:9:literal 9:11:literal 10:12:literal 11:13:literal 12:22:literal 13:23:literal :4:unaligned_explicitation :10:unaligned_explicitation :14,15,16,17,18,19,20,21:unaligned_explicitation
+57 0:7:literal 1:8:particularization 3:10,11,9,12:literal 4:13:literal 5:14:literal 6:1:literal 7:2:uncertain 8:3:literal 9:15:literal :0,4,5,6:unaligned_explicitation
+58 1,0,2:0,1,2,3:literal 3:4:literal 4:5:literal 5,6,7,8,9:6,7:transposition 10:8:literal 11:9:literal 12:10:literal
+62 0:7,8:literal 1:9:literal 3:15:literal 4:17:literal 5:16:literal 6:10:literal 7:11:literal 8:12:literal 9,10,11,12:0,1,5:uncertain 13:2,3:literal 14:4:literal 15:19:literal 16:20:literal 17:21,22:literal 18:23:literal 19:24:literal 20:25:literal :13,14:unaligned_explicitation :18:unaligned_explicitation
+64 2,0:4:literal 1:3:literal 3:2:literal 4:0:literal 5:1:literal 7,8,9:7:literal 10:10,11:literal 11:12:modulation 12:13:literal 13,14:15,18:literal 16,17:14:literal 18:16:literal 19:17:literal 20:19:literal 21:21:equivalence 22:22:literal 23,24,25:24,25:literal 26:27:literal :6:unaligned_explicitation :8:unaligned_explicitation :20:unaligned_explicitation :23:unaligned_explicitation :26:unaligned_explicitation
+66 0:1:literal 1:0:literal 2:2:literal 3:3:literal 4:4:literal 5:5:literal 6:11:literal 7:10:transposition 8:6,7:literal 9:8,9:literal 11:13:literal 12,13:14,15:lexical_shift 14:17:literal 15:18:literal 16:19:literal :16:unaligned_explicitation
+67 0:2:literal 2:0:literal 3:1:literal 4:3:literal 5,6:5,4:literal 7:6:literal 8:7:literal 9:9,8:literal 10:10:literal 11:12:literal 12,13,14:11,14:equivalence 15:18,15,16,17:generalization 16:19:literal 17:20:literal 18:22:literal 19:23:literal 20:24:literal 21,22:25,26:modulation 23:27:literal :13:unaligned_explicitation
+68 0:8:literal 1:0:literal 2:1:literal 3::unaligned_reduction 4:2:literal 5:3:generalization 6,7:6:modulation 8:5:literal 9:4:literal 10:7:literal 11,12,13:9,11,10:modulation 14:13:literal 15:14,15:literal 16:16:literal 17:17:literal 18:18:literal 19:19:literal
+69 0:0:literal 3:5:literal 5:8:literal 8:12:literal 9:15:literal 10:16:literal 13:19:literal 14:20:literal 15:22:literal 16:24:literal
+70 2:3:literal 6:12:literal 8:16:literal 11:13:literal 12:14:literal 13:17:literal
+71 0:4:literal 2:1:literal 3:5:literal 4:7:literal 6:8:literal 7:0:literal 9:3:literal 11:10:literal 13:14:literal 14:15:literal 17:12:literal 18:17:literal
+72 1:0:literal 6:3:literal 7:8:literal 8:10:literal 11:16:literal 16:23:literal 19:28:literal 23:31:literal 25:33:literal 26:34:literal 31:35:literal 16:14:literal
+73 0:0:literal 2:11:literal 3:1:literal 5:4:literal 7:2:literal 10:5:literal 11:6:literal 12:13:literal
+74 0:0:literal 3:11:literal 9:9:literal 11:5:literal 13:12:literal 16:14:literal 23:20:literal 24:23:literal 25:27:literal 28:24:literal 30:28:literal
+75 0:5:literal 2:1:literal 4:18:literal 9:4:literal 12:11:literal 17:8:literal 20:9:literal 21:19:literal 0:0:literal 4:2:literal
+76 0:0:literal 1:1:literal 4:4:literal 8:6:literal 9:6:literal 11:12:literal 12:9:literal 14:11:literal 17:16:literal 18:17:literal 21:14:literal 22:18:literal
+77 2:0:literal 4:0:literal 6:5:literal 7:2:literal 13:4:literal 15:8:literal 16:9:literal
+78 0:0:literal 1:1:literal 2:2:literal 5:5:literal 6:7:literal 9:3:literal 10:18:literal 12:9:literal 14:14:literal 15:10:literal 16:15:literal 17:21:literal
+79 1:1:literal 2:2:literal 3:3:literal 4:5:literal 6:6:literal 8:12:literal 9:10:literal 10:7:literal 11:8:literal 12:13:literal
+80 0:4:literal 1:14:literal 7:12:literal 9:18:literal 11:1:literal 13:3:literal 16:19:literal 19:7:literal 20:8:literal 21:9:literal 22:21:literal 28:29:literal 30:23:literal 31:24:literal 32:31:literal 9:0:literal
+81 1:1:literal 5:4:literal 6:8:literal 8:10:literal 9:11:literal 10:13:literal 13:6:literal 14:15:literal
+82 0:0:literal 1:1:literal 3:3:literal 6:7:literal 8:6:literal 9:8:literal 10:10:literal 15:16:literal 16:17:literal
+83 0:0:literal 4:2:literal 6:6:literal 8:4:literal 9:10:literal 10:12:literal 13:14:literal 15:17:literal 19:19:literal 20:18:literal 22:20:literal 24:23:literal 26:25:literal 28:28:literal 29:30:literal
+84 0:4:literal 4:1:literal 5:3:literal 8:6:literal 10:7:literal 11:8:literal 13:9:literal 15:10:literal
+85 0:0:literal 8:3:literal 11:7:literal
+86 2:1:literal 9:2:literal 11:4:literal 12:5:literal 15:3:literal 22:12:literal
+87 0:6:literal 1:7:literal 3:0:literal 4:0:literal 7:1:literal 8:3:literal 9:4:literal 11:12:literal 12:15:literal 14:11:literal 17:10:literal 18:16:literal 14:8:literal
+88 1:1:literal 3:3:literal 6:4:literal 7:5:literal 9:7:literal 10:12:literal 12:10:literal 14:14:literal 15:15:literal
+89 1:2:literal 2:5:literal 3:4:literal 5:11:literal 7:3:literal 8:7:literal 9:8:literal 10:9:literal 11:13:literal 12:17:literal 15:15:literal 16:18:literal
+90 0:0:literal 4:5:literal 5:28:literal 8:2:literal 9:13:literal 11:4:literal 12:26:literal 13:6:literal 16:8:literal 17:12:literal 22:25:literal 23:29:literal 24:15:literal 26:17:literal 28:19:literal 29:33:literal
+91 0:0:literal 2:3:literal 3:4:literal 4:5:literal 5:7:literal 7:10:literal 8:11:literal 9:13:literal 11:16:literal 12:17:literal 13:20:literal 14:21:literal 16:20:literal 17:25:literal
+92 0:2:literal 1:5:literal 2:16:literal 3:3:literal 6:0:literal 9:15:literal 10:7:literal 11:9:literal 12:11:literal 13:10:literal 15:13:literal 16:18:literal 18:20:literal 19:21:literal 24:30:literal 26:27:literal 27:28:literal 28:31:literal
+93 4:1:literal 6:3:literal 7:4:literal 9:9:literal 11:10:literal 14:14:literal 16:11:literal 17:15:literal 18:18:literal 19:19:literal 21:21:literal 23:24:literal 24:25:literal 27:28:literal 29:30:literal 30:22:literal 31:27:literal 33:37:literal 34:33:literal 36:35:literal 37:38:literal 17:12:literal 33:32:literal
+94 0:0:literal 2:2:literal 3:3:literal 5:9:literal 8:5:literal 9:10:literal 13:15:literal 2:1:literal
+95 0:7:literal 3:8:literal 4:10:literal 6:2:literal 7:1:literal 10:5:literal 11:11:literal 0:0:literal
+96 1:0:literal 4:2:literal 8:12:literal 9:14:literal 11:16:literal 14:15:literal 17:6:literal 18:9:literal 19:17:literal 9:1:literal
+97 0:3:literal 2:0:literal 3:2:literal 4:4:literal 5:6:literal 6:7:literal 7:5:literal 11:9:literal 12:10:literal 14:12:literal 16:20:literal 18:14:literal 19:15:literal 20:16:literal 21:18:literal 22:21:literal
+98 1:3:literal 4:1:literal 8:4:literal 11:7:literal 12:11:literal 14:8:literal 16:10:literal 19:15:literal 20:16:literal 21:17:literal 23:21:literal 25:19:literal 27:20:literal 32:22:literal
+99 0:0:literal 1:1:literal 2:3:literal 3:8:literal 5:6:literal 6:5:literal 8:11:literal 10:12:literal 13:13:literal 14:15:literal 15:16:literal 20:17:literal
+100 1:0:literal 5:3:literal 6:4:literal 7:5:literal 9:6:literal 10:7:literal 11:10:literal 12:8:literal 14:17:literal 16:13:literal 17:22:literal 19:23:literal 20:25:literal 22:28:literal 24:31:literal 26:29:literal 27:15:literal 29:38:literal 33:36:literal 34:40:literal
+101 0:0:literal 3:1:literal 5:10:literal 10:2:literal 11:3:literal 12:6:literal 13:11:literal
+102 1:2:literal 2:3:literal 3:5:literal 7:0:literal 8:7:literal 11:8:literal 12:9:literal 13:12:literal 14:11:literal 17:13:literal 18:15:literal 11:6:literal
+103 1:1:literal 2:4:literal 3:3:literal 6:6:literal 7:7:literal 10:12:literal 14:13:literal 16:14:literal 18:16:literal 19:17:literal
+104 0:0:literal 2:1:literal 8:3:literal 10:5:literal 11:8:literal
+105 0:0:literal 1:1:literal 3:5:literal 4:12:literal 7:9:literal 8:10:literal 10:11:literal 11:14:literal 12:21:literal 14:16:literal 15:20:literal 16:25:literal 17:23:literal 18:26:literal 23:18:literal 24:27:literal
+106 1:0:literal 4:5:literal 5:4:literal 6:6:literal 7:8:literal 8:8:literal 12:14:literal 13:11:literal 16:12:literal 19:18:literal 21:19:literal 23:20:literal 24:22:literal 25:24:literal
+107 0:0:literal 1:1:literal 2:4:literal 3:5:literal 6:6:literal 8:7:literal 10:2:literal 11:3:literal 12:11:literal
+108 3:9:literal 5:18:literal 8:10:literal 10:12:literal 11:17:literal 12:19:literal 5:4:literal
+109 2:2:literal 5:6:literal 6:8:literal 7:5:literal 13:11:literal
+110 0:5:literal 1:8:literal 2:9:literal 5:7:literal 8:3:literal 9:2:literal 11:10:literal
+111 0:0:literal 1:1:literal 2:3:literal 5:4:literal 9:9:literal 11:11:literal 12:6:literal 14:14:literal
+112 1:5:literal 3:0:literal 4:1:literal 5:13:literal 6:6:literal 9:15:literal 10:7:literal 13:9:literal 18:18:literal 19:19:literal 20:20:literal 21:22:literal 22:21:literal 23:23:literal 25:24:literal 26:26:literal
+113 4:1:literal 5:3:literal 6:4:literal 8:8:literal 10:10:literal 12:11:literal 13:12:literal 14:13:literal
+114 0:0:literal 1:1:literal 3:3:literal 4:4:literal 5:5:literal 7:9:literal 9:10:literal 10:10:literal 13:14:literal 15:17:literal 18:23:literal 19:25:literal 18:21:literal
+115 0:0:literal 1:2:literal 2:3:literal 3:4:literal 5:5:literal 7:6:literal 9:7:literal 12:11:literal 16:11:literal 18:13:literal 19:11:literal 21:15:literal 23:17:literal 25:19:literal 27:21:literal 28:22:literal 29:23:literal 31:25:literal 32:27:literal
+116 0:2:literal 3:5:literal 4:6:literal 5:23:literal 9:27:literal 10:28:literal 12:30:literal 14:32:literal 18:35:literal 20:37:literal 22:39:literal 25:41:literal 27:15:literal 30:22:literal 33:17:literal 34:19:literal 35:20:literal 44:11:literal 46:40:literal 52:42:literal 0:0:literal 46:38:literal
+117 0:0:literal 3:18:literal 4:15:literal 6:12:literal 7:13:literal 8:14:literal 11:6:literal 13:9:literal 15:16:literal 16:27:literal 17:2:literal 19:22:literal 20:23:literal 21:24:literal 23:21:literal 25:26:literal 26:39:literal 28:40:literal 31:43:literal 34:37:literal 35:33:literal 36:34:literal 37:45:literal 16:1:literal 26:29:literal 34:32:literal
+118 1:1:literal 3:10:literal 7:7:literal 8:8:literal 10:4:literal 12:5:literal 14:2:literal 17:18:literal 18:14:literal 19:16:literal 21:15:literal 22:19:literal 24:23:literal 26:20:literal 28:12:literal 30:25:literal 31:30:literal 32:32:literal 34:27:literal 36:28:literal 40:33:literal
+119 0:0:literal 3:5:literal 4:7:literal 6:9:literal 7:11:literal 8:10:literal 10:12:literal 11:13:literal
+120 6:2:literal 9:9:literal 11:6:literal 12:11:literal
+121 0:0:literal 2:4:literal 3:2:literal 4:5:literal 5:7:literal 8:13:literal 11:10:literal 13:12:literal 18:31:literal 20:17:literal 21:18:literal 24:16:literal 28:21:literal 29:22:literal 32:23:literal 34:9:literal 36:26:literal 38:28:literal 42:34:literal 44:37:literal 46:36:literal 47:38:literal 21:11:literal 38:27:literal
+122 0:3:literal 1:4:literal 3:9:literal 7:2:literal 9:7:literal 11:15:literal 12:10:literal 13:11:literal 15:13:literal 16:16:literal 3:1:literal
+123 0:0:literal 1:3:literal 2:5:literal 3:6:literal 7:9:literal 13:16:literal 15:14:literal 17:13:literal 18:15:literal 19:21:literal 22:22:literal 23:26:literal
+124 0:2:literal 2:3:literal 3:4:literal 4:4:literal 8:1:literal 10:8:literal 11:9:literal 12:10:literal
+125 0:0:literal 1:2:literal 2:3:literal 3:4:literal 4:5:literal 8:9:literal 9:6:literal 10:13:literal 12:10:literal 13:11:literal 14:18:literal 17:17:literal 18:28:literal 19:14:literal 22:21:literal 24:22:literal 25:25:literal 31:29:literal 32:31:literal 33:33:literal 18:20:literal
+126 1:0:literal 3:11:literal 5:2:literal 9:8:literal 10:12:literal 12:7:literal 13:13:literal
+127 6:4:literal 12:8:literal 14:7:literal 18:14:literal 19:16:literal
+128 1:9:literal 4:6:literal 6:11:literal 7:12:literal 8:17:literal 9:18:literal 12:15:literal 13:19:literal 1:8:literal
+129 3:17:literal 14:11:literal 15:0:literal 17:1:literal 19:7:literal 20:5:literal 23:9:literal 24:23:literal
+130 1:3:literal 2:4:literal 4:6:literal 5:8:literal 7:7:literal 11:9:literal
+131 2:3:literal 3:2:literal 4:7:literal 5:4:literal 8:0:literal 13:10:literal 14:12:literal 17:18:literal 18:14:literal 24:13:literal 26:19:literal 27:21:literal 28:20:literal 29:23:literal
+132 0:2:literal 2:0:literal 6:3:literal 9:8:literal 10:5:literal 11:4:literal 13:6:literal 14:11:literal
+133 1:1:literal 3:16:literal 4:6:literal 6:13:literal 7:2:literal 8:3:literal 10:9:literal 11:20:literal 15:18:literal 16:24:literal 18:27:literal 19:28:literal 21:31:literal 24:25:literal 25:34:literal
+134 0:1:literal 1:9:literal 3:15:literal 4:18:literal 7:11:literal 9:0:literal 11:8:literal 12:3:literal 14:12:literal 15:5:literal 16:20:literal
+135 0:0:literal 4:3:literal 6:2:literal 9:4:literal 11:5:literal 12:8:literal
+136 0:0:literal 1:3:literal 3:1:literal 4:4:literal 9:5:literal 13:9:literal 17:13:literal 22:16:literal 17:11:literal
+137 0:0:literal 3:3:literal 4:7:literal 6:12:literal 11:14:literal 13:17:literal 15:16:literal 16:18:literal 15:9:literal
+138 0:0:literal 1:8:literal 2:3:literal 5:4:literal 8:6:literal 11:11:literal 12:12:literal
+139 0:2:literal 1:1:literal 3:4:literal 7:6:literal 8:10:literal 9:12:literal 11:16:literal 12:8:literal 13:17:literal 0:0:literal
+140 1:1:literal 2:2:literal 7:5:literal 8:6:literal 10:9:literal 11:10:literal 12:12:literal 15:16:literal 16:19:literal 17:17:literal 19:18:literal 21:22:literal 22:23:literal 23:24:literal 24:25:literal 25:27:literal
+141 5:17:literal 10:12:literal 11:13:literal 13:15:literal 16:19:literal 5:7:literal
+142 0:5:literal 2:13:literal 4:0:literal 6:2:literal 7:3:literal 9:1:literal 14:15:literal 15:14:literal 16:17:literal 17:18:literal 19:19:literal 20:21:literal 23:22:literal
+143 1:1:literal 3:4:literal 5:2:literal 7:5:literal 8:7:literal 9:10:literal 15:13:literal
+144 1:0:literal 4:5:literal 5:3:literal 6:6:literal 9:9:literal 10:10:literal 11:13:literal 13:18:literal 14:15:literal 16:20:literal 18:21:literal 20:23:literal 21:26:literal 22:27:literal 13:16:literal
+145 0:0:literal 1:1:literal 2:9:literal 3:4:literal 4:5:literal 5:2:literal 9:8:literal 11:16:literal 14:16:literal 16:21:literal 17:22:literal 18:23:literal 21:20:literal 25:31:literal 29:29:literal 30:25:literal 34:27:literal 35:37:literal 38:33:literal 40:41:literal 41:42:literal
+146 0:2:literal 1:4:literal 2:6:literal 3:7:literal 4:8:literal 5:10:literal 8:19:literal 10:21:literal 15:18:literal 19:16:literal
+147 1:0:literal 5:7:literal 6:1:literal 10:2:literal 12:4:literal 13:8:literal
+148 2:5:literal 6:0:literal 7:3:literal 15:7:literal 19:8:literal 20:10:literal 23:12:literal 24:9:literal 30:11:literal 33:14:literal
+149 1:2:literal 2:3:literal 4:5:literal 5:7:literal 8:9:literal 9:11:literal 11:13:literal 12:14:literal 4:1:literal
+150 0:50:literal 1:3:literal 2:5:literal 4:19:literal 5:39:literal 6:6:literal 7:51:literal 8:43:literal 9:20:literal 12:54:literal 15:24:literal 17:8:literal 25:14:literal 26:38:literal 27:33:literal 33:27:literal 38:30:literal 39:32:literal 41:56:literal 0:0:literal 41:37:literal
+151 0:1:literal 2:2:literal 4:7:literal 6:5:literal 7:6:literal 11:9:literal 12:10:literal 15:12:literal 16:14:literal 18:15:literal 19:17:literal 20:18:literal 0:0:literal 16:11:literal
+152 0:0:literal 1:2:literal 2:1:literal 5:7:literal 6:10:literal 7:12:literal 9:17:literal 15:18:literal 18:20:literal 19:34:literal 20:24:literal 22:25:literal 24:27:literal 25:26:literal 26:29:literal 27:38:literal 19:21:literal
+153 1:1:literal 5:4:literal 10:3:literal 13:6:literal 14:8:literal 15:11:literal 16:13:literal 18:17:literal 19:20:literal 1:0:literal
+154 1:1:literal 3:2:literal 8:5:literal 10:6:literal 12:8:literal 13:10:literal 14:14:literal 19:18:literal 20:19:literal 24:21:literal 25:22:literal 26:25:literal 28:27:literal 31:29:literal 32:32:literal 33:33:literal 35:35:literal 37:37:literal 38:39:literal
+155 1:14:literal 3:15:literal 5:16:literal 8:12:literal 10:0:literal 14:1:literal 17:2:literal 18:3:literal 20:4:literal 25:20:literal 26:21:literal 26:17:literal
+156 1:0:literal 2:12:literal 3:3:literal 4:4:literal 6:15:literal 9:13:literal 11:22:literal 13:26:literal 14:28:literal 16:16:literal 17:17:literal 19:35:literal 22:36:literal 23:24:literal 24:40:literal 2:1:literal 6:7:literal
+157 1:3:literal 2:0:literal 3:2:literal 4:4:literal 6:10:literal 7:11:literal 9:14:literal 10:15:literal 14:6:literal 15:12:literal 16:16:literal 15:8:literal
+158 0:1:literal 1:2:literal 2:3:literal 5:9:literal 9:7:literal 10:16:literal 11:18:literal 12:17:literal 13:21:literal 15:24:literal 13:20:literal
+159 0:0:literal 1:6:literal 2:1:literal 4:2:literal 7:13:literal 9:9:literal 10:11:literal 11:12:literal 13:16:literal 15:24:literal 19:32:literal 20:34:literal 24:35:literal 25:37:literal 29:26:literal 30:27:literal 32:29:literal 33:38:literal 15:19:literal
+160 3:10:literal 5:14:literal 7:16:literal 8:17:literal 12:15:literal 13:4:literal 7:14:literal
+161 2:0:literal 3:1:literal 5:2:literal 9:7:literal 10:8:literal 11:12:literal 13:11:literal 16:15:literal 19:14:literal 23:17:literal 27:21:literal 29:18:literal 31:22:literal 32:24:literal 34:26:literal 35:28:literal 37:29:literal 27:5:literal 13:9:literal
+162 0:0:literal 1:1:literal 3:4:literal 6:8:literal 7:10:literal 8:11:literal 9:12:literal 11:14:literal 13:13:literal 14:16:literal 16:18:literal 17:15:literal 19:21:literal 24:23:literal
+163 1:2:literal 4:6:literal 6:7:literal 13:9:literal
+164 2:12:literal 7:7:literal 9:4:literal 14:13:literal 16:14:literal 17:15:literal 7:0:literal
+165 0:0:literal 1:1:literal 3:3:literal 4:5:literal 6:4:literal 8:10:literal 10:11:literal 11:13:literal 12:15:literal 13:16:literal 14:17:literal 15:20:literal 16:19:literal 17:21:literal 18:25:literal 25:30:literal 26:33:literal 28:36:literal 26:29:literal
+166 2:2:literal 5:1:literal 6:4:literal 10:5:literal 11:14:literal
+167 0:1:literal 2:2:literal 4:3:literal 8:6:literal 10:4:literal 11:8:literal 13:11:literal 14:12:literal 22:18:literal 23:20:literal 25:19:literal 26:21:literal 14:5:literal
+168 2:0:literal 5:3:literal 6:5:literal 14:16:literal 15:19:literal 16:18:literal 17:20:literal 23:21:literal 24:22:literal 25:37:literal 28:34:literal 31:26:literal 32:28:literal 34:30:literal 35:31:literal 36:39:literal
+169 1:0:literal 2:1:literal 3:2:literal 5:4:literal 7:5:literal 10:7:literal 12:9:literal 14:8:literal 15:11:literal
+170 2:2:literal 8:0:literal 11:1:literal 12:7:literal
+171 0:2:literal 2:1:literal 4:8:literal 9:10:literal 10:3:literal 14:15:literal 15:11:literal 17:18:literal 0:0:literal 4:6:literal
+172 1:1:literal 3:2:literal 4:3:literal 6:8:literal 8:7:literal 11:4:literal 13:5:literal 14:9:literal
+173 2:2:literal 3:3:literal 4:5:literal 5:6:literal 6:8:literal 8:13:literal 9:14:literal 10:11:literal 11:9:literal 13:15:literal
+174 3:12:literal 6:15:literal 10:0:literal 13:3:literal 15:5:literal
+175 6:4:literal 8:6:literal 10:7:literal 14:8:literal 16:13:literal 22:15:literal 28:0:literal 29:14:literal 30:20:literal
+176 1:1:literal 2:2:literal 4:8:literal 6:4:literal 7:5:literal 10:6:literal 13:11:literal 16:14:literal 17:23:literal 20:16:literal 22:18:literal 23:20:literal 24:25:literal
+177 0:0:literal 2:6:literal 3:3:literal 6:9:literal 7:10:literal 8:11:literal 10:12:literal 11:13:literal 14:16:literal 15:17:literal 2:2:literal 6:5:literal
+178 2:2:literal 6:4:literal 12:11:literal 13:13:literal 16:15:literal 17:17:literal
+179 2:8:literal 4:2:literal 5:3:literal 11:10:literal 12:11:literal 13:12:literal 17:14:literal
+180 1:1:literal 2:2:literal 4:9:literal 6:3:literal 7:4:literal 9:5:literal 10:6:literal 11:7:literal 12:10:literal
+181 3:1:literal 6:2:literal 10:5:literal 13:8:literal 17:12:literal 18:14:literal 21:11:literal 25:16:literal 27:20:literal
+182 0:0:literal 2:1:literal 5:4:literal 6:5:literal 8:7:literal 9:8:literal 13:12:literal 14:14:literal 15:15:literal
+183 2:0:literal 4:2:literal 7:13:literal 8:4:literal 10:5:literal 14:18:literal 17:22:literal 19:10:literal 21:12:literal 22:9:literal 23:26:literal 28:31:literal 29:32:literal 31:35:literal 7:1:literal 17:20:literal 28:25:literal 28:28:literal
+184 0:1:literal 4:3:literal 5:5:literal 6:2:literal 7:7:literal 9:6:literal 10:8:literal 13:10:literal 14:12:literal
+185 0:5:literal 2:1:literal 6:4:literal 8:12:literal 11:10:literal 12:13:literal 13:14:literal 14:16:literal 15:15:literal 18:18:literal 19:19:literal 0:0:literal
+186 0:0:literal 4:3:literal 5:4:literal 7:6:literal 10:10:literal 11:12:literal 14:13:literal 16:15:literal
+187 0:0:literal 2:2:literal 6:4:literal 7:5:literal 9:7:literal 11:9:literal 13:11:literal 15:12:literal 17:13:literal 18:14:literal 19:15:literal 21:20:literal 23:21:literal 24:19:literal 25:18:literal 33:24:literal 17:8:literal
+188 0:1:literal 5:4:literal 8:6:literal 10:5:literal 14:10:literal 17:15:literal 19:18:literal 22:23:literal 24:21:literal 28:12:literal 29:29:literal 30:30:literal 32:26:literal 34:27:literal 36:31:literal 24:20:literal 29:24:literal
+189 1:6:literal 2:17:literal 5:1:literal 7:12:literal 8:15:literal 10:18:literal 11:14:literal 17:19:literal 19:22:literal 20:23:literal
+190 1:1:literal 2:2:literal 4:0:literal 6:4:literal 8:7:literal 9:8:literal 10:10:literal 11:11:literal
+191 2:3:literal 3:4:literal 5:12:literal 8:11:literal 11:15:literal 15:7:literal 17:6:literal 18:27:literal
+192 0:0:literal 1:1:literal 5:5:literal 7:7:literal 11:13:literal
+193 1:1:literal 9:0:literal 12:6:literal 15:9:literal 19:11:literal 22:13:literal
+194 15:11:literal
+195 2:2:literal 7:11:literal 8:7:literal 12:16:literal
+196 0:0:literal 1:1:literal 2:5:literal 4:3:literal 6:7:literal 7:8:literal 9:9:literal 12:11:literal
+197 0:0:literal 1:5:literal 3:14:literal 4:12:literal 8:4:literal 12:11:literal 13:6:literal 16:15:literal 17:17:literal 19:19:literal 1:3:literal
+198 0:2:literal 5:3:literal 8:5:literal 11:4:literal 12:9:literal 13:12:literal 14:7:literal 16:8:literal 18:11:literal 21:10:literal 23:19:literal 24:22:literal 29:13:literal 30:14:literal 31:15:literal 32:17:literal 39:29:literal 41:38:literal 44:27:literal 46:30:literal 48:31:literal 49:32:literal 51:35:literal 56:36:literal 62:34:literal 66:39:literal 67:40:literal 0:0:literal 23:16:literal
+199 0:0:literal 2:1:literal 3:2:literal 5:4:literal 7:5:literal 8:6:literal 14:10:literal
+200 2:9:literal 3:4:literal 5:3:literal 6:8:literal 7:15:literal 9:13:literal 11:10:literal 12:16:literal 13:17:literal 3:2:literal
+201 0:0:literal 2:2:literal 5:5:literal 6:7:literal 11:13:literal 14:15:literal 17:18:literal 6:6:literal 14:14:literal
+202 0:0:literal 1:6:literal 4:3:literal 6:4:literal 8:2:literal 9:7:literal 12:9:literal 15:12:literal 17:15:literal
+203 1:8:literal 3:0:literal 5:1:literal 6:2:literal 8:4:literal 12:9:literal 16:10:literal
+204 1:0:literal 2:1:literal 7:7:literal 8:9:literal 10:4:literal 11:6:literal 15:16:literal 16:12:literal 18:11:literal 19:17:literal
+205 0:0:literal 1:1:literal 2:2:literal 7:7:literal 8:8:literal 12:12:literal 15:16:literal 16:17:literal 19:17:literal 22:21:literal 24:19:literal 26:26:literal 28:23:literal 30:25:literal 31:27:literal 32:28:literal 33:29:literal 35:32:literal 36:33:literal 38:34:literal 39:35:literal 40:37:literal 42:40:literal 43:41:literal 45:42:literal 48:43:literal 49:44:literal 51:45:literal 53:47:literal 54:48:literal 55:51:literal 58:50:literal 59:55:literal 61:57:literal 62:54:literal 64:60:literal 65:61:literal 67:63:literal 68:64:literal 70:65:literal 71:66:literal 72:68:literal 75:73:literal 76:71:literal 78:74:literal 79:77:literal 81:76:literal 82:79:literal 85:82:literal 87:83:literal
+206 1:0:literal 2:2:literal 4:5:literal 5:6:literal 6:8:literal 7:9:literal 8:10:literal 11:12:literal 12:13:literal 4:4:literal
+207 0:0:literal 2:5:literal 3:6:literal 6:2:literal 8:11:literal 10:13:literal 11:10:literal 12:14:literal
+208 0:0:literal 3:12:literal 5:10:literal 14:8:literal
+209 0:0:literal 2:1:literal 4:11:literal 7:9:literal 10:7:literal 11:12:literal
+210 1:1:literal 2:2:literal 5:3:literal 7:7:literal 8:6:literal 9:10:literal 11:4:literal 13:19:literal 14:16:literal 15:18:literal 16:20:literal 13:15:literal
+211 0:0:literal 1:1:literal 2:2:literal 4:3:literal 5:4:literal 7:9:literal 12:11:literal
+212 1:0:literal 2:2:literal 4:7:literal 6:9:literal 7:10:literal 9:15:literal 11:12:literal 12:13:literal 13:16:literal
+213 0:0:literal 1:2:literal 2:1:literal 9:6:literal 10:8:literal 15:11:literal 16:12:literal
+214 0:0:literal 2:1:literal 3:2:literal 6:4:literal 8:5:literal 10:6:literal 12:8:literal 21:9:literal
+215 2:1:literal 3:6:literal 6:10:literal 12:4:literal 18:3:literal 19:14:literal
+216 1:1:literal 2:3:literal 4:4:literal 5:11:literal 9:6:literal 10:8:literal 11:14:literal
+217 0:5:literal 1:9:literal 3:3:literal 6:12:literal 9:13:literal 11:14:literal 12:15:literal 13:17:literal 15:19:literal 18:18:literal
+218 0:2:literal 6:4:literal 7:5:literal 10:7:literal 11:13:literal 13:10:literal 14:12:literal 18:18:literal 6:1:literal
+219 0:0:literal 2:2:literal 5:4:literal 7:6:literal 9:7:literal 10:8:literal 11:9:literal 12:10:literal
+220 1:3:literal 2:8:literal 5:14:literal 7:12:literal 12:4:literal 14:0:literal 15:1:literal 18:16:literal
+221 0:0:literal 3:3:literal 6:5:literal 8:8:literal 10:9:literal 11:11:literal 13:14:literal 14:17:literal
+222 1:0:literal 3:2:literal 7:25:literal 10:3:literal 11:4:literal 12:5:literal 14:6:literal 17:9:literal 19:10:literal 20:12:literal 24:16:literal 25:18:literal 27:18:literal 29:20:literal 30:26:literal
+223 2:5:literal 3:13:literal 6:11:literal 8:9:literal 10:4:literal 3:2:literal
+224 0:0:literal 1:2:literal 2:5:literal 5:10:literal 6:11:literal 7:13:literal 9:6:literal 11:8:literal 12:14:literal
+225 0:21:literal 4:0:literal 5:40:literal 6:3:literal 8:4:literal 9:5:literal 11:7:literal 12:12:literal 13:33:literal 19:13:literal 25:24:literal 26:27:literal 27:31:literal 30:28:literal 33:18:literal 35:36:literal 37:37:literal 38:43:literal 0:1:literal
+226 0:12:literal 1:1:literal 4:2:literal 5:10:literal 6:6:literal 8:16:literal 9:18:literal 14:14:literal 16:21:literal 18:19:literal 21:24:literal 22:25:literal 24:26:literal 26:27:literal 27:29:literal 28:31:literal 29:32:literal 0:0:literal
+227 0:9:literal 2:4:literal 6:2:literal 8:8:literal 10:10:literal 11:11:literal 13:13:literal 16:14:literal 18:15:literal 21:17:literal 25:32:literal 27:19:literal 30:20:literal 31:26:literal 33:28:literal 34:29:literal 35:33:literal 0:0:literal 33:21:literal
+228 2:2:literal 3:3:literal 5:6:literal 7:5:literal 10:12:literal 13:7:literal 14:8:literal 17:24:literal 18:17:literal 24:22:literal 25:25:literal 10:9:literal
+229 0:1:literal 1:11:literal 2:12:literal 4:8:literal 8:7:literal 13:13:literal 15:14:literal
+230 0:0:literal 1:2:literal 2:3:literal 3:8:literal 4:7:literal 5:9:literal 7:6:literal 9:16:literal 12:17:literal
+231 0:1:literal 2:14:literal 3:15:literal 7:10:literal 10:5:literal 11:7:literal 12:16:literal
+232 0:0:literal 1:2:literal 4:6:literal 8:11:literal 9:13:literal 10:15:literal 13:18:literal 14:19:literal
+233 0:2:literal 1:4:literal 3:0:literal 5:5:literal 7:7:literal 8:9:literal 9:12:literal 12:15:literal 13:17:literal 15:19:literal 17:25:literal 18:23:literal 19:26:literal
+234 1:1:literal 2:10:literal 4:5:literal 6:0:literal 8:13:literal 13:15:literal 14:16:literal 16:6:literal 18:11:literal 22:2:literal 23:20:literal 8:4:literal
+235 0:0:literal 2:1:literal 3:8:literal 7:4:literal 11:3:literal 12:9:literal
+236 0:0:literal 1:1:literal 2:4:literal 3:2:literal 7:7:literal 9:10:literal 10:10:literal 12:12:literal 14:13:literal 16:13:literal 17:22:literal 18:11:literal 20:18:literal 23:23:literal 27:24:literal 28:26:literal 7:6:literal
+237 3:3:literal 5:2:literal 16:24:literal 18:12:literal 20:8:literal 24:29:literal 26:31:literal 33:38:literal 16:5:literal 24:14:literal
+238 4:7:literal 6:6:literal 8:2:literal 9:1:literal 10:9:literal 15:13:literal 17:12:literal 21:16:literal 24:5:literal 25:21:literal 26:23:literal 28:29:literal 29:26:literal 31:27:literal 32:28:literal 35:24:literal 36:34:literal
+239 0:2:literal 4:8:literal 6:6:literal 8:10:literal 12:4:literal 14:12:literal 16:13:literal 17:16:literal
+240 0:1:literal 1:2:literal 7:12:literal 8:7:literal 11:11:literal 15:5:literal 17:15:literal
+241 1:5:literal 5:8:literal 7:10:literal 16:12:literal 18:13:literal
+242 1:2:literal 4:0:literal 5:11:literal 6:6:literal 7:12:literal 9:18:literal 14:9:literal 15:21:literal
+243 0:12:literal 3:10:literal 7:5:literal 8:7:literal 10:8:literal 14:0:literal 15:14:literal
+244 3:6:literal 5:9:literal 7:8:literal 10:12:literal 11:13:literal
+245 0:0:literal 1:1:literal 2:6:literal 5:3:literal 6:4:literal 12:12:literal 13:17:literal 16:15:literal 17:18:literal
+246 0:4:literal 1:0:literal 4:3:literal 7:8:literal 9:11:literal 11:9:literal 14:14:literal 15:16:literal 9:7:literal
+247 0:0:literal 3:5:literal 4:3:literal 5:2:literal 7:8:literal 9:9:literal 11:13:literal 13:15:literal 15:19:literal 18:28:literal 19:11:literal 21:24:literal 22:26:literal 23:25:literal 27:7:literal 29:29:literal 31:30:literal 32:33:literal 18:10:literal
+248 0:2:literal 4:3:literal 11:5:literal
+249 0:0:literal 1:1:literal 3:4:literal 4:2:literal 6:3:literal 8:9:literal 9:10:literal 10:12:literal 12:14:literal 17:17:literal 18:19:literal 19:21:literal 20:22:literal
+250 0:0:literal 1:1:literal 3:3:literal 5:5:literal 6:6:literal 9:9:literal 11:13:literal 13:14:literal 14:15:literal 16:12:literal 17:16:literal
+251 0:0:literal 2:2:literal 4:6:literal 6:3:literal 9:8:literal 10:9:literal 11:10:literal 13:12:literal
+252 0:9:literal 5:6:literal 10:3:literal 12:4:literal 13:4:literal 15:2:literal 16:12:literal
+253 0:0:literal 1:3:literal 3:2:literal 5:5:literal 10:12:literal 11:13:literal 12:9:literal 13:17:literal 15:19:literal 16:20:literal 17:22:literal 21:26:literal 24:24:literal 26:28:literal 27:30:literal 28:27:literal 30:32:literal
+254 1:9:literal 9:19:literal 20:4:literal 24:14:literal 25:23:literal 27:13:literal 32:22:literal 33:30:literal 32:18:literal 32:21:literal
+255 0:7:literal 1:2:literal 6:10:literal 7:13:literal 10:16:literal 12:18:literal 14:19:literal 15:20:literal 0:1:literal
+256 0:3:literal 1:4:literal 5:1:literal 8:8:literal 9:0:literal 11:5:literal 12:13:literal 14:11:literal 16:12:literal 18:7:literal 21:14:literal
+257 0:0:literal 1:1:literal 3:2:literal 4:8:literal 7:5:literal 8:6:literal 13:11:literal 4:3:literal
+258 0:8:literal 1:12:literal 6:13:literal 11:5:literal 14:3:literal 15:15:literal
+259 1:0:literal 2:1:literal 3:8:literal 4:2:literal 6:6:literal 13:9:literal
+260 1:0:literal 4:2:literal 10:1:literal 11:6:literal 13:8:literal 17:7:literal 21:13:literal 24:16:literal 28:28:literal 33:20:literal 36:23:literal 37:31:literal
+261 1:5:literal 3:6:literal 5:1:literal 6:9:literal 7:11:literal 11:12:literal
+262 0:0:literal 2:1:literal 4:11:literal 7:3:literal 8:7:literal 9:12:literal 11:13:literal 13:17:literal 14:16:literal 16:8:literal 18:9:literal 21:19:literal 22:29:literal 25:23:literal 30:26:literal 33:28:literal 34:31:literal 22:24:literal
+263 1:16:literal 6:7:literal 8:10:literal 11:14:literal 13:18:literal 14:19:literal 19:23:literal 21:26:literal
+264 3:0:literal 5:7:literal 6:5:literal 8:6:literal 11:8:literal 14:1:literal 15:14:literal 11:3:literal
+265 2:3:literal 3:14:literal 4:1:literal 6:7:literal 7:6:literal 9:20:literal 11:13:literal 14:17:literal 17:18:literal 18:24:literal 19:19:literal 21:21:literal 24:29:literal 25:22:literal 27:23:literal 28:31:literal 9:5:literal
+266 0:2:literal 3:15:literal 4:1:literal 6:4:literal 8:3:literal 11:8:literal 12:9:literal 15:11:literal 16:16:literal 15:6:literal
+267 3:3:literal 7:8:literal 9:9:literal 10:11:literal 11:12:literal 12:13:literal
+268 0:0:literal 8:4:literal 9:3:literal 11:5:literal 12:15:literal
+269 0:5:literal 2:2:literal 7:7:literal 8:8:literal 10:10:literal 12:12:literal 14:14:literal 17:17:literal 19:21:literal 0:0:literal
+270 0:0:literal 1:2:literal 2:3:literal 4:5:literal 9:6:literal 11:8:literal 13:10:literal 14:11:literal 15:13:literal 17:12:literal 20:14:literal
+271 3:3:literal 4:6:literal 6:5:literal 8:8:literal 9:9:literal 10:10:literal 12:11:literal 13:12:literal
+272 8:1:literal 20:4:literal
+273 4:6:literal 6:4:literal 8:1:literal 9:9:literal 12:13:literal 14:12:literal 18:18:literal 21:19:literal 24:21:literal 25:22:literal 26:23:literal 27:24:literal 29:26:literal 30:27:literal 31:28:literal
+274 0:8:literal 3:10:literal 5:11:literal 6:0:literal 8:7:literal 11:1:literal 13:2:literal 14:14:literal 15:4:literal 20:19:literal 22:13:literal 23:3:literal 24:15:literal 26:16:literal 27:20:literal 28:21:literal 29:23:literal
+275 2:2:literal 3:3:literal 4:4:literal 9:10:literal 11:8:literal 14:14:literal 17:15:literal
+276 1:5:literal 8:0:literal 9:6:literal 14:4:literal 16:7:literal 18:8:literal 19:9:literal 21:24:literal 22:25:literal 25:17:literal 31:20:literal 32:22:literal 34:28:literal 36:29:literal 38:30:literal 40:31:literal 42:32:literal 48:37:literal 49:38:literal 50:35:literal 52:33:literal 22:11:literal 21:12:literal
+277 0:0:literal 1:1:literal 2:2:literal 3:25:literal 7:5:literal 8:6:literal 11:13:literal 12:22:literal 14:10:literal 16:7:literal 17:8:literal 22:11:literal 23:20:literal 27:26:literal
+278 2:7:literal 4:0:literal 5:1:literal 6:3:literal 7:5:literal 8:6:literal 9:10:literal 11:12:literal 13:19:literal 16:20:literal 13:17:literal
+279 1:0:literal 2:23:literal 4:7:literal 7:5:literal 8:9:literal 12:12:literal 15:13:literal 21:25:literal 22:26:literal 23:29:literal 25:27:literal 27:31:literal 29:32:literal 31:33:literal 2:2:literal 21:19:literal
+280 0:0:literal 1:6:literal 4:8:literal 5:1:literal 7:4:literal 8:7:literal 10:3:literal 11:10:literal
+281 1:18:literal 3:16:literal 4:8:literal 12:7:literal 15:10:literal 16:11:literal 20:3:literal 21:19:literal
+282 1:13:literal 6:7:literal 8:4:literal 9:8:literal 11:9:literal 15:11:literal 19:14:literal
+283 1:0:literal 2:7:literal 3:2:literal 7:13:literal 10:9:literal 12:11:literal 13:18:literal 17:10:literal 19:29:literal 22:24:literal 23:26:literal 24:28:literal 25:30:literal 27:34:literal 19:15:literal
+284 2:3:literal 7:6:literal 8:7:literal 9:8:literal 11:10:literal 13:12:literal 14:14:literal 15:15:literal
+285 1:5:literal 2:7:literal 3:8:literal 5:0:literal 9:1:literal 11:2:literal 13:3:literal 14:10:literal
+286 0:0:literal 3:2:literal 4:7:literal 5:8:literal 6:9:literal 7:10:literal 10:4:literal 11:5:literal 12:12:literal
+287 2:4:literal 3:1:literal 8:11:literal 10:9:literal 13:10:literal 14:13:literal 15:15:literal 16:16:literal 17:17:literal
+288 0:0:literal 1:1:literal 2:13:literal 3:2:literal 4:7:literal 6:4:literal 7:6:literal 9:12:literal 10:11:literal 11:10:literal 12:17:literal 13:14:literal 15:19:literal 16:20:literal 17:18:literal 19:15:literal
+289 0:0:literal 3:2:literal 4:3:literal 6:15:literal 8:5:literal 12:11:literal 13:7:literal 17:12:literal 19:14:literal 21:20:literal 22:21:literal 6:4:literal
+290 2:0:literal 4:1:literal 6:3:literal 7:4:literal 10:7:literal 12:8:literal 15:5:literal 16:10:literal

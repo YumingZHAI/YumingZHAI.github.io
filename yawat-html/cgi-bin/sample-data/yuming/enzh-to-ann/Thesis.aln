@@ -1,0 +1,26 @@
+
+54 0:6:literal 1:7,5:literal 2:4:literal 3:2:literal 4:3,1:literal 5:10,11,12,8:literal 6:14:literal 7:16:literal 8:15,17:literal 9:18:literal
+57 0:4:literal 1:2:literal 2:3:literal 3:1:transposition 4:5:literal 5:6:literal 6:7:literal 7:8:literal 8::unaligned_explicitation 9:0:literal
+58 0:1:literal 1:2:literal 2:3,0:literal 3,4:4:literal 5:11:particularization 6:12:transposition 7,8:13,14:equivalence 9:10,8:literal 10:9:literal 11::unaligned_reduction 12:6:literal 13:15:literal 14:17:literal 15:22:literal 16:23:literal 17::unaligned_reduction 18:21:transposition 19,20,22::unaligned_reduction 21:18,19,20:equivalence 23:24:literal :5:unaligned_explicitation :7:unaligned_explicitation
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80

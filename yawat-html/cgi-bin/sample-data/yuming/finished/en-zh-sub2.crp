@@ -1,0 +1,318 @@
+814
+I want to start out by asking you to think back to when you were a kid , playing with blocks . 
+首先 ， 我 想 请 大家 回忆 一下 你们 在 孩提 时代 玩 过 的 积木 。
+815
+as you figured out how to reach out and grasp , pick them up and move them around , you were actually learning how to think and solve problems by understanding and manipulating spatial relationships . 
+当 你 构思 着 怎么 去 搭建 积木 并且 去 动手 操作 的 时候 ， 其实 是 你 正在 学习 怎样 思考 和 解决 问题 。 这 即是 对 物体 的 空间 结构 的 理解 和 感知 。
+816
+spatial reasoning is deeply connected to how we understand a lot of the world around us . 
+理解 物体 的 空间 结构 非常 有助于 我们 对 很多 周围 事物 的 学习 。
+817
+so , as a computer scientist inspired by this utility of our interactions with physical objects -- along with my adviser Pattie , and my collaborator Jeevan Kalanithi -- I started to wonder -- what if when we used a computer , instead of having this one mouse cursor that was a like a digital fingertip moving around a flat desktop , what if we could reach in with both hands and grasp information physically , arranging it the way we wanted ? 
+因此 ， 作为 一个 计算机 领域 的 科学家 ， 在 这 种 手动 思考 方式 的 启发 下 ， 以及 在 我 的 导师 Pattie 和 我 的 合作 伙伴 Jeevan Kalanithi 的 帮助 下 ， 我 开始 思考 - - 要是 我们 能 用 一 种 新型 计算机 来 代替 鼠标 移动 光标 ， 就 好比 一 种 数字化 的 手指尖 在 桌面 移动 - - 那样 会 如何 呢 ？ 要是 我们 能 用 手 来 直接 感知 信息 ， 按 我们 的 思路 来 组合 信息 - - 那样 会 如何 呢 ？
+818
+this question was so compelling that we decided to explore the answer , by building Siftables . 
+这样 的 疑问 不断 萦绕 在 我 的 脑海 中 ， 于是 我们 决定 去 探寻 答案 ， 所以 才 有 了 这 款 Siftables 。
+819
+in a nutshell , a Siftable is an interactive computer the size of a cookie . 
+简单 地 说 ， Siftable 是 一 款 互动 计算机 ， 体积 如 饼干 般 大小 。
+820
+they 're able to be moved around by hand , they can sense each other , they can sense their motion , and they have a screen and a wireless radio . 
+Siftables 可以 用 手 随意 移动 ， 每 块 Siftable 可以 互相 感知 彼此 的 移动 ， 每 块 Siftable 还 有 显示屏 和 无线电 装置 。
+821
+most importantly , they 're physical , so like the blocks , you can move them just by reaching out and grasping . 
+最 重要 的 是 ， 每 块 Siftable 都 是 独立 的 ， 就 像 积木 一样 ， 可以 随意 搭配 。
+822
+and Siftables are an example of a new ecosystem of tools for manipulating digital information . 
+而且 Siftables 代表 了 一 种 新 的 生态系统 - - 即 数字化 信息 的 操作 工具 。
+823
+and as these tools become more physical , more aware of their motion , aware of each other , and aware of the nuance of how we move them , we can start to explore some new and fun interaction styles . 
+这 种 操作 工具 更加 独立 ， 更加 灵敏 ， 能 彼此 感知 ， 感知 任何 细微 的 移动 ， 所以 我们 可以 使用 这 种 工具 尝试 一些 新 的 有趣 的 互动 。
+824
+so , I 'm going to start with some simple examples . 
+现在 ， 我 就 来 演示 一些 简单 的 。
+825
+this Siftable is configured to show video , and if I tilt it in one direction , it 'll roll the video this way ; if I tilt it the other way it rolls it backwards . 
+这 块 Siftable 有 映像 配置 ， 如果 我 把 它 向 一侧 倾斜 ， 那么 它 所 显示 的 画面 也 朝 这边 倾斜 ， 如果 我 把 它 朝 反 方向 倾斜 ， 那么 图像 也 朝 反 方向 倾斜 。
+826
+and these interactive portraits are aware of each other . 
+而且 这些 Siftables 能 互相 感知 。
+827
+so if I put them next to each other , they get interested . 
+如果 把 它们 一个 挨 一个 摆好 ， 有趣 的 现象 就 会 发生 。
+828
+if they get surrounded , they notice that too , they might get a little flustered . 
+如果 把 它们 随意 一 堆 ， 他们 也 会 察觉 到 ， 那 就 会 有点 儿 混乱 。
+829
+and they can also sense their motion and tilt . 
+它们 还 能 感知 彼此 的 移动 和 倾斜 。
+830
+one of the interesting implications on interaction , we started to realize , was that we could use everyday gestures on data , like pouring a color the way we might pour a liquid . 
+我们 发现 一个 有趣 的 互动 - - 我们 可以 通过 一些 常用 的 手势 和 Siftables 进行 互动 ， 比如 象 倒 液体 那样 把 颜色 从 一 块 Siftable 倒入 另 一块 Siftable .
+831
+so in this case , we 've got three Siftables configured to be paint buckets and I can use them to pour color into that central one , where they get mixed . 
+我们 来看 这个 演示 ， 这 有 三 块 设置 成 油漆 桶 模式 的 Siftables , 我们 可以 把 这些 桶 里 的 颜色 倒入 中间 的 那个 ， 把 颜色 混 在 一起 .
+832
+if we overshoot , we can pour a little bit back . 
+如果 倒 多 了 ， 可以 再 倒 回去 一些 。
+833
+there are also some neat possibilities for education , like language , math and logic games where we want to give people the ability to try things quickly , and view the results immediately . 
+Siftables 还 有 学习机 的 功能 ， 可以 用来 学 语言 、 算 算术 等 - - 我们 希望 通过 这些 功能 让 学习 变 得 快捷 ， 更 快 看到 结果 。
+834
+so here I 'm -- This is a Fibonacci sequence that I 'm making with a simple equation program . 
+这 也 是 我 来 这里 展示 Siftables 的 原因 - - （ 掌声 ） 这 是 我 用 一个 简单 方程式 做成 的 斐波那契 数列 。
+835
+here we have a word game that 's kind of like a mash-up between Scrabble and Boggle . 
+Siftables 还 可以 玩 拼 字 游戏 - - 一 种 Scrabble 和 Boggle 混 搭 的 拼字 游戏 。
+836
+basically , in every round you get a randomly assigned letter on each Siftable , and as you try to make words it checks against a dictionary . 
+这 种 拼字 游戏 的 玩法 大致 如下 ， 你 随意 拿 一 块 带有 字母 的 Siftable , 当 你 把 几 块 带有 字母 的 Siftables 拼 在 一起 组成 单词 时 ， Siftables 会 在 字典 里 自动 查找 单词 。
+837
+then , after about 30 seconds , it reshuffles , and you have a new set of letters and new possibilities to try . 
+大约 30 秒 后 Siftables 会 自动 根据 正确 的 单词 拼写 顺序 改变 原来 显示 的 字母 ， 组成 正确 的 单词 ， 你 还 可以 尝试 用 其他 的 字母 拼 出 新 的 单词 。
+838
+so these are some kids that came on a field trip to the Media Lab , and I managed to get them to try it out , and shoot a video . 
+（ 掌声 ） 现在 ， 屏幕 上 显示 的 是 一些 孩子 正在 Media Lab 里 参与 Siftables 的 试用 体验 ， 我 把 孩子 们 的 体验 过程 拍 了 下来 。
+839
+they really loved it . 
+孩子 们 非常 喜欢 Siftables 。
+840
+and , one of the interesting things about this kind of application is that you do n't have to give people many instructions . 
+而且 有趣 的 是 在 玩 这个 拼字 游戏 的 时候 我们 并不 需要 向 他们 解释 什么 。
+841
+all you have to say is , `` make words , '' and they know exactly what to do . 
+只要 跟 他们 说 这 是 个 “ 拼 字 ” 游戏 时 ， 他们 就 知道 该 怎么 做 了 。
+842
+so here 's another few people trying it out . 
+现在 屏幕 上 显示 的 是 另 一些 人 在 体验 Siftables 。
+843
+that 's our youngest beta tester , down there on the right . 
+右下角 这位 是 年龄 最小 的 体验 者 。
+844
+turns out , all he wanted to do was to stack the Siftables up . 
+他 只是 想 把 Siftables 堆 在 一起 。
+845
+so to him , they were just blocks . 
+在 他 看来 ， Siftables 只 是 积木 。
+846
+now , this is an interactive cartoon application . 
+现在 屏幕 上 显示 的 是 一 种 动画 功能 的 互动 尝试 。
+847
+and we wanted to build a learning tool for language learners . 
+我们 希望 Siftables 能 成为 学习 语言 的 帮手 。
+848
+and this is Felix , actually . 
+画面 上 的 这个 孩子 叫 Felix 。
+849
+and he can bring new characters into the scene , just by lifting the Siftables off the table that have that character shown on them . 
+他 能 把 一些 新 元素 添加 到 动画 图像 上 ， 他 所 做 的 就是 把 桌 上 的 Siftables 拿 起来 朝着 动画 图像 投 一下 影 ， 就 可以 把 这些 新 元素 加到 动画 上 了 。
+850
+here , he 's bringing the sun out . 
+看 ， 他 把 太阳 加上 去 了 。
+851
+the sun is rising . 
+太阳 升 起来 了 。
+852
+now he 's brought a tractor into the scene . 
+大卫 · 现在 他 把 拖拉机 加上 去 了 。
+853
+the orange tractor . 
+橙色 的 拖拉机 。
+854
+good job ! Yeah ! 
+做 的 不错 ！
+855
+so by shaking the Siftables and putting them next to each other he can make the characters interact -- Woof ! 
+把 Siftables 朝 动画 图像 晃 一下 就 可以 把 新 元素 加到 画面 上 他 把 新 元素 加上 去 了 - - 狗吠 声
+856
+inventing his own narrative . 
+他 在 编写 属于 他 的 动画 故事 。
+857
+hello ! 
+你 好 ！
+858
+it 's an open-ended story , and he gets to decide how it unfolds . 
+这 是 个 开放式 结局 的 故事 ， 他 在 计划 怎样 展开 故事 情节 。 
+859
+fly away , cat . 
+猫 坐 着 热气球 飞走 了 。
+860
+so , the last example I have time to show you today is a music sequencing and live performance tool that we 've built recently , in which Siftables act as sounds like lead , bass and drums . 
+下面 我 要 给 大家 进行 最后 一个 展示 这个 功能 可以 编排 、 演奏 音乐 是 我们 最近 研发 的 ， Siftables 的 这 种 功能 体现 在 声音 方面 ， 能 发出 像 超载 音 、 贝斯 及 鼓 的 声音 。
+861
+each of these has four different variations , you get to choose which one you want to use . 
+每个 模块 有 四 档 可 供 调节 ， 任 君 选择 。
+862
+and you can inject these sounds into a sequence that you can assemble into the pattern that you want . 
+你 可以 把 声音 模块 的 Siftable 里 的 声音 加入 编辑 模块 的 Siftable 按 你 喜欢 的 方式 。
+863
+and you inject it by just bumping up the sound Siftable against a sequence Siftable . 
+加入 声音 只 需 把 声音 模块 靠近 编辑 模块 。
+864
+there are effects that you can control live , like reverb and filter . 
+还有 类似 混 响 器 、 滤 声 器 作用 的 Siftable 模块 。
+865
+you attach it to a particular sound and then tilt to adjust it . 
+把 这 类 模块 靠近 声音 模块 就 可以 调整 声音 了 。
+866
+and then , overall effects like tempo and volume that apply to the entire sequence . 
+接下来 ， 可以 用 控制 总体 节奏 和 音量 的 Siftable 模块 靠近 编辑 模块 的 Siftable 来 调整 节奏 和 音量 。
+867
+so let 's have a look . 
+我们 来看 一下 。
+868
+we 'll start by putting a lead into two sequence Siftables , arrange them into a series , extend it , add a little more lead . 
+开始 先 把 超载 音 注入 两 个 编辑 模块 ， 再 加 一些 超载 音 。
+869
+now I put a bass line in . 
+现在 加入 贝斯 音 。
+870
+now I 'll put some percussion in . 
+现在 加入 一些 打击乐器 的 声音 。
+871
+and now I 'll attach the filter to the drums , so I can control the effect live . 
+现在 把 滤 声 模块 靠近 鼓声 模块 ， 这样 可以 调整 声音 。
+872
+I can speed up the whole sequence by tilting the tempo one way or the other . 
+我 来 把 节奏 加快 些 只 需 把 节奏 模块 靠近 编辑 模块 。
+873
+and now I 'll attach the filter to the bass for some more expression . 
+现在 再 把 滤 声 模块 靠近 贝斯 模块 滤 声 。
+874
+I can rearrange the sequence while it plays . 
+在 音乐 演奏 的 过程 中 还 可以 重新 编排 。
+875
+so I do n't have to plan it out in advance , but I can improvise , making it longer or shorter as I go . 
+所以 并不 需要 提前 编排 ， 而是 在 演奏 时 随时 改编 ， 可 长 可 短 。
+876
+and now , finally , I can fade the whole sequence out using the volume Siftable , tilted to the left . 
+最后 ， 我 来 结束 整个 演奏 ， 用 音量 模块 靠近 编辑 模块 ， 用 左边 这个 档 。
+877
+so , as you can see , my passion is for making new human-computer interfaces that are a better match to the ways our brains and bodies work . 
+正如 大家 看到 的 ， 我 的 理想 就 是 研发 一 款 新型 的 能够 人机 互动 的 媒介 更 好 地 配合 人体 大脑 的 运作 。
+878
+and today , I had time to show you one point in this new design space , and a few of the possibilities that we 're working to bring out of the laboratory . 
+今天 ， 我 在 这 给 大家 展示 了 Siftable ， 我们 的 后续 研究 正在 实验室 中 进行 。
+879
+so the thought I want to leave you with is that we 're on the cusp of this new generation of tools for interacting with digital media that are going to bring information into our world on our terms . 
+我 想 跟 大家 交流 的 想法 就 是 我们 在 研发 新 一代 尖端 科技 产品 - - 可以 和 数字 媒体 接轨 的 科技 产品 ， 它 将 给 世界 带来 变化 这样 的 革新 在 我们 这 一代 就 会 看到 。
+880
+I look forward to talking with all of you . 
+我 期待 着 和 大家 共同 探讨 。
+881
+one day , Los Angeles Times columnist Steve Lopez was walking along the streets of downtown Los Angeles when he heard beautiful music . 
+有一天 ， 洛杉矶 时报 的 专栏 作家 Steve Lopez 走 在 洛杉矶 大街 上 听到 一 曲 美妙 的 乐曲
+882
+and the source was a man , an African-American man , charming , rugged , homeless , playing a violin that only had two strings . 
+音乐 是 从 一个 男人 一个 非 裔 男人 一个 颇 有 魅力 ， 粗 旷 的 流浪汉 用 一 把 只 剩下 两 根 弦 的 小提琴 在 演奏
+883
+and I 'm telling a story that many of you know , because Steve 's columns became the basis for a book , which was turned into a movie , with Robert Downey Jr. acting as Steve Lopez , and Jamie Foxx as Nathaniel Anthony Ayers , the Juilliard-trained double bassist whose promising career was cut short by a tragic affliction with paranoid schizophrenia . 
+我 现在 要 讲 的 这个 故事 你们 很多 人 已经 知道 了 因为 Steve 的 专栏 后来 成 了 一 本 书 的 基础 ， 然后 又 被 拍成 电影 其中 Robert Downey Jr 扮演 Steve Lopez Jamie Foxx 扮演 了 Nathaniel Anthony Ayer 他 原本 是 茱莉亚音乐学院 培训 的 双重贝斯 手 不料 他 的 职业 生涯 却 因为 患上 偏执 型 精神分裂症 而 不幸 中断
+884
+Nathaniel dropped out of Juilliard , he suffered a complete breakdown , and 30 years later he was living homeless on the streets of Skid Row in downtown Los Angeles . 
+Nathaniel 从 茱莉亚音乐学院 辍学 ， 他 完全 崩溃 了 30 年 后 的 他 流落 在 洛杉矶 Skid Row 大街 上 无家可归
+885
+I encourage all of you to read Steve 's book or to watch the movie to understand not only the beautiful bond that formed between these two men , but how music helped shape that bond , and ultimately was instrumental -- if you 'll pardon the pun -- in helping Nathaniel get off the streets . 
+我 鼓励 大家 都 去 看看 Steve 的 书 ， 或者 看看 电影 不光 是 去 理解 这 两 个 男人 之间 建立 的 美好 的 纽带 而且 也 看看 音乐 是 如何 帮助 建立 这 种 纽带 的 而 那是 最终 改变 Nathaniel 流浪 生活 的 最 有用 的 工具
+886
+I met Mr. Ayers in 2008 , two years ago , at Walt Disney Concert Hall . 
+我 和 Ayers 先生 在 2008 年 相见 那是 两 年 前 在 迪斯尼 音乐厅
+887
+he had just heard a performance of Beethoven 's First and Fourth symphonies , and came backstage and introduced himself . 
+他 才 听 了 贝多芬 第一 ， 第四 交响乐 到 后台 来 自 我 介绍
+888
+he was speaking in a very jovial and gregarious way about Yo-Yo Ma and Hillary Clinton and how the Dodgers were never going to make the World Series , all because of the treacherous first violin passage work in the last movement of Beethoven 's Fourth Symphony . 
+他 说话 很 愉快 ， 很 合群 提到 了 马友友 和 希拉里 . 克林顿 道 奇队 不 可能 进入 世界 联赛 而 这 都 是 因为 最后 一刻 贝多芬 第四 交响乐 中 开始 的 那 段 变幻莫测 的 小提琴 演奏 起 的 作用
+889
+and we got talking about music , and I got an email from Steve a few days later saying that Nathaniel was interested in a violin lesson with me . 
+我们 谈 了 一会儿 音乐 。 几 天 后 我 收到 Steve 的 来信 告诉 我 Nathaniel 有 兴趣 跟 我 说 学 小提琴
+890
+now , I should mention that Nathaniel refuses treatment because when he was treated it was with shock therapy and Thorazine and handcuffs , and that scar has stayed with him for his entire life . 
+我 应该 提 一下 的 是 Nathaniel 拒绝 治疗 因为 当初 他 接受 的 是 电击 疗法 用 的 是 镇静剂 和 手铐 那些 伤疤 从此 留 在 了 他 的 生活 中
+891
+but as a result now , he is prone to these schizophrenic episodes , the worst of which can manifest themselves as him exploding and then disappearing for days , wandering the streets of Skid Row , exposed to its horrors , with the torment of his own mind unleashed upon him . 
+结果 呢 ， 他 的 精神分裂症 现在 变 得 更 容易 发作 最 糟糕 的 表现 是 他 发作 后 会 消失 几 天 在 Skid Row 大街 上 流浪 暴露 着 内心 的 恐惧 ， 让 心灵 的 煎熬 在 身上 释放
+892
+and Nathaniel was in such a state of agitation when we started our first lesson at Walt Disney Concert Hall -- he had a kind of manic glint in his eyes , he was lost . 
+Nathaniel 当初 就 是 处在 这样 的 一 种 状态 下 我们 在 迪斯尼 音乐厅 开始 了 第一 课 的 时候 他 的 目光 中 夹杂 着 狂躁 他 是 一个 迷失 了 方向 的 人
+893
+and he was talking about invisible demons and smoke , and how someone was poisoning him in his sleep . 
+他 提到 了 无形 的 恶魔 和 烟雾 有人 怎样 在 他 睡觉 时 给 他 下毒
+894
+and I was afraid , not for myself , but I was afraid that I was going to lose him , that he was going to sink into one of his states , and that I would ruin his relationship with the violin if I started talking about scales and arpeggios and other exciting forms of didactic violin pedagogy . 
+我 感到 很 害怕 不 是 为 我 自己 的 安全 担心 ， 而是 害怕 我 会 失去 他 他 又 会 沉浸 到 他 的 某 一 种 他 的 状态 中 而 我 会 毁 了 他 和 小提琴 建立 起来 的 关系 如果 我 开始 讲 音阶 和 琶音 和 其他 形式 的 精彩 的 说教 式 的 小提琴 教学法
+895
+so , I just started playing . 
+于是 ， 我 开始 拉琴
+896
+and I played the first movement of the Beethoven Violin Concerto . 
+我 演奏 了 贝多芬 小提琴 协奏曲 的 第一 乐章
+897
+and as I played , I understood that there was a profound change occurring in Nathaniel 's eyes . 
+当 我 演奏 的 时候 我 知道 Nathaniel 的 眼睛 里 有 一 种 奥妙 的 变化
+898
+it was as if he was in the grip of some invisible pharmaceutical , a chemical reaction , for which my playing the music was its catalyst . 
+好象 他 抓住 了 什么 隐形 的 药 象是 经历 了 化学 反应 ， 而 我 的 演奏 就 是 催化剂
+899
+and Nathaniel 's manic rage was transformed into understanding , a quiet curiosity and grace . 
+他 的 狂躁 愤怒 也 转化 成 理解 安静 的 好奇 ， 和 优雅
+900
+and in a miracle , he lifted his own violin and he started playing , by ear , certain snippets of violin concertos which he then asked me to complete -- Mendelssohn , Tchaikovsky , Sibelius . 
+神奇 的 是 ， 他 拿起 了 他 的 小提琴 他 也 跟着 开始 演奏 小提琴 协奏曲 的 某些 片断 然后 他 又 要 我 来 完成 ， 门德尔松 柴可夫斯基 ， 西贝柳斯
+901
+and we started talking about music , from Bach to Beethoven and Brahms , Bruckner , all the B 's , from Bartók , all the way up to Esa-Pekka Salonen . 
+于是 我们 开始 谈论 音乐 ： 从 巴赫 到 贝多芬 ， 布拉姆斯 布鲁克纳 ， 所有 名字 以 B 打头 的 人 从 巴托克 一直 到 艾沙 · 佩卡 · 萨洛宁
+902
+and I understood that he not only had an encyclopedic knowledge of music , but he related to this music at a personal level . 
+我 了解 到 他 不但 是 一 本 音乐 大百科全书 而且 他 能 将 这些 音乐 跟 他 个人 的 感受 联系 起来
+903
+he spoke about it with the kind of passion and understanding that I share with my colleagues in the Los Angeles Philharmonic . 
+他 讲到 那些 东西 时 充满 了 激情 和 对 音乐 深刻 的 理解 ， 仿佛 是 我 跟 我 在 洛杉矶 交响乐团 的 同事 们 之间 交流 时 一样
+904
+and through playing music and talking about music , this man had transformed from the paranoid , disturbed man that had just come from walking the streets of downtown Los Angeles to the charming , erudite , brilliant , Juilliard-trained musician . 
+通过 演奏 音乐 ， 谈论 音乐 这 个 人 从 一个 偏执 ， 不安 的 刚才 还 在 洛杉矶 大街 上 晃悠 的 流浪汉 变成 了 一个 迷人 ， 博学 优秀 的 受过 朱丽亚音乐学院 教育 的 音乐家
+905
+music is medicine . music changes us . 
+音乐 是 良 药 。 音乐 改变 着 我们
+906
+and for Nathaniel , music is sanity . 
+对 nathaniel 来说 ， 音乐 是 帮助 他 开启 心智
+907
+because music allows him to take his thoughts and delusions and shape them through his imagination and his creativity , into reality . 
+因为 音乐 可以 帮 他 将 他 的 思维 妄想 ， 转换 成形 通过 他 的 想象力 和 创造力 变成 现实
+908
+and that is an escape from his tormented state . 
+而 正 是 这个 帮助 他 从 煎熬 中 解脱 出来
+909
+and I understood that this was the very essence of art . 
+而 我 知道 这 就 是 艺术 的 真 髓
+910
+this was the very reason why we made music , that we take something that exists within all of us at our very fundamental core , our emotions , and through our artistic lens , through our creativity , we 're able to shape those emotions into reality . 
+这 正 是 我们 创造 音乐 的 原因 我们 用 我们 每 个 人 都 拥有 的 一 种 内在 我们 的 最 根本 的 核心 我们 的 感情 通过 我们 的 艺术 的 镜头 通过 我们 的 创造力 ， 将 我们 的 情感 塑造 成 现实
+911
+and the reality of that expression reaches all of us and moves us , inspires and unites us . 
+而 这 种 现实 的 表达 传递 给 我们 所有 的 人 感动 我们 ， 启迪 我们 ， 团结 我们
+912
+and for Nathaniel , music brought him back into a fold of friends . 
+而 对 Nathaniel 音乐 把 他 带 回到 一 群 朋友 中
+913
+the redemptive power of music brought him back into a family of musicians that understood him , that recognized his talents and respected him . 
+音乐 的 挽救 力 将 他 带回 到 音乐 的 大 家庭 这里 人们 理解 他 承认 他 的 天赋 尊重 他
+914
+and I will always make music with Nathaniel , whether we 're at Walt Disney Concert Hall or on Skid Row , because he reminds me why I became a musician . 
+而 我 会 永远 为 他 创造 音乐 无论 是 在 迪斯尼 的 音乐厅 或者 Skid Row 的 大街 上 ， 因为 他 提示 着 我 为什么 我 要 做 音乐家
+915
+thank you . 
+谢谢
+916
+bruno Giussani : thank you . thanks . 
+Bruno Giussani : 谢谢 ， 谢谢
+917
+Robert Gupta . 
+Robert Gupta .
+918
+Robert Gupta : I 'm going to play something that I shamelessly stole from cellists . 
+Robert Gupta ： 现在 我 给 大家 演奏 一 段 我 厚 颜 从 大提琴 手 那里 窃 来 的 曲子
+919
+so , please forgive me . 
+所以 请 原谅 我

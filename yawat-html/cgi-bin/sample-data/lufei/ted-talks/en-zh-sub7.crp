@@ -1,0 +1,399 @@
+1110
+if I can leave you with one big idea today , it 's that the whole of the data in which we consume is greater that the sum of the parts , and instead of thinking about information overload , what I 'd like you to think about is how we can use information so that patterns pop and we can see trends that would otherwise be invisible . 
+如果 今天 我 可以 留给 你们 一个 理念 那 就是 我们 消费 的 所有 的 数据 所 富含 的 信息 大于 各 部分 相加 的 总和 ， 那 就是 我们 消费 的 所有 的 数据 所 富含 的 信息 大于 各 部分 相加 的 总和 ， 那 就是 我们 消费 的 所有 的 数据 所 富含 的 信息 大于 各 部分 相加 的 总和 ， 并且 ， 与其 思考 信息 爆炸 我 希望 你 想 一 想 怎样 使用 这些 信息 ， 显示 其中 的 规律 使得 我们 能 看见 本来 不 可见 的 趋势 ，
+1111
+so what we 're looking at right here is a typical mortality chart organized by age . 
+那么 我们 在 这里 看到 的 是 一个 典型 的 死亡率 图表 按照 年龄 分组
+1112
+this tool that I 'm using here is a little experiment . 
+我 在 这里 使用 的 工具 是 一个 小 实验
+1113
+it 's called Pivot , and with Pivot what I can do is I can choose to filter in one particular cause of deaths -- say , accidents . 
+它 称为 Pivot ， 我 能 用 Pivot 选择 过滤 特殊 死亡 原因 ， 譬如 事故
+1114
+and , right away , I see there 's a different pattern that emerges . 
+立刻 ， 我 看到 一个 不同 的 模式 展现 出来
+1115
+this is because , in the mid-area here , people are at their most active , and over here they 're at their most frail . 
+这 是 因为 ， 在 中间 这里 人们 在 他们 最 活跃 的 年龄 而 在 这里 他们 也 是 最 体弱多病 的 时候
+1116
+we can step back out again and then reorganize the data by cause of death , seeing that circulatory diseases and cancer are the usual suspects , but not for everyone . 
+我们 可以 退 回来 根据 死亡 原因 重组 数据 我们 看到 循环系统 疾病 和 癌症 是 致死 的 主要 病症 ， 但 这个 规律 并非 适用 于 每 个 人
+1117
+if we go ahead and we filter by age -- say 40 years or less -- we see that accidents are actually the greatest cause that people have to be worried about . 
+如果 我们 按照 年龄 过滤 ， 譬如 40 岁 以下 我们 可以 看到 意外 事故 变成 了 人们 需要 格外 小心 的 杀手
+1118
+and if you drill into that , it 's especially the case for men . 
+如果 你 进一步 挖掘 ， 会 发现 这 一 条 尤其 针对 男性 适用
+1119
+so you get the idea that viewing information , viewing data in this way , is a lot like swimming in a living information info-graphic . 
+好了 ， 你 大概 明白 这个 工具 的 作用 了 通过 这 种 方式 查看 信息 ， 数据 很 像 在 鲜活 的 信息 资料 图片 中 遨游 。
+1120
+and if we can do this for raw data , why not do it for content as well ? 
+如果 我们 能够 对 原始 数据 这样 做 为什么 不 也 在 内容 上 做 呢 ？
+1121
+so what we have right here is the cover of every single Sports Illustrated ever produced . 
+因此 我们 在 这里 展示 有史以来 的 每 一 期 体育 画报 的 封面
+1122
+it 's all here ; it 's all on the web . 
+全部 在 这里 ， 全部 在 网络 上 。
+1123
+you can go back to your rooms and try this after my talk . 
+你 可以 在 我 演讲 结束 后 回到 你 的 房间 试试看 。
+1124
+with Pivot , you can drill into a decade . 
+使用 Pivot ， 你 能够 以 十年 为 单位 查看 。
+1125
+you can drill into a particular year . 
+你 能够 深入 指定 的 某 一 年 。
+1126
+you can jump right into a specific issue . 
+你 能 直接 进入 一个 某 一 期
+1127
+so I 'm looking at this ; I see the athletes that have appeared in this issue , the sports . 
+比如 我 看到 这个 ； 我 看见 曾经 出现 在 这 期 中 的 运动员 ， 体育 。
+1128
+I 'm a Lance Armstrong fan , so I 'll go ahead and I 'll click on that , which reveals , for me , all the issues in which Lance Armstrong 's been a part of . 
+我 是 兰斯 · 阿姆斯特朗 的 粉丝 ， 所以 我 继续 点击 它 就 给 我 展示 了 所有 这 只是 兰斯 · 阿姆斯特朗 所有 问题 中 的 一部分
+1129
+now , if I want to just kind of take a peek at these , I might think , `` well , what about taking a look at all of cycling ? '' 
+（ 掌声 欢呼 ） 现在 ， 如果 我 仅仅是 想 取样 这些 数据 的 高峰 我 会 想 ， 好 吧 ， 看看 所有 自行车 运动员 如何 ？
+1130
+so I can step back , and expand on that . 
+因此 ， 我 可以 退 一 步 ， 并 扩大 这 一点
+1131
+and I see Greg LeMond now . 
+我 现在 看见 了 格雷格 · 莱蒙德
+1132
+and so you get the idea that when you navigate over information this way -- going narrower , broader , backing in , backing out -- you 're not searching , you 're not browsing . 
+因此 你 要 明白 当 你 用 这 种 方式 浏览 信息 时 狭窄 的 ， 宽阔 的 ， 后退 ， 反向 ， 你 不 是 在 搜寻 ， 不 是 在 浏览 。
+1133
+you 're doing something that 's actually a little bit different . 
+你 做 的 事 实际上 有点 不同 。
+1134
+it 's in between , and we think it changes the way information can be used . 
+介于 两者 之间 ， 并且 我们 认为 这 改变 了 信息 的 使用 方式
+1135
+so I want to extrapolate on this idea a bit with something that 's a little bit crazy . 
+因此 ， 我 推断 在 这个 想法 上 有些 东西 是 有点 疯狂 。
+1136
+what we 're done here is we 've taken every single Wikipedia page and we reduced it down to a little summary . 
+我们 在 这儿 做 的 是 摘取 每个 维基 百科 的 页面 然后 压缩 为 一个 小小 的 摘要
+1137
+so the summary consists of just a little synopsis and an icon to indicate the topical area that it comes from . 
+摘要 包含 了 简介 一个 图标 显示 它 来自 专业 领域 。
+1138
+I 'm only showing the top 500 most popular Wikipedia pages right here . 
+我 仅仅 在 这里 展示 前 500 个 最 受 欢迎 的 维基 百科 页面
+1139
+but even in this limited view , we can do a lot of things . 
+但 即使 在 这些 有限 的 浏览 中 ， 我们 依然 可以 做 很多 事情 。
+1140
+right away , we get a sense of what are the topical domains that are most popular on Wikipedia . 
+立刻 ， 我们 得知 维基 百科 上 最 流行 的 是 什么 。
+1141
+I 'm going to go ahead and select government . 
+我 继续 前进 并 选择 政府 。
+1142
+now , having selected government , I can now see that the Wikipedia categories that most frequently correspond to that are Time magazine People of the Year . 
+现在 ， 通过 选定 后 的 政府 ， 我 可以 看到 在 维基 百科 类别 中 最 常 对应 的 是 时代 周刊 年度 风云人物
+1143
+so this is really important because this is an insight that was not contained within any one Wikipedia page . 
+这 是 很 重要 的 因为 这 是 一 项 不 属于 任何 一个 维基 网页 所 载 述 的 内容 。
+1144
+it 's only possible to see that insight when you step back and look at all of them . 
+只有 你 退后 几 步 俯瞰 全局 才 有可能 看 的 透彻
+1145
+looking at one of these particular summaries , I can then drill into the concept of Time magazine Person of the Year , bringing up all of them . 
+看看 这些 特殊 摘要 中 的 一 种 ， 随后 我 能 深入 时代 杂志 年度 风云人物 深入 他们 。
+1146
+so looking at these people , I can see that the majority come from government ; some have come from natural sciences ; some , fewer still , have come from business -- there 's my boss -- and one has come from music . 
+所以 ， 看看 这些 人 我 可以 看到 大多数 来自 政府 。 有 一部分 来自 自然科学界 。 更 少 的 部分 来自 商界 。 其中 有 我 的 老板 。 一个 来自 音乐界 。
+1147
+and interestingly enough , Bono is also a TED Prize winner . 
+而 有趣 的 是 ， 波诺 也 是 TED 大奖 得主 。
+1148
+so we can go , jump , and take a look at all the TED Prize winners . 
+因此 我们 能够 继续 ， 跳 转 ， 看看 所有 的 TED 大奖 得主 。
+1149
+so you see , we 're navigating the web for the first time as if it 's actually a web , not from page-to-page , but at a higher level of abstraction . 
+所以 你 看 ， 这 是 我们 第一次 在 网络 上 遨游 仿佛 的确 是 一 张 网 ， 不仅 一 页 一 页 的 。 而且 是 在 更 高 的 抽象 层次 上 的 网 。
+1150
+and so I want to show you one other thing that may catch you a little bit by surprise . 
+所以 我 想 告诉 你 另 一 件 事 可能 会 让 你 吃惊 。
+1151
+I 'm just showing the New York Times website here . 
+我 只是 在 这 展示 纽约 时报 网站 。
+1152
+so Pivot , this application -- I do n't want to call it a browser ; it 's really not a browser , but you can view web pages with it -- and we bring that zoomable technology to every single web page like this . 
+Pivot ， 这个 应用 程序 — — 我 不 想 称之为 浏览器 ， 它 确实 不仅 是 一个 浏览器 ， 你 能 用 它 浏览 网页 — — 并且 我们 给 每个 像 这样 的 网页 引入 了 可 缩 放 技术 。 并且 我们 给 每个 像 这样 的 网页 引入 了 可 缩 放 技术 。
+1153
+so I can step back , pop right back into a specific section . 
+因此 我 可以 退后 ， 退后 到 特定 的 地方
+1154
+now the reason why this is important is because , by virtue of just viewing web pages in this way , I can look at my entire browsing history in the exact same way . 
+为什么 这个 是 重要 的 是 因为 ， 由于 通过 这 种 方式 浏览 网页 的 好处 ， 我 能 用 完全 相同 的 方式 看到 我 的 全部 浏览 历史 。
+1155
+so I can drill into what I 've done over specific time frames . 
+因此 我 能 深入 具体 时间 段 的 具体 事件 。
+1156
+here , in fact , is the state of all the demo that I just gave . 
+这里 ， 事实上 ， 是 我 刚才 所有 演示 的 情况 。
+1157
+and I can sort of replay some stuff that I was looking at earlier today . 
+我 可以 在 某种 程度 上 重放 我 今天 早 些 时候 看到 的 东西 。
+1158
+and , if I want to step back and look at everything , I can slice and dice my history , perhaps by my search history -- here , I was doing some nepotistic searching , looking for Bing , over here for Live Labs Pivot . 
+如果 我 想 退后 一 步 看 所 一切 东西 ， 我 可以 切割 我 的 历史 也许 是 我 的 搜索 历史 。 这里 ， 我 做 了 一些 相关 搜索 ， 搜寻 Bing ， 在 这里 有关 微软 Live Labs 的 Pivot 。
+1159
+and from these , I can drill into the web page and just launch them again . 
+从 这些 ， 我 可以 深入 网页 仅仅 重 启 他们 。
+1160
+it 's one metaphor repurposed multiple times , and in each case it makes the whole greater than the sum of the parts with the data . 
+这 是 同样 的 信息 ， 因 不同 目的 被 多次 组合 使用 ， 每次 重新 组合 ， 使得 它 比 组合 起来 的 整体 所 含 信息 更 多 。 每次 重新 组合 ， 使得 它 比 组合 起来 的 整体 所 含 信息 更 多 。
+1161
+so right now , in this world , we think about data as being this curse . 
+现在 ， 在 这个 世界 上 ， 我们 谈到 数据 常常 提到 这个 诅咒 。
+1162
+we talk about the curse of information overload . 
+我们 谈论 信息 爆炸 魔咒 。
+1163
+we talk about drowning in data . 
+我们 谈论 淹没 在 信息 海洋 中 。
+1164
+what if we can actually turn that upside down and turn the web upside down , so that instead of navigating from one thing to the next , we get used to the habit of being able to go from many things to many things , and then being able to see the patterns that were otherwise hidden ? 
+假设 我们 能 把 这 种 观念 颠覆 把 网络 上下 颠覆 ， 相对于 单线 信息 相互 链接 的 情况 ， 让 我们 开始 习惯 多样 信息 链接 多样 信息 ， 然后 看到 除 此 方式 外 无法 看到 的 ， 隐藏 规律 ？ 然后 看到 除 此 方式 外 无法 看到 的 ， 隐藏 规律 ？
+1165
+if we can do that , then instead of being trapped in data , we might actually extract information . 
+如果 我们 能 做到 这 一点 ， 而 不 是 被 困 在 数据 中 ， 我们 才能 真正 的 获取 信息 。
+1166
+and , instead of dealing just with information , we can tease out knowledge . 
+并且 ， 不 仅仅是 处理 信息 ， 我们 还 可以 梳理 知识 。
+1167
+and if we get the knowledge , then maybe even there 's wisdom to be found . 
+如果 我们 获得 知识 ， 之后 甚至 可以 发现 智慧 。
+1168
+so with that , I thank you . 
+谢谢 。
+1544
+several years ago here at TED , Peter Skillman introduced a design challenge called the marshmallow challenge . 
+几 年 前 ， 在 TED 大会 上 ， Peter Skillman 介绍 了 一个 设计 挑战 叫做 “ 棉花 糖 挑战 ”
+1545
+and the idea 's pretty simple : teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti , one yard of tape , one yard of string and a marshmallow . 
+是 个 非常 简单 的 主意 要求 一 组 四 人 的 团队 搭建 一个 独立 的 最高 建筑 材料 是 20 根 意大利 面条 一 段 胶带 ， 一 段 绳子 一 块 棉花 糖
+1546
+the marshmallow has to be on top . 
+棉花 糖 必须 放 在 最 上面
+1547
+and , though it seems really simple , it 's actually pretty hard because it forces people to collaborate very quickly . 
+这 虽然 看似 简单 ， 其实 并不 容易 因为 它 要求 人们 迅速 地 合作
+1548
+and so , I thought this was an interesting idea , and I incorporated it into a design workshop . 
+我 觉得 这 是 个 有趣 的 主意 我 把 它 放到 了 设计 专题 讨论 会上
+1549
+and it was a huge success . 
+结果 非常 成功
+1550
+and since then , I 've conducted about 70 design workshops across the world with students and designers and architects , even the CTOs of the Fortune 50 , and there 's something about this exercise that reveals very deep lessons about the nature of collaboration , and I 'd like to share some of them with you . 
+从 那 以后 ， 我 在 全球 70 多 个 设计 专题讨论 活动 中 让 学生 们 和 设计者 ， 建筑师 甚至 财富 50 强 的 首席 技术 官 这个 练习 在 很多 方面 给 了 我们 深刻 的 启迪 教会 我们 合作 的 特性 在 这里 我 跟 你们 分享 一些
+1551
+so , normally , most people begin by orienting themselves to the task . 
+通常 ， 人们 总是 从 讨论 开始 着手 完成 这个 任务
+1552
+they talk about it , they figure out what it 's going to look like , they jockey for power . 
+他们 讨论 一阵 ， 勾勒 出 结果 会 是 什么 样子 他们 互相 争论 一番 对错
+1553
+then they spend some time planning , organizing , they sketch and they lay out spaghetti . 
+然后 花费 点 时间 计划 ， 组织 他们 画 一下 图纸 然后 拿出 意大利 面条
+1554
+they spend the majority of their time assembling the sticks into ever-growing structures . 
+他们 用 了 大量 的 时间 把 意大利 面条 组装 得 越来越 高
+1555
+and then finally , just as they 're running out of time , someone takes out the marshmallow , and then they gingerly put it on top , and then they stand back , and -- ta-da ! -- they admire their work . 
+然后 最后 ， 时间 快要 用完 了 他们 拿出 棉花 糖 小心翼翼 地 将 棉花 糖 放到 最 上面 然后 他们 后退 一 步 ， 哈哈 他们 欣赏 着 他们 的 成果
+1556
+but what really happens , most of the time , is that the `` ta-da '' turns into an `` uh-oh , '' because the weight of the marshmallow causes the entire structure to buckle and to collapse . 
+但是 绝大多数 时候 ， 真正 发生 的 是 “ 哈哈 ” 变成 了 “ 糟 了 ” 因为 棉花 糖 的 重量 把 整个 结构 给 压 散架 了
+1557
+so there are a number of people who have a lot more `` uh-oh '' moments than others , and among the worst are recent graduates of business school . 
+有 那么 一些 人 他们 的 “ 糟 了 ” 时刻 比 其他 人 多 其中 最 糟 的 是 新 毕业 的 商学院 学生
+1558
+they lie , they cheat , they get distracted and they produce really lame structures . 
+他们 说谎 ， 他们 欺骗 ， 很 容易 受 干扰 他们 的 建筑 构造 非常 蹩脚
+1559
+and of course there are teams that have a lot more `` ta-da '' structures , and among the best are recent graduates of kindergarten . 
+当然 也 有 一些 团队 他们 创造 了 更 多 的 “ 哈哈 ” 时刻 其中 最好 的 ， 就是 新 毕业 的 幼儿园 小朋友
+1560
+and it 's pretty amazing . 
+这个 真 是 很 神奇
+1561
+as Peter tells us , not only do they produce the tallest structures , but they 're the most interesting structures of them all . 
+正如 PETER 告诉 我们 的 他们 不但 造出 了 最高 的 建筑 而且 他们 搭建 的 结构 也 是 最 有趣 的
+1562
+so the question you want to ask is : how come ? why ? what is it about them ? 
+所以 你 会 问 这 是 怎么回事 ？ 他们 到底 有 什么 特点 ？
+1563
+and Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti , Inc. . right ? 
+Peter 喜欢 这样 说 ： “ 因为 没有 任何 孩子 企图 做 意大利 面条 公司 的 总裁 。 ” 是的
+1564
+they do n't spend time jockeying for power . 
+他们 没 在 争夺 权力 上 花 任何 时间
+1565
+but there 's another reason as well . 
+但是 其中 还有 另 一个 原因
+1566
+and the reason is that business students are trained to find the single right plan , right ? 
+因为 商学院 的 学生 受过 的 专业 训练 是 去 寻找 一个 正确 的 计划
+1567
+and then they execute on it . 
+然后 他们 按照 计划 执行
+1568
+and then what happens is , when they put the marshmallow on the top , they run out of time and what happens ? 
+然而 事实 是 ， 当 他们 把 棉花 糖 放到 顶部 时 他们 用完 了 有限 的 时间 ， 然后 呢
+1569
+it 's a crisis . 
+危机 就 降临 了
+1570
+sound familiar ? right . 
+听 着 很 熟悉 吧 ？ 是的 。
+1571
+what kindergarteners do differently is that they start with the marshmallow , and they build prototypes , successive prototypes , always keeping the marshmallow on top , so they have multiple times to fix when they build prototypes along the way . 
+幼儿园 的 孩子 的 做法 不 一样 他们 从 棉花 糖 开始 他们 先 建 一个 样板 模型 ， 然后 不断 在 模型 上 加 建 ， 其间 总是 让 棉花 糖 保持 在 最 上面 所以 他们 一直 有 很多 机会 去 不断 修正 样板 模型
+1572
+designers recognize this type of collaboration as the essence of the iterative process . 
+于是 设计者 认识 到 这 种 合作 是 这个 互动 过程 中 的 重要 因素
+1573
+and with each version , kids get instant feedback about what works and what does n't work . 
+对 每个 版本 ， 孩子 都会 迅速 地 得到 反馈 他们 知道 什么 行 ， 什么 不行
+1574
+so the capacity to play in prototype is really essential , but let 's look at how different teams perform . 
+所以 把握 雏形 的 能力 是 真正 的 关键 让 我们 来 看看 不同 的 队伍 是 怎样 表现 的
+1575
+so the average for most people is around 20 inches ; business schools students , about half of that ; lawyers , a little better , but not much better than that , kindergarteners , better than most adults . 
+大多数 人 建 的 塔 的 平均 高度 是 20 英尺 商学院 学生 ， 大概 是 一半 律师 好 一些 ， 但 也 好 不 到 哪里 去 幼儿园 的 孩子 ， 比 大多数 的 成年人 要好
+1576
+who does the very best ? 
+谁 做得 最好 呢 ？
+1577
+architects and engineers , thankfully . 
+建筑师 和 工程师 ， 谢天谢地 。
+1578
+thirty-nine inches is the tallest structure I 've seen . 
+我 见过 的 最高 的 塔 是 39 英寸
+1579
+and why is it ? because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures . 
+为什么 呢 ？ 因为 他们 懂得 三角形 和 自我 巩固 的 几何 模式 是 建筑 稳定 结构 的 关键
+1580
+so CEOs , a little bit better than average , but here 's where it gets interesting . 
+总裁 们 比 平均 水平 稍 好 一些 但是 有趣 的 是
+1581
+if you put you put an executive admin . on the team , they get significantly better . 
+如果 你 在 他们 的 小组 里 加 一个 行政 助理 他们 的 成绩 马上 变 得 好 很多
+1582
+it 's incredible . you know , you look around , you go , `` oh , that team 's going to win . '' 
+这 真 是 令 人 难以置信 ， 你 四处 看看 ， 你 说 ： “ 那个 小组 会 赢 。 ”
+1583
+you can just tell beforehand . and why is that ? 
+你 很 早 就 知道 ， 为什么 呢 ？
+1584
+because they have special skills of facilitation . 
+因为 他们 有 特殊 的 简化 技巧
+1585
+they manage the process , they understand the process . 
+他们 管理 流程 ， 他们 懂得 流程
+1586
+and any team who manages and pays close attention to work will significantly improve the team 's performance . 
+总之 ， 任何 一个 小组 积极 管理 并 专注 于 工作 本身 的话 小组 的 表现 就 有 显 著 的 提高
+1587
+specialized skills and facilitation skills are the combination that leads to strong success . 
+特殊 技能 以及 善于 使用 简便 的 手法 两者 的 结合 带来 了 成功
+1588
+if you have 10 teams that typically perform , you 'll get maybe six or so that have standing structures . 
+如果 你 有 10 个 队 参加 这个 活动 其中 大概 有 6 个 队 可以 搭建 可以 直立 的 结构
+1589
+and I tried something interesting . 
+我 做 了 一个 有趣 的 尝试
+1590
+I thought , let 's up the ante , once . 
+我 想 ， 我们 不妨 来 赌 一 次
+1591
+so I offered a 10,000 dollar prize of software to the winning team . 
+所以 我 就 提供 了 价值 10万 美元 的 软件 给 得胜 的 小组
+1592
+so what do you think happened to these design students ? 
+你 猜猜 那些 学 设计 的 学生 们 会 有 什么样 的 反应 ？
+1593
+what was the result ? 
+结果 如何 ？
+1594
+here 's what happened : not one team had a standing structure . 
+这 就是 结果 没有 一个 小组 完成 了 一个 站立 的 建筑
+1595
+if anyone had built , say , a one inch structure , they would have taken home the prize . 
+哪怕 任何 一个 小组 完成 一个 一 英寸 的 建筑 他们 就 可以 把 奖杯 捧 回去
+1596
+so , is n't that interesting ? that high stakes have a strong impact . 
+所以 ， 很 有意思 的 是 高额 奖金会 有 很 大 的 影响 。
+1597
+we did the exercise again with the same students . 
+之后 我们 在 同样 的 学生 中 又 重复 了 这个 活动
+1598
+what do you think happened then ? 
+你 猜猜 结果 怎样 ？
+1599
+so now they understand the value of prototyping . 
+这回 他们 知道 了 做 样 版 模型 的 价值
+1600
+so the same team went from being the very worst to being among the very best . 
+所以 最 差 的 那个 小组 成为 了 最好 的 小组
+1601
+they produced the tallest structures in the least amount of time . 
+他们 用 最少 的 时间 完成 了 最高 的 建筑
+1602
+so there 's deep lessons for us about the nature of incentives and success . 
+这些 对 我们 都 有 很 深 的 教育 意义 揭示 了 奖励 和 成功 的 本质
+1603
+so , you might ask : why would anyone actually spend time writing a marshmallow challenge ? 
+所以 ， 你 也许 会 问 ： 怎么 会 有人 花 时间 写 这么 一个 棉花 糖 的 挑战
+1604
+and the reason is , I help create digital tools and processes to help teams build cars and video games and visual effects . 
+原因 是 我 可以 用 电子 工具 和 流程 来 帮助 人们 造 汽车 ， 电子游戏 和 模拟 视觉 效果
+1605
+and what the marshmallow challenge does is it helps them identify the hidden assumptions . 
+而 棉花 糖 的 挑战 教会 我们 识别 隐藏 着 的 一些 假设
+1606
+the challenge provides a shared experience , a common language , a common stance to build the right prototype . 
+这个 挑战 提供 了 可以 分享 的 经验 一 种 共同 的 语言 处理 问题 的 通用 方法
+1607
+and so , this is the value of the experience , of this so simple exercise . 
+就是 这个 简单 的 练习 可以 给 我们 提供 的 有价值 的 经验
+1608
+and those of you who are interested may want to go to MarshmallowChallenge.com . 
+你们 如果 有 兴趣 可以 去 marshmallowchallenge.com 网站
+1609
+it 's a blog that you can look at how to build the marshmallows . 
+这 是 一个 你 可以 阅读 的 博客 告诉 你 怎样 搭建 棉花 糖 建筑
+1610
+there 's step-by-step instructions on this . 
+那里 有 具体 的 步骤 说明
+1611
+there are crazy examples from around the world of how people tweak and adjust the system . 
+还有 来自 世界 各地 的 稀奇古怪 的 例子 人们 怎样 调整 系统
+1612
+there 's world records that are on this as well . 
+那里 有 世界 记录
+1613
+and the fundamental lesson , I believe , is that design truly is a contact sport . 
+而 我 相信 ， 最 根本 的 教意 是 ： 设计 其实 是 一 种 交流 运动
+1614
+it demands that we bring all of our senses to the task , and that we apply the very best of our thinking , our feeling and our doing to the challenge that we have at hand . 
+它 要求 我们 把 我们 所有 的 神志 都 放到 任务 中 要求 我们 运用 最佳 的 思维 状态 我们 的 感知 我们 的 行动 来 迎接 我们 面对 的 挑战
+1615
+and sometimes , a little prototype of this experience is all that it takes to turn us from an `` uh-oh '' moment to a `` ta-da '' moment . 
+而 有的 时候 ， 一个 小小 的 样板 模型 的 经验 会 帮助 我们 将 “ 糟 了 ” 的 那一刻 变成 了 “ ” 哈哈 ” 的 一刻
+1616
+and that can make a big difference . 
+那 造成 的 结果 是 大 不同 的
+1617
+thank you very much . 
+谢谢 你们

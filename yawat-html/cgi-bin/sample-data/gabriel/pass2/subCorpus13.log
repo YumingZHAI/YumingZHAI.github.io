@@ -1,0 +1,2519 @@
+[1572013519019] NEW SESSION
+[1572013521676] right click on word 1318.0.2 ('might')
+[1572013568657] right click on word 1318.0.15 ('mostly')
+[1572013584778] label 1318[15:18] as uncertain
+[1572013593347] right click on word 1318.0.16 ('about')
+[1572013683428] right click on word 1318.0.37 ('live')
+[1572013709859] right click on word 1319.0.10 ('--')
+[1572013732557] right click on word 1319.0.10 ('--')
+[1572013734741] label 1319[10:12] as uncertain
+[1572013765679] right click on word 1320.0.2 ('getting')
+[1572014118933] left click on word 1320.1.4 (',')
+[1572014118935] edit 1320[8:4]
+[1572014119654] right click on word 1320.1.4 (',')
+[1572014120549] right click on word 1320.1.4 (',')
+[1572014131055] right click on word 1320.0.8 (',')
+[1572014145132] del 1320.0.8 from 1320[8:4]
+[1572014147027] left click on word 1320.0.8 (',')
+[1572014147028] new alignment group
+[1572014147028] add 1320.0.8 to 1320[:]
+[1572014150973] right click on word 1320.1.4 (',')
+[1572014150973] del 1320.1.4 from 1320[:4]
+[1572014150974] add 1320.1.4 to 1320[8:]
+[1572014153070] right click on word 1320.0.8 (',')
+[1572014153782] del 1320.0.8 from 1320[8:4]
+[1572014154526] left click on word 1320.0.8 (',')
+[1572014154526] new alignment group
+[1572014154526] add 1320.0.8 to 1320[:]
+[1572014156046] left click on word 1320.1.4 (',')
+[1572014156047] del 1320.1.4 from 1320[:4]
+[1572014156047] add 1320.1.4 to 1320[8:]
+[1572014156462] right click on word 1320.1.4 (',')
+[1572014157495] left click on word 1320.1.4 (',')
+[1572014157495] edit 1320[8:4]
+[1572014158131] left click on word 1320.1.4 (',')
+[1572014158131] del 1320.1.4 from 1320[8:4]
+[1572014160663] left click on word 1320.0.8 (',')
+[1572014160663] del 1320.0.8 from 1320[8:]
+[1572014163371] left click on word 1320.0.8 (',')
+[1572014163371] add 1320.0.8 to 1320[:]
+[1572014165696] left click on word 1320.0.8 (',')
+[1572014165696] del 1320.0.8 from 1320[8:]
+[1572014320733] right click on word 1320.0.28 ('change')
+[1572014320734] del 1320.0.28 from 1320[28:38]
+[1572014320734] add 1320.0.28 to 1320[:]
+[1572014321661] right click on word 1320.0.28 ('change')
+[1572014333364] left click on word 1320.0.28 ('change')
+[1572014333364] edit 1320[28:]
+[1572014335494] left click on word 1320.1.38 ('évoluer')
+[1572014335495] del 1320.1.38 from 1320[:38]
+[1572014335495] add 1320.1.38 to 1320[28:]
+[1572014335963] right click on word 1320.1.38 ('évoluer')
+[1572014336684] right click on word 1320.1.38 ('évoluer')
+[1572014341924] label 1320[28:38] as particularization
+[1572014413605] right click on word 1321.0.5 (',')
+[1572014415384] label 1321[5:6] as uncertain
+[1572014427369] right click on word 1321.0.10 (',')
+[1572014429238] label 1321[10:12] as uncertain
+[1572014458512] right click on word 1321.0.14 ('unrest')
+[1572014468470] right click on word 1321.0.14 ('unrest')
+[1572014513582] right click on word 1321.1.16 ('des')
+[1572014518587] label 1321[14:16,17] as literal
+[1572014570621] left click on word 1323.0.1 (',')
+[1572014570621] edit 1323[1:5]
+[1572014571213] left click on word 1323.0.1 (',')
+[1572014571213] del 1323.0.1 from 1323[1:5]
+[1572014577166] left click on word 1323.0.0 ('also')
+[1572014577167] del 1323.0.0 from 1323[0:6]
+[1572014577168] add 1323.0.0 to 1323[:5]
+[1572014580584] cancel edit
+[1572014580585] add 1323.0.1 to 1323[0:5]
+[1572014580585] add 1323.0.0 to 1323[:6]
+[1572014587468] left click on word 1323.0.1 (',')
+[1572014587468] edit 1323[1:5]
+[1572014591425] left click on word 1323.1.5 (',')
+[1572014591425] del 1323.1.5 from 1323[1:5]
+[1572014594529] right click on word 1323.0.1 (',')
+[1572014638757] right click on word 1324.0.6 ('pick')
+[1572014674735] left click on word 1324.0.19 (',')
+[1572014674735] edit 1324[19:23,26]
+[1572014677214] left click on word 1324.1.23 (',')
+[1572014677215] del 1324.1.23 from 1324[19:23,26]
+[1572014679069] left click on word 1324.1.26 (',')
+[1572014679070] del 1324.1.26 from 1324[19:26]
+[1572014681184] right click on word 1324.0.19 (',')
+[1572014708456] right click on word 1324.0.22 ('you')
+[1572014740084] right click on word 1324.0.23 ('would')
+[1572014752672] right click on word 1324.0.22 ('you')
+[1572014760466] label 1324[22:21] as uncertain
+[1572014775655] right click on word 1325.0.0 ('now')
+[1572014778624] label 1325[0:0] as uncertain
+[1572014812267] right click on word 1326.0.2 ('civilization')
+[1572014903983] right click on word 1327.0.3 ('fueled')
+[1572014905333] label 1327[3:5,4] as equivalence
+[1572014941058] right click on word 1327.0.16 ('seen')
+[1572015129976] right click on word 1329.0.17 ('cheap')
+[1572015145447] right click on word 1329.0.17 ('cheap')
+[1572015184271] right click on word 1329.0.22 ('meet')
+[1572015195659] right click on word 1329.0.22 ('meet')
+[1572015197251] label 1329[21,22:23,24] as equivalence
+[1572015320614] right click on word 1329.0.22 ('meet')
+[1572015325072] label 1329[21,22:23,24] as literal
+[1572015386320] right click on word 1330.0.13 ('a')
+[1572015455098] right click on word 1331.0.2 ('sum')
+[1572015500219] right click on word 1331.1.56 ('changements')
+[1572015536120] right click on word 1331.0.8 ('emitted')
+[1572015574935] right click on word 1331.0.27 (':')
+[1572015578919] label 1331[27:29] as uncertain
+[1572015600136] right click on word 1331.0.32 ('weather')
+[1572015603502] right click on word 1331.0.33 (';')
+[1572015605560] label 1331[33:36,35] as uncertain
+[1572015669118] right click on word 1331.0.57 ('get')
+[1572015702600] right click on word 1332.0.0 ('now')
+[1572015725068] right click on word 1332.0.4 ('amount')
+[1572015728725] right click on word 1332.0.4 ('amount')
+[1572015886358] right click on word 1332.0.11 ('certain')
+[1572015917150] right click on word 1332.0.19 ('be')
+[1572015928619] right click on word 1332.0.21 ('where')
+[1572015969221] right click on word 1332.0.27 ('there')
+[1572016057565] right click on word 1333.0.18 ('bad')
+[1572016066035] label 1333[18:21] as equivalence
+[1572016180621] right click on word 1334.0.10 ('do')
+[1572016183413] label 1334[10:13] as uncertain
+[1572016267811] right click on word 1335.0.5 ('it')
+[1572016279395] left click on word 1335.0.4 ('cut')
+[1572016279396] edit 1335[4,6:5,6]
+[1572016292363] cancel edit
+[1572016492694] right click on word 1338.0.14 ('get')
+[1572016495952] right click on word 1338.0.14 ('get')
+[1572016541582] left click on word 1338.0.29 ('''')
+[1572016541582] edit 1338[28,29:38]
+[1572016542774] left click on word 1338.0.29 ('''')
+[1572016542774] del 1338.0.29 from 1338[28,29:38]
+[1572016544197] right click on word 1338.0.28 ('.')
+[1572016568997] right click on word 1339.0.6 ('get')
+[1572016584781] left click on word 1340.0.1 (',')
+[1572016584781] edit 1340[1:2]
+[1572016585382] right click on word 1340.0.1 (',')
+[1572016586127] left click on word 1340.0.1 (',')
+[1572016586127] edit 1340[1:2]
+[1572016588374] left click on word 1340.1.2 (',')
+[1572016588374] del 1340.1.2 from 1340[1:2]
+[1572016589694] left click on word 1340.0.1 (',')
+[1572016589694] del 1340.0.1 from 1340[1:]
+[1572016590157] right click on word 1340.0.1 (',')
+[1572016590157] add 1340.0.1 to 1340[:]
+[1572016656964] left click on word 1340.0.15 ('billion')
+[1572016656964] edit 1340[15:15,16]
+[1572016659222] left click on word 1340.1.16 ('de')
+[1572016659222] del 1340.1.16 from 1340[15:15,16]
+[1572016660749] right click on word 1340.1.15 ('milliards')
+[1572016663205] left click on word 1340.0.16 ('tons')
+[1572016663205] edit 1340[16:17]
+[1572016664742] left click on word 1340.1.16 ('de')
+[1572016664742] add 1340.1.16 to 1340[16:17]
+[1572016665309] right click on word 1340.1.16 ('de')
+[1572016669380] left click on word 1340.1.17 ('tonnes')
+[1572016669380] edit 1340[16:17,16]
+[1572016670045] left click on word 1340.1.16 ('de')
+[1572016670045] del 1340.1.16 from 1340[16:17,16]
+[1572016672549] right click on word 1340.0.16 ('tons')
+[1572016719036] left click on word 1341.0.9 (';')
+[1572016719036] edit 1341[9:10]
+[1572016720012] right click on word 1341.0.9 (';')
+[1572016721300] right click on word 1341.0.9 (';')
+[1572016722829] label 1341[9:10] as uncertain
+[1572016735572] right click on word 1341.0.11 ('people')
+[1572016749859] right click on word 1341.0.14 ('countries')
+[1572016761923] right click on word 1341.0.14 ('countries')
+[1572016766183] right click on word 1341.0.14 ('countries')
+[1572016828963] right click on word 1342.0.8 ('for')
+[1572016830676] label 1342[8:7] as lexical_shift
+[1572016874603] right click on word 1343.0.11 ('bring')
+[1572016876355] label 1343[11,13:11] as equivalence
+[1572017104161] right click on word 1345.0.18 ('go')
+[1572017114538] label 1345[18:20] as equivalence
+[1572017174145] left click on word 1346.0.14 ('to')
+[1572017174145] edit 1346[14,3:12,6]
+[1572017176546] left click on word 1346.1.6 ('de')
+[1572017176546] del 1346.1.6 from 1346[14,3:12,6]
+[1572017177826] left click on word 1346.0.3 ('of')
+[1572017177826] del 1346.0.3 from 1346[14,3:12]
+[1572017179649] right click on word 1346.0.14 ('to')
+[1572017184177] left click on word 1346.1.6 ('de')
+[1572017184178] new alignment group
+[1572017184178] add 1346.1.6 to 1346[:]
+[1572017185279] left click on word 1346.0.3 ('of')
+[1572017185279] add 1346.0.3 to 1346[:6]
+[1572017185794] right click on word 1346.0.3 ('of')
+[1572017221123] right click on word 1347.0.13 ('a')
+[1572017312443] right click on word 1351.0.6 ('really')
+[1572017352252] left click on word 1351.1.14 (',')
+[1572017352252] edit 1351[12:9,14]
+[1572017352852] left click on word 1351.1.14 (',')
+[1572017352853] del 1351.1.14 from 1351[12:9,14]
+[1572017355199] right click on word 1351.1.9 (',')
+[1572017358465] left click on word 1351.0.15 (',')
+[1572017358465] new alignment group
+[1572017358466] add 1351.0.15 to 1351[:]
+[1572017360098] left click on word 1351.1.14 (',')
+[1572017360098] add 1351.1.14 to 1351[15:]
+[1572017362604] right click on word 1351.1.14 (',')
+[1572017387341] right click on word 1351.1.18 ('naissances')
+[1572017393061] right click on word 1351.1.16 ('contrôle')
+[1572017409337] left click on word 1351.1.16 ('contrôle')
+[1572017409337] edit 1351[17,18:16,15]
+[1572017410406] left click on word 1351.1.17 ('des')
+[1572017410406] del 1351.1.17 from 1351[:17]
+[1572017410407] add 1351.1.17 to 1351[17,18:16,15]
+[1572017412166] left click on word 1351.0.16 ('reproductive')
+[1572017412166] del 1351.0.16 from 1351[16:18]
+[1572017412166] add 1351.0.16 to 1351[17,18:16,15,17]
+[1572017413327] left click on word 1351.1.18 ('naissances')
+[1572017413329] del 1351.1.18 from 1351[:18]
+[1572017413329] add 1351.1.18 to 1351[17,18,16:16,15,17]
+[1572017414789] right click on word 1351.1.18 ('naissances')
+[1572017415461] right click on word 1351.1.18 ('naissances')
+[1572017417161] label 1351[17,18,16:16,15,17,18] as modulation_transposition
+[1572017513169] right click on word 1353.0.3 (':')
+[1572017514659] label 1353[3:3] as uncertain
+[1572017532710] right click on word 1353.0.9 ('clothing')
+[1572017560537] right click on word 1354.0.5 (':')
+[1572017562554] label 1354[5:6,7] as uncertain
+[1572017597606] left click on word 1354.0.11 ('providing')
+[1572017597606] edit 1354[11:15]
+[1572017617476] left click on word 1354.1.14 ('pouvoir')
+[1572017617476] add 1354.1.14 to 1354[11:15]
+[1572017618282] right click on word 1354.1.14 ('pouvoir')
+[1572017619099] right click on word 1354.1.14 ('pouvoir')
+[1572017634310] left click on word 1354.1.14 ('pouvoir')
+[1572017634310] edit 1354[11:15,14]
+[1572017634887] left click on word 1354.1.14 ('pouvoir')
+[1572017634887] del 1354.1.14 from 1354[11:15,14]
+[1572017635832] right click on word 1354.1.15 ('fournir')
+[1572017636489] right click on word 1354.1.15 ('fournir')
+[1572017645832] label 1354[11:15] as transposition
+[1572017665850] right click on word 1354.0.11 ('providing')
+[1572017667068] label 1354[11:15] as literal
+[1572017743531] right click on word 1356.0.16 ('and')
+[1572017745711] label 1356[16:16] as uncertain
+[1572017828342] left click on word 1356.0.47 ('the')
+[1572017828342] edit 1356[47:40]
+[1572017830302] left click on word 1356.1.41 ('nombre')
+[1572017830303] add 1356.1.41 to 1356[47:40]
+[1572017831301] left click on word 1356.1.42 ('de')
+[1572017831302] add 1356.1.42 to 1356[47:40,41]
+[1572017834836] right click on word 1356.1.42 ('de')
+[1572017835588] right click on word 1356.1.42 ('de')
+[1572017842470] label 1356[47:40,41,42] as modulation
+[1572017846297] right click on word 1356.1.41 ('nombre')
+[1572017848457] label 1356[47:40,41,42] as modulation_transposition
+[1572017877924] right click on word 1357.0.7 (':')
+[1572017880139] label 1357[7:9] as uncertain
+[1572017899585] right click on word 1357.0.13 ('your')
+[1572017961619] right click on word 1357.0.22 ('?')
+[1572017964871] label 1357[22:25] as uncertain
+[1572017983494] right click on word 1358.0.9 (',')
+[1572017985030] label 1358[9:3] as uncertain
+[1572018005942] right click on word 1358.0.20 ('under')
+[1572018022791] right click on word 1358.1.13 ('lumière')
+[1572018062201] left click on word 1359.0.5 (',')
+[1572018062201] edit 1359[5:7,8]
+[1572018063512] left click on word 1359.1.7 ('"')
+[1572018063512] del 1359.1.7 from 1359[5:7,8]
+[1572018064624] right click on word 1359.1.8 (',')
+[1572018127079] right click on word 1360.1.6 ('grimpe')
+[1572018154293] left click on word 1361.0.6 ('of')
+[1572018154293] edit 1361[6:8,10]
+[1572018156021] left click on word 1361.1.10 ('de')
+[1572018156021] del 1361.1.10 from 1361[6:8,10]
+[1572018158109] right click on word 1361.0.6 ('of')
+[1572018206135] right click on word 1361.0.21 ('--')
+[1572018207862] label 1361[21:29] as uncertain
+[1572018245964] right click on word 1361.0.35 ('that')
+[1572018248924] label 1361[35,36:37] as generalization
+[1572018344796] left click on word 1363.0.7 ('make')
+[1572018344797] edit 1363[7:9]
+[1572018345725] left click on word 1363.0.6 ('we')
+[1572018345726] add 1363.0.6 to 1363[7:9]
+[1572018346365] right click on word 1363.0.6 ('we')
+[1572018347004] right click on word 1363.0.6 ('we')
+[1572018350588] label 1363[7,6:9] as transposition
+[1572018418638] left click on word 1363.1.15 ('d'')
+[1572018418639] edit 1363[14:15,19]
+[1572018419078] left click on word 1363.1.15 ('d'')
+[1572018419079] del 1363.1.15 from 1363[14:15,19]
+[1572018421000] right click on word 1363.0.14 ('air')
+[1572018443463] left click on word 1363.0.13 ('do')
+[1572018443463] edit 1363[13:16]
+[1572018444363] left click on word 1363.0.12 ('we')
+[1572018444363] add 1363.0.12 to 1363[13:16]
+[1572018445463] left click on word 1363.1.15 ('d'')
+[1572018445463] add 1363.1.15 to 1363[13,12:16]
+[1572018445991] right click on word 1363.1.15 ('d'')
+[1572018447271] right click on word 1363.1.15 ('d'')
+[1572018448719] label 1363[13,12:16,15] as transposition
+[1572018451560] right click on word 1363.1.16 ('effectuer')
+[1572018458625] label 1363[13,12:16,15] as particularization
+[1572018475674] left click on word 1363.1.18 ('transport')
+[1572018475674] edit 1363[15:18]
+[1572018476627] left click on word 1363.1.17 ('le')
+[1572018476627] add 1363.1.17 to 1363[15:18]
+[1572018477019] right click on word 1363.1.17 ('le')
+[1572019257528] left click on word 1364.0.7 ('we')
+[1572019257528] edit 1364[6,7,8:6,7]
+[1572019259399] cancel edit
+[1572019276641] right click on word 1364.0.7 ('we')
+[1572019508337] left click on word 1366.0.16 ('one')
+[1572019508337] new alignment group
+[1572019508338] add 1366.0.16 to 1366[:]
+[1572019509256] left click on word 1366.1.11 ('facteur')
+[1572019509257] add 1366.1.11 to 1366[16:]
+[1572019509920] right click on word 1366.1.11 ('facteur')
+[1572019510849] right click on word 1366.1.11 ('facteur')
+[1572019520898] label 1366[16:11] as particularization
+[1572019672760] left click on word 1370.0.4 ('make')
+[1572019672760] edit 1370[3,4:5]
+[1572019673760] left click on word 1370.1.4 ('pour')
+[1572019673761] del 1370.1.4 from 1370[:4]
+[1572019673762] add 1370.1.4 to 1370[3,4:5]
+[1572019674302] right click on word 1370.1.4 ('pour')
+[1572019773707] left click on word 1372.0.0 ('and')
+[1572019773707] edit 1372[0,2:1]
+[1572019774417] left click on word 1372.0.0 ('and')
+[1572019774417] del 1372.0.0 from 1372[0,2:1]
+[1572019776896] right click on word 1372.0.2 (',')
+[1572019790279] left click on word 1372.0.6 ('miracles')
+[1572019790279] edit 1372[6:6]
+[1572019791647] left click on word 1372.1.5 ('des')
+[1572019791648] add 1372.1.5 to 1372[6:6]
+[1572019792175] right click on word 1372.1.5 ('des')
+[1572019847770] right click on word 1373.0.0 ('now')
+[1572019860789] left click on word 1372.0.5 ('energy')
+[1572019860789] edit 1372[5:11,12]
+[1572019862179] left click on word 1372.1.7 ('dans')
+[1572019862179] add 1372.1.7 to 1372[5:11,12]
+[1572019862722] left click on word 1372.1.8 ('le')
+[1572019862723] add 1372.1.8 to 1372[5:11,12,7]
+[1572019863242] left click on word 1372.1.9 ('domaine')
+[1572019863242] add 1372.1.9 to 1372[5:11,12,7,8]
+[1572019863762] left click on word 1372.1.10 ('de')
+[1572019863762] add 1372.1.10 to 1372[5:11,12,7,8,9]
+[1572019864435] right click on word 1372.1.10 ('de')
+[1572019865089] right click on word 1372.1.10 ('de')
+[1572019867225] label 1372[5:11,12,7,8,9,10] as uncertain
+[1572019873090] right click on word 1372.0.5 ('energy')
+[1572019963360] right click on word 1375.1.3 ('les')
+[1572019965631] left click on word 1375.0.3 ('its')
+[1572019965632] edit 1375[3:3]
+[1572019967200] left click on word 1375.0.4 ('services')
+[1572019967200] del 1375.0.4 from 1375[4:4]
+[1572019967201] add 1375.0.4 to 1375[3:3]
+[1572019968056] left click on word 1375.1.4 ('services')
+[1572019968056] del 1375.1.4 from 1375[:4]
+[1572019968056] add 1375.1.4 to 1375[3,4:3]
+[1572019968828] left click on word 1375.1.5 ('web')
+[1572019968830] add 1375.1.5 to 1375[3,4:3,4]
+[1572019969899] right click on word 1375.1.5 ('web')
+[1572019972311] right click on word 1375.1.5 ('web')
+[1572019977951] label 1375[3,4:3,4,5] as particularization
+[1572019990823] left click on word 1375.0.4 ('services')
+[1572019990824] edit 1375[3,4:3,4,5]
+[1572019992879] left click on word 1375.1.4 ('services')
+[1572019992879] del 1375.1.4 from 1375[3,4:3,4,5]
+[1572019994368] left click on word 1375.0.4 ('services')
+[1572019994368] del 1375.0.4 from 1375[3,4:3,5]
+[1572019996664] right click on word 1375.1.5 ('web')
+[1572019997575] left click on word 1375.0.4 ('services')
+[1572019997575] new alignment group
+[1572019997576] add 1375.0.4 to 1375[:]
+[1572019998519] left click on word 1375.1.4 ('services')
+[1572019998519] add 1375.1.4 to 1375[4:]
+[1572019998967] right click on word 1375.1.4 ('services')
+[1572020147406] left click on word 1378.1.10 ('alors')
+[1572020147406] edit 1378[9:9,10]
+[1572020147877] left click on word 1378.1.10 ('alors')
+[1572020147877] del 1378.1.10 from 1378[9:9,10]
+[1572020148909] right click on word 1378.1.9 ('et')
+[1572020225625] right click on word 1380.0.12 ('?')
+[1572020228389] label 1380[12:10] as uncertain
+[1572020274596] right click on word 1381.0.5 ('natural')
+[1572020296756] left click on word 1381.0.18 ('''')
+[1572020296756] edit 1381[17,18:21]
+[1572020297161] left click on word 1381.0.18 ('''')
+[1572020297161] del 1381.0.18 from 1381[17,18:21]
+[1572020298145] right click on word 1381.0.17 ('?')
+[1572020343270] left click on word 1382.0.11 (',')
+[1572020343270] edit 1382[11,12:14]
+[1572020343867] left click on word 1382.0.12 ('and')
+[1572020343867] del 1382.0.12 from 1382[11,12:14]
+[1572020345067] right click on word 1382.0.11 (',')
+[1572020345899] right click on word 1382.0.11 (',')
+[1572020350819] label 1382[11:14] as literal
+[1572020356355] left click on word 1382.0.14 ('people')
+[1572020356355] edit 1382[14:16]
+[1572020357617] left click on word 1382.1.15 ('les')
+[1572020357617] del 1382.1.15 from 1382[:15]
+[1572020357617] add 1382.1.15 to 1382[14:16]
+[1572020358151] right click on word 1382.1.15 ('les')
+[1572020411391] right click on word 1383.0.4 ('involved')
+[1572020461578] right click on word 1383.0.4 ('involved')
+[1572020464985] left click on word 1383.0.4 ('involved')
+[1572020464985] edit 1383[4:6]
+[1572020467577] left click on word 1383.0.5 ('in')
+[1572020467578] del 1383.0.5 from 1383[5:]
+[1572020467579] add 1383.0.5 to 1383[4:6]
+[1572020468537] right click on word 1383.0.4 ('involved')
+[1572020469080] right click on word 1383.0.4 ('involved')
+[1572020470794] label 1383[4,5:6] as modulation_transposition
+[1572020491730] left click on word 1384.0.6 ('I')
+[1572020491730] edit 1384[6:11,8]
+[1572020493201] left click on word 1384.1.8 ('que')
+[1572020493201] del 1384.1.8 from 1384[6:11,8]
+[1572020495001] right click on word 1384.1.11 ('j'')
+[1572020622864] right click on word 1387.0.7 (';')
+[1572020624336] label 1387[7:9] as uncertain
+[1572020683095] right click on word 1388.0.10 ('that')
+[1572020744518] right click on word 1389.0.8 ('--')
+[1572020746041] label 1389[8:9] as uncertain
+[1572020779046] right click on word 1389.0.28 ('I')
+[1572020780822] right click on word 1389.0.11 ('unbelievable')
+[1572020787558] left click on word 1389.0.12 ('scale')
+[1572020787558] edit 1389[12:14]
+[1572020794582] right click on word 1389.0.12 ('scale')
+[1572020799509] right click on word 1389.0.13 ('and')
+[1572020802106] label 1389[13:16] as uncertain
+[1572020836661] left click on word 1389.1.21 (',')
+[1572020836661] edit 1389[18:21,23]
+[1572020837252] left click on word 1389.1.21 (',')
+[1572020837253] del 1389.1.21 from 1389[18:21,23]
+[1572020839725] right click on word 1389.0.18 (',')
+[1572020842261] left click on word 1389.0.16 (',')
+[1572020842261] edit 1389[16:]
+[1572020845024] left click on word 1389.1.21 (',')
+[1572020845024] add 1389.1.21 to 1389[16:]
+[1572020845405] right click on word 1389.1.21 (',')
+[1572020961833] right click on word 1390.0.6 ('geothermal')
+[1572020974483] left click on word 1390.0.9 (',')
+[1572020974483] edit 1390[9:14,15]
+[1572020976034] left click on word 1390.1.15 ('les')
+[1572020976034] del 1390.1.15 from 1390[9:14,15]
+[1572020976770] right click on word 1390.1.14 (',')
+[1572020986347] left click on word 1390.0.10 ('biofuels')
+[1572020986347] edit 1390[10:16]
+[1572020987546] left click on word 1390.1.15 ('les')
+[1572020987547] add 1390.1.15 to 1390[10:16]
+[1572020987946] right click on word 1390.1.15 ('les')
+[1572020991986] left click on word 1390.0.6 ('geothermal')
+[1572020991986] edit 1390[6:10]
+[1572020993195] left click on word 1390.1.9 ('la')
+[1572020993195] add 1390.1.9 to 1390[6:10]
+[1572020993514] right click on word 1390.1.9 ('la')
+[1572021019120] right click on word 1391.0.1 ('may')
+[1572021042746] right click on word 1391.0.11 ('better')
+[1572021050220] right click on word 1391.0.11 ('better')
+[1572021056120] right click on word 1391.0.11 ('better')
+[1572021096676] left click on word 1391.0.20 (',')
+[1572021096677] edit 1391[20:22]
+[1572021100204] left click on word 1391.1.22 (',')
+[1572021100205] del 1391.1.22 from 1391[20:22]
+[1572021105756] left click on word 1391.0.20 (',')
+[1572021105757] del 1391.0.20 from 1391[20:]
+[1572021107645] left click on word 1391.1.17 (',')
+[1572021107646] add 1391.1.17 to 1391[:]
+[1572021111917] left click on word 1391.0.20 (',')
+[1572021111917] add 1391.0.20 to 1391[:17]
+[1572021112636] right click on word 1391.0.20 (',')
+[1572021407628] left click on word 1393.0.18 (',')
+[1572021407628] edit 1393[18,19:15]
+[1572021408620] left click on word 1393.0.19 ('and')
+[1572021408620] del 1393.0.19 from 1393[18,19:15]
+[1572021410548] right click on word 1393.0.18 (',')
+[1572021411315] right click on word 1393.0.18 (',')
+[1572021412344] label 1393[18:15] as literal
+[1572021535298] right click on word 1393.1.31 ('du')
+[1572021576246] right click on word 1394.0.4 ('pilot')
+[1572021894474] left click on word 1398.0.3 ('a')
+[1572021894475] edit 1398[3:4]
+[1572021895675] left click on word 1398.1.4 ('pour')
+[1572021895675] del 1398.1.4 from 1398[3:4]
+[1572021897747] left click on word 1398.0.3 ('a')
+[1572021897747] del 1398.0.3 from 1398[3:]
+[1572021905563] left click on word 1398.0.5 ('one')
+[1572021905563] del 1398.0.5 from 1398[5:6]
+[1572021905563] add 1398.0.5 to 1398[:]
+[1572021934776] cancel edit
+[1572021934777] add 1398.1.4 to 1398[5:]
+[1572021934777] add 1398.0.3 to 1398[5:4]
+[1572021934777] add 1398.0.5 to 1398[:6]
+[1572021975190] right click on word 1400.0.9 ('particularly')
+[1572021977038] label 1400[9:11,10] as transposition
+[1572022001150] right click on word 1400.0.17 (';')
+[1572022002831] label 1400[17:20] as uncertain
+[1572022055205] left click on word 1400.0.32 (',')
+[1572022055205] edit 1400[32,34:39]
+[1572022057038] left click on word 1400.0.34 (',')
+[1572022057038] del 1400.0.34 from 1400[32,34:39]
+[1572022058631] right click on word 1400.0.32 (',')
+[1572022062193] left click on word 1400.0.34 (',')
+[1572022062193] new alignment group
+[1572022062193] add 1400.0.34 to 1400[:]
+[1572022063842] left click on word 1400.1.41 (',')
+[1572022063842] add 1400.1.41 to 1400[34:]
+[1572022064322] right click on word 1400.1.41 (',')
+[1572022087685] right click on word 1400.0.39 ('these')
+[1572022096426] label 1400[39:45] as lexical_shift
+[1572091380229] NEW SESSION
+[1572091415560] left click on word 1401.1.4 ('faire')
+[1572091415560] edit 1401[3,5:4]
+[1572091416927] left click on word 1401.0.4 ('you')
+[1572091416928] add 1401.0.4 to 1401[3,5:4]
+[1572091420232] right click on word 1401.0.4 ('you')
+[1572091420870] right click on word 1401.0.4 ('you')
+[1572091434590] label 1401[3,5,4:4] as modulation_transposition
+[1572091703943] left click on word 1402.0.3 ('it')
+[1572091703943] new alignment group
+[1572091703943] add 1402.0.3 to 1402[:]
+[1572091709366] left click on word 1402.1.4 ('le')
+[1572091709366] add 1402.1.4 to 1402[3:]
+[1572091709870] left click on word 1402.1.5 ('volume')
+[1572091709871] add 1402.1.5 to 1402[3:4]
+[1572091711319] right click on word 1402.1.5 ('volume')
+[1572091711934] right click on word 1402.1.5 ('volume')
+[1572091715998] label 1402[3:4,5] as particularization
+[1572097609809] right click on word 1407.0.0 ('and')
+[1572097637016] right click on word 1407.0.3 ('--')
+[1572097639624] label 1407[3:3] as uncertain
+[1572097642712] right click on word 1407.0.3 ('--')
+[1572097644264] label 1407[3:3] as literal
+[1572097689967] right click on word 1407.0.17 ('disadvantages')
+[1572097701319] label 1407[17:19] as equivalence
+[1572097725904] right click on word 1408.0.0 ('one')
+[1572097727108] label 1408[0:1,0] as equivalence
+[1572097796932] right click on word 1408.0.8 ('in')
+[1572097799094] label 1408[8:10,9] as lexical_shift
+[1572097803316] right click on word 1408.0.7 ('gathered')
+[1572097854405] left click on word 1409.0.2 ('energy')
+[1572097854405] edit 1409[2:6]
+[1572097854932] left click on word 1409.0.3 ('farming')
+[1572097854933] del 1409.0.3 from 1409[3:4]
+[1572097854934] add 1409.0.3 to 1409[2:6]
+[1572097855932] left click on word 1409.1.4 ('fermes')
+[1572097855932] del 1409.1.4 from 1409[:4]
+[1572097855933] add 1409.1.4 to 1409[2,3:6]
+[1572097856349] left click on word 1409.1.5 ('à')
+[1572097856349] add 1409.1.5 to 1409[2,3:6,4]
+[1572097856828] right click on word 1409.1.5 ('à')
+[1572097857611] right click on word 1409.1.5 ('à')
+[1572097861269] label 1409[2,3:6,4,5] as transposition
+[1572098077288] right click on word 1410.0.4 ('intermittent')
+[1572098117239] left click on word 1411.0.12 ('every')
+[1572098117239] edit 1411[12:13]
+[1572098118442] left click on word 1411.0.13 ('day')
+[1572098118442] del 1411.0.13 from 1411[13:15,14]
+[1572098118443] add 1411.0.13 to 1411[12:13]
+[1572098119539] left click on word 1411.1.14 ('les')
+[1572098119540] del 1411.1.14 from 1411[:15,14]
+[1572098119541] add 1411.1.14 to 1411[12,13:13]
+[1572098120048] left click on word 1411.1.15 ('jours')
+[1572098120048] del 1411.1.15 from 1411[:15]
+[1572098120048] add 1411.1.15 to 1411[12,13:13,14]
+[1572098120552] right click on word 1411.1.15 ('jours')
+[1572098121855] right click on word 1411.1.15 ('jours')
+[1572098133334] label 1411[12,13:13,14,15] as equivalence
+[1572098210054] right click on word 1412.0.25 ('it')
+[1572098243541] right click on word 1413.0.7 ('challenges')
+[1572098245142] label 1413[7:5] as equivalence
+[1572098263156] right click on word 1413.0.14 (':')
+[1572098264773] label 1413[14:15] as uncertain
+[1572098283709] right click on word 1413.0.26 (';')
+[1572098285217] label 1413[26:31] as uncertain
+[1572098430931] right click on word 1415.0.20 ('--')
+[1572098434651] label 1415[20:17] as uncertain
+[1572098461714] left click on word 1415.0.30 ('for')
+[1572098461715] edit 1415[30,33:34]
+[1572098463059] left click on word 1415.0.30 ('for')
+[1572098463059] del 1415.0.30 from 1415[30,33:34]
+[1572098464698] right click on word 1415.0.33 ('for')
+[1572098475130] right click on word 1415.0.35 ('--')
+[1572098477234] label 1415[35:36] as uncertain
+[1572098530697] left click on word 1415.0.47 ('uses')
+[1572098530697] edit 1415[47:46]
+[1572098532521] right click on word 1415.0.47 ('uses')
+[1572098533225] right click on word 1415.0.47 ('uses')
+[1572098536385] right click on word 1415.0.47 ('uses')
+[1572098538449] left click on word 1415.1.47 ('dans')
+[1572098538449] new alignment group
+[1572098538449] add 1415.1.47 to 1415[:]
+[1572098539226] left click on word 1415.1.47 ('dans')
+[1572098539226] del 1415.1.47 from 1415[:47]
+[1572098541082] left click on word 1415.1.46 ('utilisée')
+[1572098541082] del 1415.1.46 from 1415[47:46]
+[1572098541083] add 1415.1.46 to 1415[:]
+[1572098542162] left click on word 1415.1.46 ('utilisée')
+[1572098542162] del 1415.1.46 from 1415[:46]
+[1572098542163] add 1415.1.46 to 1415[47:]
+[1572098543661] left click on word 1415.1.47 ('dans')
+[1572098543661] add 1415.1.47 to 1415[:]
+[1572098544871] left click on word 1415.0.47 ('uses')
+[1572098544872] del 1415.0.47 from 1415[47:46]
+[1572098544873] add 1415.0.47 to 1415[:47]
+[1572098546746] left click on word 1415.1.46 ('utilisée')
+[1572098546747] del 1415.1.46 from 1415[:46]
+[1572098546748] add 1415.1.46 to 1415[47:47]
+[1572098548731] right click on word 1415.1.47 ('dans')
+[1572098549459] right click on word 1415.1.47 ('dans')
+[1572098550844] label 1415[47:47,46] as transposition
+[1572098633079] right click on word 1416.0.9 ('big')
+[1572098634267] label 1416[9:11] as equivalence
+[1572098818390] left click on word 1419.0.5 ('it')
+[1572098818390] new alignment group
+[1572098818390] add 1419.0.5 to 1419[:]
+[1572098819518] left click on word 1419.1.4 ('cette')
+[1572098819518] add 1419.1.4 to 1419[5:]
+[1572098820014] left click on word 1419.1.5 ('source')
+[1572098820014] add 1419.1.5 to 1419[5:4]
+[1572098820406] right click on word 1419.1.5 ('source')
+[1572098820942] right click on word 1419.1.5 ('source')
+[1572098822519] label 1419[5:4,5] as particularization
+[1572098827351] right click on word 1419.1.5 ('source')
+[1572098950321] left click on word 1420.0.15 ('right')
+[1572098950322] edit 1420[15:10,12]
+[1572098951556] left click on word 1420.1.12 ('à')
+[1572098951556] del 1420.1.12 from 1420[15:10,12]
+[1572098952469] right click on word 1420.0.15 ('right')
+[1572098956573] right click on word 1420.0.17 ('?')
+[1572098958654] label 1420[17:14] as uncertain
+[1572102863897] left click on word 1424.1.16 ('parfait')
+[1572102863897] edit 1424[21:16]
+[1572102871583] cancel edit
+[1572177818580] right click on word 1421.0.0 ('is')
+[1572177821924] label 1421[0:0,1,4,2] as equivalence
+[1572177858181] left click on word 1421.0.8 ('the')
+[1572177858182] edit 1421[8,9,10,11:]
+[1572177860525] left click on word 1421.0.7 (''s')
+[1572177860525] add 1421.0.7 to 1421[8,9,10,11:]
+[1572177861181] left click on word 1421.0.9 ('thing')
+[1572177861181] del 1421.0.9 from 1421[8,9,10,11,7:]
+[1572177861902] left click on word 1421.0.10 ('that')
+[1572177861902] del 1421.0.10 from 1421[8,10,11,7:]
+[1572177863422] left click on word 1421.0.11 ('can')
+[1572177863422] del 1421.0.11 from 1421[8,11,7:]
+[1572177864623] left click on word 1421.1.13 ('moyens')
+[1572177864623] add 1421.1.13 to 1421[8,7:]
+[1572177865452] left click on word 1421.1.14 ('pour')
+[1572177865452] add 1421.1.14 to 1421[8,7:13]
+[1572177866972] left click on word 1421.0.9 ('thing')
+[1572177866973] add 1421.0.9 to 1421[8,7:13,14]
+[1572177867607] left click on word 1421.0.10 ('that')
+[1572177867607] add 1421.0.10 to 1421[8,7,9:13,14]
+[1572177868221] left click on word 1421.0.11 ('can')
+[1572177868221] add 1421.0.11 to 1421[8,7,9,10:13,14]
+[1572177868685] right click on word 1421.0.11 ('can')
+[1572177869414] right click on word 1421.0.11 ('can')
+[1572177870952] label 1421[8,7,9,10,11:13,14] as modulation_transposition
+[1572177910830] left click on word 1422.0.9 ('this')
+[1572177910831] edit 1422[9:15]
+[1572177915029] left click on word 1422.1.14 ('le')
+[1572177915030] add 1422.1.14 to 1422[9:15]
+[1572177921182] right click on word 1422.1.14 ('le')
+[1572177921711] right click on word 1422.1.14 ('le')
+[1572177934591] label 1422[9:15,14] as particularization
+[1572178053393] left click on word 1424.0.9 ('at')
+[1572178053394] edit 1424[7,8,9:8]
+[1572178054402] left click on word 1424.0.10 ('and')
+[1572178054403] add 1424.0.10 to 1424[7,8,9:8]
+[1572178054994] left click on word 1424.0.11 ('say')
+[1572178054994] add 1424.0.11 to 1424[7,8,9,10:8]
+[1572178058763] right click on word 1424.1.8 ('penserez')
+[1572178082099] left click on word 1425.0.4 (',')
+[1572178082099] edit 1425[4:6]
+[1572178082595] left click on word 1425.0.4 (',')
+[1572178082595] del 1425.0.4 from 1425[4:6]
+[1572178084084] left click on word 1425.1.6 (',')
+[1572178084084] del 1425.1.6 from 1425[:6]
+[1572178084498] cancel edit
+[1572178084499] add 1425.0.4 to 1425[:]
+[1572178084501] add 1425.1.6 to 1425[4:]
+[1572178086211] right click on word 1425.0.4 (',')
+[1572178088180] del 1425.0.4 from 1425[4:6]
+[1572178090867] left click on word 1425.1.6 (',')
+[1572178090868] edit 1425[:6]
+[1572178091724] right click on word 1425.1.6 (',')
+[1572178092634] right click on word 1425.1.6 (',')
+[1572178093603] del 1425.1.6 from 1425[:6]
+[1572178124332] left click on word 1425.0.19 ('this')
+[1572178124332] edit 1425[19:17]
+[1572178125433] left click on word 1425.1.18 ('voies')
+[1572178125433] add 1425.1.18 to 1425[19:17]
+[1572178125868] right click on word 1425.1.18 ('voies')
+[1572178126456] right click on word 1425.1.18 ('voies')
+[1572178129060] label 1425[19:17,18] as particularization
+[1572178144444] right click on word 1426.0.2 ('has')
+[1572178146444] label 1426[2:2] as equivalence
+[1572178246055] right click on word 1427.0.24 ('back')
+[1572178259600] right click on word 1427.0.24 ('back')
+[1572178481062] left click on word 1427.0.25 ('that')
+[1572178481062] edit 1427[25:27]
+[1572178483762] left click on word 1427.1.28 ('projets')
+[1572178483762] add 1427.1.28 to 1427[25:27]
+[1572178484192] right click on word 1427.1.28 ('projets')
+[1572178485246] right click on word 1427.1.28 ('projets')
+[1572178490725] label 1427[25:27,28] as particularization
+[1572178639226] right click on word 1430.0.2 ('really')
+[1572178640762] label 1430[2:4] as equivalence
+[1572178683284] left click on word 1430.0.10 (',')
+[1572178683284] edit 1430[10:13,15]
+[1572178685683] left click on word 1430.1.15 (',')
+[1572178685683] del 1430.1.15 from 1430[10:13,15]
+[1572178687835] right click on word 1430.0.10 (',')
+[1572178700027] right click on word 1430.0.15 ('there')
+[1572178762765] right click on word 1431.0.14 ('--')
+[1572178764334] label 1431[14:16] as uncertain
+[1572178786705] right click on word 1431.0.23 ('--')
+[1572178788218] label 1431[23:27] as uncertain
+[1572178812899] left click on word 1431.0.37 ('.')
+[1572178812900] edit 1431[37,38:41]
+[1572178814174] left click on word 1431.0.38 ('''')
+[1572178814174] del 1431.0.38 from 1431[37,38:41]
+[1572178815575] right click on word 1431.0.37 ('.')
+[1572179090933] left click on word 1433.0.51 (''s')
+[1572179090934] new alignment group
+[1572179090934] add 1433.0.51 to 1433[:]
+[1572179092486] left click on word 1433.1.55 ('sur')
+[1572179092486] add 1433.1.55 to 1433[51:]
+[1572179093190] left click on word 1433.1.56 ('les')
+[1572179093190] add 1433.1.56 to 1433[51:55]
+[1572179093685] right click on word 1433.1.56 ('les')
+[1572179094230] right click on word 1433.1.56 ('les')
+[1572179096566] label 1433[51:55,56] as transposition
+[1572179209888] left click on word 1435.0.21 ('reactors')
+[1572179209889] edit 1435[21:24]
+[1572179212421] right click on word 1435.1.23 ('les')
+[1572179212421] del 1435.1.23 from 1435[:23]
+[1572179212421] add 1435.1.23 to 1435[21:24]
+[1572179229729] left click on word 1435.0.20 (''s')
+[1572179229730] new alignment group
+[1572179229730] add 1435.0.20 to 1435[:]
+[1572179231791] left click on word 1435.1.25 ('d'')
+[1572179231791] add 1435.1.25 to 1435[20:]
+[1572179232449] right click on word 1435.1.25 ('d'')
+[1572179233202] right click on word 1435.1.25 ('d'')
+[1572179234690] label 1435[20:25] as transposition
+[1572179277266] right click on word 1436.0.6 ('them')
+[1572179303164] left click on word 1436.0.5 ('about')
+[1572179303164] edit 1436[5:8,10]
+[1572179304612] left click on word 1436.1.6 ('en')
+[1572179304612] add 1436.1.6 to 1436[5:8,10]
+[1572179305980] left click on word 1436.1.10 ('sujet')
+[1572179305980] del 1436.1.10 from 1436[5:8,10,6]
+[1572179307899] right click on word 1436.0.5 ('about')
+[1572179308748] left click on word 1436.0.6 ('them')
+[1572179308748] edit 1436[6:9]
+[1572179311093] left click on word 1436.1.10 ('sujet')
+[1572179311093] add 1436.1.10 to 1436[6:9]
+[1572179311795] right click on word 1436.1.10 ('sujet')
+[1572179312611] right click on word 1436.1.10 ('sujet')
+[1572179314558] label 1436[6:9,10] as figurative
+[1572179318113] right click on word 1436.1.10 ('sujet')
+[1572179321196] label 1436[6:9,10] as particularization
+[1572179446191] left click on word 1437.0.12 ('kind')
+[1572179446191] edit 1437[12,13:10]
+[1572179447136] left click on word 1437.1.9 ('un')
+[1572179447136] add 1437.1.9 to 1437[12,13:10]
+[1572179447728] right click on word 1437.1.9 ('un')
+[1572179456752] left click on word 1436.0.16 ('great')
+[1572179456752] edit 1436[16:20]
+[1572179457488] left click on word 1436.0.15 ('a')
+[1572179457488] add 1436.0.15 to 1436[16:20]
+[1572179458152] right click on word 1436.0.15 ('a')
+[1572179568811] left click on word 1438.0.17 ('.')
+[1572179568811] edit 1438[17:21,22]
+[1572179570283] left click on word 1438.1.21 ('"')
+[1572179570283] del 1438.1.21 from 1438[17:21,22]
+[1572179572268] right click on word 1438.1.22 ('.')
+[1572179589412] left click on word 1438.0.14 ('traveling')
+[1572179589412] edit 1438[14:17]
+[1572179590411] left click on word 1438.0.15 ('wave')
+[1572179590411] del 1438.0.15 from 1438[15:18,19,20]
+[1572179590412] add 1438.0.15 to 1438[14:17]
+[1572179592354] left click on word 1438.1.17 ('à')
+[1572179592355] del 1438.1.17 from 1438[14,15:17]
+[1572179593027] left click on word 1438.1.18 ('vague')
+[1572179593028] del 1438.1.18 from 1438[:18,19,20]
+[1572179593028] add 1438.1.18 to 1438[14,15:]
+[1572179594176] left click on word 1438.1.19 ('d'')
+[1572179594176] del 1438.1.19 from 1438[:19,20]
+[1572179594177] add 1438.1.19 to 1438[14,15:18]
+[1572179594667] left click on word 1438.1.20 ('ondes')
+[1572179594667] del 1438.1.20 from 1438[:20]
+[1572179594668] add 1438.1.20 to 1438[14,15:18,19]
+[1572179597612] left click on word 1438.1.17 ('à')
+[1572179597612] add 1438.1.17 to 1438[14,15:18,19,20]
+[1572179598803] right click on word 1438.1.17 ('à')
+[1572179599892] right click on word 1438.1.18 ('vague')
+[1572179611452] label 1438[14,15:18,19,20,17] as modulation_transposition
+[1572179623371] left click on word 1438.1.14 ('du')
+[1572179623372] new alignment group
+[1572179623372] add 1438.1.14 to 1438[:]
+[1572179624884] left click on word 1438.0.13 ('a')
+[1572179624885] add 1438.0.13 to 1438[:14]
+[1572179625476] right click on word 1438.0.13 ('a')
+[1572179626132] right click on word 1438.0.13 ('a')
+[1572179628644] label 1438[13:14] as lexical_shift
+[1572179642773] left click on word 1438.0.10 ('referred')
+[1572179642774] new alignment group
+[1572179642774] add 1438.0.10 to 1438[:]
+[1572179643924] cancel edit
+[1572179645397] left click on word 1438.0.10 ('referred')
+[1572179645397] new alignment group
+[1572179645397] add 1438.0.10 to 1438[:]
+[1572179646277] left click on word 1438.0.11 ('to')
+[1572179646277] add 1438.0.11 to 1438[10:]
+[1572179648789] left click on word 1438.1.12 ('parlé')
+[1572179648789] add 1438.1.12 to 1438[10,11:]
+[1572179651180] right click on word 1438.1.12 ('parlé')
+[1572179651661] right click on word 1438.1.12 ('parlé')
+[1572179653517] label 1438[10,11:12] as modulation
+[1572179681982] right click on word 1438.0.11 ('to')
+[1572179683790] label 1438[10,11:12] as modulation_transposition
+[1572179686022] left click on word 1438.0.10 ('referred')
+[1572179686023] edit 1438[10,11:12]
+[1572179686710] left click on word 1438.1.8 ('on')
+[1572179686710] add 1438.1.8 to 1438[10,11:12]
+[1572179687638] left click on word 1438.1.9 ('en')
+[1572179687638] add 1438.1.9 to 1438[10,11:12,8]
+[1572179692926] left click on word 1438.1.10 ('a')
+[1572179692926] del 1438.1.10 from 1438[7:10]
+[1572179692926] add 1438.1.10 to 1438[10,11:12,8,9]
+[1572179693470] right click on word 1438.1.10 ('a')
+[1572179713823] left click on word 1438.1.3 ('ça')
+[1572179713824] edit 1438[3,4:3]
+[1572179715974] left click on word 1438.0.4 (''s')
+[1572179715974] del 1438.0.4 from 1438[3,4:3]
+[1572179717343] right click on word 1438.1.3 ('ça')
+[1572179728879] left click on word 1438.1.4 ('comme')
+[1572179728879] new alignment group
+[1572179728879] add 1438.1.4 to 1438[:]
+[1572179729927] left click on word 1438.0.4 (''s')
+[1572179729927] add 1438.0.4 to 1438[:4]
+[1572179733839] left click on word 1438.0.7 ('there')
+[1572179733839] del 1438.0.7 from 1438[7:]
+[1572179733839] add 1438.0.7 to 1438[4:4]
+[1572179735279] right click on word 1438.0.7 ('there')
+[1572179737519] right click on word 1438.0.7 ('there')
+[1572179740120] label 1438[4,7:4] as equivalence
+[1572179967724] right click on word 1441.0.1 ('is')
+[1572179972791] label 1441[1:1] as lexical_shift
+[1572179987353] left click on word 1441.0.4 (',')
+[1572179987353] edit 1441[4:3,5,6]
+[1572179988425] left click on word 1441.1.5 ('"')
+[1572179988425] del 1441.1.5 from 1441[4:3,5,6]
+[1572179990128] left click on word 1441.1.3 ('"')
+[1572179990128] del 1441.1.3 from 1441[4:3,6]
+[1572179991418] right click on word 1441.1.6 (',')
+[1572180011693] right click on word 1441.0.11 (''ve')
+[1572180014246] label 1441[11:14] as lexical_shift
+[1572180046595] left click on word 1441.0.23 ('called')
+[1572180046595] edit 1441[22,23:26]
+[1572180050554] left click on word 1441.1.25 ('on')
+[1572180050554] add 1441.1.25 to 1441[22,23:26]
+[1572180051099] right click on word 1441.1.25 ('on')
+[1572180281586] right click on word 1445.0.4 (':')
+[1572180283031] label 1445[4:1] as uncertain
+[1572180300125] right click on word 1445.0.9 ('ourselves')
+[1572180325847] left click on word 1446.0.3 ('report')
+[1572180325848] edit 1446[3:9]
+[1572180326896] left click on word 1446.0.4 ('card')
+[1572180326896] del 1446.0.4 from 1446[4:7]
+[1572180326898] add 1446.0.4 to 1446[3:9]
+[1572180328119] left click on word 1446.1.7 ('feuille')
+[1572180328119] del 1446.1.7 from 1446[:7]
+[1572180328120] add 1446.1.7 to 1446[3,4:9]
+[1572180328672] cancel edit
+[1572180328672] add 1446.0.4 to 1446[:]
+[1572180328672] add 1446.1.7 to 1446[4:]
+[1572180331392] left click on word 1446.0.3 ('report')
+[1572180331392] edit 1446[3:9]
+[1572180332295] left click on word 1446.0.4 ('card')
+[1572180332296] del 1446.0.4 from 1446[4:7]
+[1572180332296] add 1446.0.4 to 1446[3:9]
+[1572180333361] left click on word 1446.1.7 ('feuille')
+[1572180333361] del 1446.1.7 from 1446[:7]
+[1572180333362] add 1446.1.7 to 1446[3,4:9]
+[1572180334257] left click on word 1446.1.8 ('de')
+[1572180334257] add 1446.1.8 to 1446[3,4:9,7]
+[1572180334688] right click on word 1446.1.8 ('de')
+[1572180363779] right click on word 1447.0.7 ('where')
+[1572180388398] left click on word 1447.0.7 ('where')
+[1572180388398] edit 1447[7:2,3]
+[1572180389246] left click on word 1447.1.4 ('que')
+[1572180389246] add 1447.1.4 to 1447[7:2,3]
+[1572180389793] right click on word 1447.1.4 ('que')
+[1572180428178] left click on word 1447.0.19 ('intermediate')
+[1572180428178] edit 1447[19:14]
+[1572180428882] left click on word 1447.1.13 ('étapes')
+[1572180428883] add 1447.1.13 to 1447[19:14]
+[1572180429340] right click on word 1447.1.13 ('étapes')
+[1572180430159] right click on word 1447.1.13 ('étapes')
+[1572180432211] label 1447[19:14,13] as lexical_shift
+[1572180438219] right click on word 1447.0.19 ('intermediate')
+[1572180445180] label 1447[19:14,13] as particularization
+[1572180450259] right click on word 1447.0.19 ('intermediate')
+[1572180453108] label 1447[19:14,13] as lexical_shift
+[1572180475744] left click on word 1448.0.9 ('about')
+[1572180475744] edit 1448[8,9:9]
+[1572180476487] left click on word 1448.1.10 ('de')
+[1572180476487] add 1448.1.10 to 1448[8,9:9]
+[1572180476807] right click on word 1448.1.10 ('de')
+[1572180531582] right click on word 1450.0.9 ('things')
+[1572180548310] left click on word 1450.0.14 ('countries')
+[1572180548310] edit 1450[14:13]
+[1572180549918] left click on word 1450.1.12 ('les')
+[1572180549918] add 1450.1.12 to 1450[14:13]
+[1572180550902] right click on word 1450.1.12 ('les')
+[1572180575280] right click on word 1450.0.19 (',')
+[1572180577140] label 1450[19:23] as uncertain
+[1572180608003] left click on word 1450.0.20 ('hopefully')
+[1572180608003] edit 1450[20:24]
+[1572180612531] left click on word 1450.1.25 ('que')
+[1572180612531] add 1450.1.25 to 1450[20:24]
+[1572180613163] right click on word 1450.1.25 ('que')
+[1572180613691] right click on word 1450.1.25 ('que')
+[1572180616620] label 1450[20:24,25] as transposition
+[1572180635469] left click on word 1450.1.32 ('sylviculture')
+[1572180635469] edit 1450[26:32]
+[1572180636125] left click on word 1450.1.31 ('une')
+[1572180636125] add 1450.1.31 to 1450[26:32]
+[1572180636613] right click on word 1450.1.31 ('une')
+[1572180641493] left click on word 1450.1.33 ('et')
+[1572180641493] edit 1450[25:33]
+[1572180641902] left click on word 1450.1.33 ('et')
+[1572180641902] del 1450.1.33 from 1450[25:33]
+[1572180645234] right click on word 1450.0.25 ('up')
+[1572180653463] left click on word 1450.1.36 ('du')
+[1572180653463] edit 1450[28:36,37]
+[1572180654118] left click on word 1450.1.35 ('industrie')
+[1572180654118] add 1450.1.35 to 1450[28:36,37]
+[1572180654791] left click on word 1450.1.34 ('une')
+[1572180654791] add 1450.1.34 to 1450[28:36,37,35]
+[1572180658590] right click on word 1450.1.34 ('une')
+[1572180659345] right click on word 1450.1.34 ('une')
+[1572180661199] label 1450[28:36,37,35,34] as particularization
+[1572180669552] left click on word 1450.1.38 ('propres')
+[1572180669553] new alignment group
+[1572180669553] add 1450.1.38 to 1450[:]
+[1572180671257] left click on word 1450.0.24 ('cleaned')
+[1572180671257] add 1450.0.24 to 1450[:38]
+[1572180671912] left click on word 1450.0.25 ('up')
+[1572180671912] del 1450.0.25 from 1450[25:]
+[1572180671912] add 1450.0.25 to 1450[24:38]
+[1572180672216] right click on word 1450.0.25 ('up')
+[1572180672888] right click on word 1450.0.25 ('up')
+[1572180674280] label 1450[24,25:38] as transposition
+[1572180708122] left click on word 1451.0.14 ('countries')
+[1572180708122] edit 1451[14:16]
+[1572180709916] left click on word 1451.1.15 ('des')
+[1572180709916] add 1451.1.15 to 1451[14:16]
+[1572180710307] right click on word 1451.1.15 ('des')
+[1572180748894] left click on word 1451.0.25 ('generation')
+[1572180748895] edit 1451[25:29]
+[1572180755719] right click on word 1451.0.25 ('generation')
+[1572180760718] left click on word 1451.0.22 ('switch')
+[1572180760719] new alignment group
+[1572180760720] add 1451.0.22 to 1451[:]
+[1572180761752] left click on word 1451.1.24 ('transformer')
+[1572180761752] add 1451.1.24 to 1451[22:]
+[1572180765720] right click on word 1451.1.24 ('transformer')
+[1572180794889] right click on word 1451.1.24 ('transformer')
+[1572180800126] label 1451[22:24] as equivalence
+[1572180862022] left click on word 1452.1.2 ('suivant')
+[1572180862022] edit 1452[6:2]
+[1572180862935] left click on word 1452.0.3 ('other')
+[1572180862935] add 1452.0.3 to 1452[6:2]
+[1572180865088] left click on word 1452.0.6 (':')
+[1572180865088] del 1452.0.6 from 1452[6,3:2]
+[1572180866846] right click on word 1452.0.3 ('other')
+[1572180870312] left click on word 1452.1.3 (',')
+[1572180870312] edit 1452[1:3]
+[1572180870983] left click on word 1452.1.3 (',')
+[1572180870983] del 1452.1.3 from 1452[1:3]
+[1572180872344] right click on word 1452.0.1 (',')
+[1572180903706] left click on word 1452.1.5 ('sera')
+[1572180903706] edit 1452[5:5]
+[1572180904322] left click on word 1452.1.4 ('ce')
+[1572180904322] add 1452.1.4 to 1452[5:5]
+[1572180904794] right click on word 1452.1.4 ('ce')
+[1572180905330] right click on word 1452.1.4 ('ce')
+[1572180909098] label 1452[5:5,4] as transposition
+[1572180935948] left click on word 1452.1.5 ('sera')
+[1572180935948] edit 1452[5:5,4]
+[1572180936923] left click on word 1452.1.6 ('de')
+[1572180936923] add 1452.1.6 to 1452[5:5,4]
+[1572180937588] left click on word 1452.1.7 ('mettre')
+[1572180937588] add 1452.1.7 to 1452[5:5,4,6]
+[1572180938108] left click on word 1452.1.8 ('en')
+[1572180938108] del 1452.1.8 from 1452[7:8]
+[1572180938108] add 1452.1.8 to 1452[5:5,4,6,7]
+[1572180938653] left click on word 1452.1.9 ('oeuvre')
+[1572180938653] add 1452.1.9 to 1452[5:5,4,6,7,8]
+[1572180941404] left click on word 1452.0.7 ('are')
+[1572180941404] del 1452.0.7 from 1452[7:]
+[1572180941405] add 1452.0.7 to 1452[5:5,4,6,7,8,9]
+[1572180942389] left click on word 1452.0.8 ('we')
+[1572180942389] add 1452.0.8 to 1452[5,7:5,4,6,7,8,9]
+[1572180943177] left click on word 1452.0.9 ('deploying')
+[1572180943177] add 1452.0.9 to 1452[5,7,8:5,4,6,7,8,9]
+[1572180946253] left click on word 1452.0.6 (':')
+[1572180946253] add 1452.0.6 to 1452[5,7,8,9:5,4,6,7,8,9]
+[1572180946676] right click on word 1452.0.6 (':')
+[1572180947186] right click on word 1452.0.6 (':')
+[1572180948844] label 1452[5,7,8,9,6:5,4,6,7,8,9] as modulation_transposition
+[1572180968014] left click on word 1452.0.14 ('have')
+[1572180968014] edit 1452[14,15:17]
+[1572180969623] left click on word 1452.0.16 ('deployed')
+[1572180969623] del 1452.0.16 from 1452[16,17:18]
+[1572180969623] add 1452.0.16 to 1452[14,15:17]
+[1572180972014] left click on word 1452.0.17 ('it')
+[1572180972015] del 1452.0.17 from 1452[17:18]
+[1572180972015] add 1452.0.17 to 1452[14,15,16:17]
+[1572180974734] left click on word 1452.1.15 ('de')
+[1572180974735] add 1452.1.15 to 1452[14,15,16,17:17]
+[1572180975407] left click on word 1452.1.16 ('l'')
+[1572180975408] add 1452.1.16 to 1452[14,15,16,17:17,15]
+[1572180976335] left click on word 1452.1.18 ('mise')
+[1572180976335] del 1452.1.18 from 1452[:18]
+[1572180976336] add 1452.1.18 to 1452[14,15,16,17:17,15,16]
+[1572180981927] left click on word 1452.1.19 ('en')
+[1572180981927] del 1452.1.19 from 1452[18:19,21]
+[1572180981927] add 1452.1.19 to 1452[14,15,16,17:17,15,16,18]
+[1572180983736] left click on word 1452.1.20 ('oeuvre')
+[1572180983736] add 1452.1.20 to 1452[14,15,16,17:17,15,16,18,19]
+[1572180988575] right click on word 1452.1.20 ('oeuvre')
+[1572180989072] right click on word 1452.1.20 ('oeuvre')
+[1572180990880] label 1452[14,15,16,17:17,15,16,18,19,20] as modulation_transposition
+[1572181010624] left click on word 1452.0.24 ('we')
+[1572181010625] new alignment group
+[1572181010625] add 1452.0.24 to 1452[:]
+[1572181012143] left click on word 1452.0.25 (''re')
+[1572181012143] del 1452.0.25 from 1452[25,26:29]
+[1572181012143] add 1452.0.25 to 1452[24:]
+[1572181013393] left click on word 1452.0.26 ('in')
+[1572181013393] del 1452.0.26 from 1452[26:29]
+[1572181013394] add 1452.0.26 to 1452[24,25:]
+[1572181015218] left click on word 1452.0.26 ('in')
+[1572181015218] del 1452.0.26 from 1452[24,25,26:]
+[1572181015219] add 1452.0.26 to 1452[:29]
+[1572181018193] left click on word 1452.0.24 ('we')
+[1572181018193] del 1452.0.24 from 1452[24,25:]
+[1572181018682] left click on word 1452.0.25 (''re')
+[1572181018682] del 1452.0.25 from 1452[25:]
+[1572181018682] add 1452.0.25 to 1452[26:29]
+[1572181019961] left click on word 1452.1.27 ('d'')
+[1572181019961] add 1452.1.27 to 1452[:]
+[1572181022042] left click on word 1452.1.28 ('être')
+[1572181022042] del 1452.1.28 from 1452[30:28]
+[1572181022043] add 1452.1.28 to 1452[:27]
+[1572181024034] right click on word 1452.1.28 ('être')
+[1572181025707] left click on word 1452.0.24 ('we')
+[1572181025707] new alignment group
+[1572181025707] add 1452.0.24 to 1452[:]
+[1572181027226] left click on word 1452.0.25 (''re')
+[1572181027226] del 1452.0.25 from 1452[26,25:29]
+[1572181027227] add 1452.0.25 to 1452[24:]
+[1572181028682] left click on word 1452.1.27 ('d'')
+[1572181028682] del 1452.1.27 from 1452[:27,28]
+[1572181028682] add 1452.1.27 to 1452[24,25:]
+[1572181029539] left click on word 1452.1.28 ('être')
+[1572181029539] del 1452.1.28 from 1452[:28]
+[1572181029539] add 1452.1.28 to 1452[24,25:27]
+[1572181037474] right click on word 1452.1.28 ('être')
+[1572181038203] right click on word 1452.1.28 ('être')
+[1572181039707] label 1452[24,25:27,28] as modulation_transposition
+[1572181060020] left click on word 1452.0.26 ('in')
+[1572181060020] edit 1452[26:29]
+[1572181060564] left click on word 1452.0.27 ('the')
+[1572181060565] del 1452.0.27 from 1452[27:32]
+[1572181060565] add 1452.0.27 to 1452[26:29]
+[1572181061101] left click on word 1452.0.28 ('process')
+[1572181061101] del 1452.0.28 from 1452[28,29:31]
+[1572181061101] add 1452.0.28 to 1452[26,27:29]
+[1572181062853] left click on word 1452.1.30 ('passe')
+[1572181062853] add 1452.1.30 to 1452[26,27,28:29]
+[1572181065620] left click on word 1452.1.31 ('de')
+[1572181065621] del 1452.1.31 from 1452[29:31]
+[1572181065621] add 1452.1.31 to 1452[26,27,28:29,30]
+[1572181066572] left click on word 1452.0.29 ('of')
+[1572181066573] del 1452.0.29 from 1452[29:]
+[1572181066573] add 1452.0.29 to 1452[26,27,28:29,30,31]
+[1572181070389] right click on word 1452.0.29 ('of')
+[1572181071069] right click on word 1452.0.29 ('of')
+[1572181072532] label 1452[26,27,28,29:29,30,31] as equivalence
+[1572181078951] left click on word 1452.0.30 ('getting')
+[1572181078951] edit 1452[30:]
+[1572181081430] left click on word 1452.0.31 ('it')
+[1572181081430] add 1452.0.31 to 1452[30:]
+[1572181082294] left click on word 1452.1.32 ('le')
+[1572181082294] del 1452.1.32 from 1452[:32]
+[1572181082294] add 1452.1.32 to 1452[30,31:]
+[1572181083022] left click on word 1452.1.33 ('faire')
+[1572181083022] add 1452.1.33 to 1452[30,31:32]
+[1572181088694] right click on word 1452.1.33 ('faire')
+[1572181096671] left click on word 1452.0.32 ('elsewhere')
+[1572181096671] edit 1452[32:36]
+[1572181097910] left click on word 1452.1.34 ('dans')
+[1572181097910] add 1452.1.34 to 1452[32:36]
+[1572181098936] left click on word 1452.1.35 ('les')
+[1572181098936] add 1452.1.35 to 1452[32:36,34]
+[1572181099583] left click on word 1452.1.37 ('pays')
+[1572181099583] add 1452.1.37 to 1452[32:36,34,35]
+[1572181099966] right click on word 1452.1.37 ('pays')
+[1572181100551] right click on word 1452.1.37 ('pays')
+[1572181104327] label 1452[32:36,34,35,37] as particularization
+[1572181106904] right click on word 1452.1.38 ('.')
+[1572181108512] label 1452[33:38] as uncertain
+[1572181150850] left click on word 1454.0.8 ('report')
+[1572181150850] edit 1454[8:10]
+[1572181151554] left click on word 1454.0.9 ('card')
+[1572181151554] del 1454.0.9 from 1454[9:8]
+[1572181151554] add 1454.0.9 to 1454[8:10]
+[1572181152525] left click on word 1454.1.8 ('feuille')
+[1572181152525] del 1454.1.8 from 1454[:8]
+[1572181152525] add 1454.1.8 to 1454[8,9:10]
+[1572181152970] left click on word 1454.1.9 ('de')
+[1572181152971] add 1454.1.9 to 1454[8,9:10,8]
+[1572181153810] right click on word 1454.1.9 ('de')
+[1572181193276] left click on word 1455.0.11 ('report')
+[1572181193276] edit 1455[11:17]
+[1572181194046] left click on word 1455.0.12 ('card')
+[1572181194046] del 1455.0.12 from 1455[12:15]
+[1572181194046] add 1455.0.12 to 1455[11:17]
+[1572181195416] left click on word 1455.1.15 ('feuille')
+[1572181195417] del 1455.1.15 from 1455[:15]
+[1572181195417] add 1455.1.15 to 1455[11,12:17]
+[1572181195885] left click on word 1455.1.16 ('de')
+[1572181195885] add 1455.1.16 to 1455[11,12:17,15]
+[1572181196589] right click on word 1455.1.16 ('de')
+[1572181254521] left click on word 1457.0.10 ('reductions')
+[1572181254521] edit 1457[10:13]
+[1572181255600] left click on word 1457.1.12 ('des')
+[1572181255601] add 1457.1.12 to 1457[10:13]
+[1572181256056] right click on word 1457.1.12 ('des')
+[1572181259128] right click on word 1457.0.11 (':')
+[1572181261937] label 1457[11:14] as uncertain
+[1572181381176] left click on word 1458.0.22 ('the')
+[1572181381177] new alignment group
+[1572181381177] add 1458.0.22 to 1458[:]
+[1572181383401] left click on word 1458.1.24 ('d'')
+[1572181383401] add 1458.1.24 to 1458[22:]
+[1572181384912] right click on word 1458.1.24 ('d'')
+[1572181386048] right click on word 1458.1.24 ('d'')
+[1572181389441] label 1458[22:24] as lexical_shift
+[1572181494526] left click on word 1458.0.47 ('on')
+[1572181494527] edit 1458[47:47]
+[1572181496311] left click on word 1458.1.48 ('laquelle')
+[1572181496311] add 1458.1.48 to 1458[47:47]
+[1572181497022] left click on word 1458.1.49 ('reposent')
+[1572181497023] add 1458.1.49 to 1458[47:47,48]
+[1572181497543] right click on word 1458.1.49 ('reposent')
+[1572181498230] right click on word 1458.1.49 ('reposent')
+[1572181499644] label 1458[47:47,48,49] as transposition
+[1572181596964] left click on word 1459.0.4 ('need')
+[1572181596964] edit 1459[4,5:4]
+[1572181598421] left click on word 1459.1.3 ('il')
+[1572181598421] add 1459.1.3 to 1459[4,5:4]
+[1572181599269] left click on word 1459.1.5 ('que')
+[1572181599269] add 1459.1.5 to 1459[4,5:4,3]
+[1572181599957] right click on word 1459.1.5 ('que')
+[1572181600517] right click on word 1459.1.5 ('que')
+[1572181602845] label 1459[4,5:4,3,5] as transposition
+[1572181663007] left click on word 1459.1.30 ('dispositions')
+[1572181663007] edit 1459[26:30]
+[1572181663920] cancel edit
+[1572181665729] left click on word 1459.1.30 ('dispositions')
+[1572181665729] edit 1459[26:30]
+[1572181666360] left click on word 1459.1.29 ('des')
+[1572181666360] add 1459.1.29 to 1459[26:30]
+[1572181666816] right click on word 1459.1.29 ('des')
+[1572181729492] left click on word 1460.0.11 ('about')
+[1572181729492] edit 1460[11:7,9]
+[1572181730169] left click on word 1460.0.12 ('this')
+[1572181730169] del 1460.0.12 from 1460[12:8]
+[1572181730169] add 1460.0.12 to 1460[11:7,9]
+[1572181731996] left click on word 1460.1.8 ('ce')
+[1572181731996] del 1460.1.8 from 1460[:8]
+[1572181731996] add 1460.1.8 to 1460[11,12:7,9]
+[1572181732678] right click on word 1460.1.8 ('ce')
+[1572181797114] left click on word 1461.0.19 ('the')
+[1572181797114] edit 1461[19,20:23]
+[1572181798985] left click on word 1461.0.19 ('the')
+[1572181798986] del 1461.0.19 from 1461[19,20:23]
+[1572181805035] right click on word 1461.1.23 ('chaud')
+[1572181822239] left click on word 1461.0.21 ('Air')
+[1572181822239] edit 1461[21:22]
+[1572181836545] right click on word 1461.0.21 ('Air')
+[1572181872407] left click on word 1462.0.1 ('really')
+[1572181872407] edit 1462[1:2]
+[1572181874825] left click on word 1462.1.3 ('bien')
+[1572181874825] del 1462.1.3 from 1462[:3]
+[1572181874825] add 1462.1.3 to 1462[1:2]
+[1572181875473] right click on word 1462.1.3 ('bien')
+[1572181877969] right click on word 1462.1.3 ('bien')
+[1572181879141] label 1462[1:2,3] as equivalence
+[1572181889827] left click on word 1462.0.4 ('it')
+[1572181889827] new alignment group
+[1572181889827] add 1462.0.4 to 1462[:]
+[1572181890588] left click on word 1462.1.4 ('le')
+[1572181890588] del 1462.1.4 from 1462[:4]
+[1572181890589] add 1462.1.4 to 1462[4:]
+[1572181891129] left click on word 1462.1.5 ('sujet')
+[1572181891130] add 1462.1.5 to 1462[4:4]
+[1572181891642] right click on word 1462.1.5 ('sujet')
+[1572181892147] right click on word 1462.1.5 ('sujet')
+[1572181894508] label 1462[4:4,5] as particularization
+[1572181997598] right click on word 1463.1.1 ('de')
+[1572182011536] left click on word 1463.1.0 ('beaucoup')
+[1572182011536] edit 1463[2,3:0,1,2]
+[1572182013224] left click on word 1463.0.0 ('there')
+[1572182013224] add 1463.0.0 to 1463[2,3:0,1,2]
+[1572182013805] left click on word 1463.0.1 (''s')
+[1572182013806] del 1463.0.1 from 1463[1:]
+[1572182013806] add 1463.0.1 to 1463[2,3,0:0,1,2]
+[1572182014505] right click on word 1463.0.4 ('that')
+[1572182014505] add 1463.0.4 to 1463[2,3,0,1:0,1,2]
+[1572182014969] right click on word 1463.0.4 ('that')
+[1572182016483] label 1463[2,3,0,1,4:0,1,2] as modulation_transposition
+[1572182091539] right click on word 1466.0.12 ('--')
+[1572182093621] label 1466[12:14] as uncertain
+[1572182124328] left click on word 1466.0.16 ('who')
+[1572182124329] new alignment group
+[1572182124329] add 1466.0.16 to 1466[:]
+[1572182125057] left click on word 1466.0.17 (''s')
+[1572182125057] add 1466.0.17 to 1466[16:]
+[1572182126009] left click on word 1466.1.19 ('le')
+[1572182126009] add 1466.1.19 to 1466[16,17:]
+[1572182126522] left click on word 1466.1.20 ('prochain')
+[1572182126522] add 1466.1.20 to 1466[16,17:19]
+[1572182127793] right click on word 1466.1.20 ('prochain')
+[1572182128247] right click on word 1466.1.20 ('prochain')
+[1572182134506] label 1466[16,17:19,20] as modulation_transposition
+[1572182145668] right click on word 1466.0.16 ('who')
+[1572182151137] left click on word 1466.0.16 ('who')
+[1572182151137] edit 1466[16,17:19,20]
+[1572182151797] left click on word 1466.0.16 ('who')
+[1572182151797] del 1466.0.16 from 1466[16,17:19,20]
+[1572182152756] left click on word 1466.0.17 (''s')
+[1572182152757] del 1466.0.17 from 1466[17:19,20]
+[1572182154206] left click on word 1466.1.19 ('le')
+[1572182154206] del 1466.1.19 from 1466[:19,20]
+[1572182155461] right click on word 1466.1.20 ('prochain')
+[1572182226175] right click on word 1466.0.49 ('--')
+[1572182227767] label 1466[49:57] as uncertain
+[1572182399052] left click on word 1468.0.38 ('of')
+[1572182399052] edit 1468[38,42:48]
+[1572182399563] left click on word 1468.0.38 ('of')
+[1572182399563] del 1468.0.38 from 1468[38,42:48]
+[1572182410693] right click on word 1468.0.42 ('of')
+[1572182497638] right click on word 1468.0.37 ('most')
+[1572182510059] left click on word 1468.0.37 ('most')
+[1572182510059] edit 1468[37:47]
+[1572182511912] left click on word 1468.1.46 ('la')
+[1572182511912] add 1468.1.46 to 1468[37:47]
+[1572182513720] right click on word 1468.1.47 ('plupart')
+[1572184204588] left click on word 1472.0.1 ('countries')
+[1572184204589] edit 1472[1:1,2]
+[1572184207365] cancel edit
+[1572184247586] right click on word 1472.0.7 ('Copenhagen')
+[1572184349938] left click on word 1473.0.19 ('on')
+[1572184349940] edit 1473[19:21]
+[1572184351675] left click on word 1473.1.20 ('nécessité')
+[1572184351675] add 1473.1.20 to 1473[19:21]
+[1572184355107] left click on word 1473.1.20 ('nécessité')
+[1572184355108] del 1473.1.20 from 1473[19:21,20]
+[1572184357580] right click on word 1473.1.21 ('par')
+[1572184358587] right click on word 1473.1.21 ('par')
+[1572184361880] label 1473[19:21] as lexical_shift
+[1572184410525] right click on word 1474.0.6 ('--')
+[1572184412267] label 1474[6:8] as uncertain
+[1572184418267] left click on word 1474.0.8 ('tax')
+[1572184418267] edit 1474[8:10]
+[1572184419723] left click on word 1474.1.9 ('une')
+[1572184419723] add 1474.1.9 to 1474[8:10]
+[1572184420092] right click on word 1474.1.9 ('une')
+[1572184438002] right click on word 1474.0.13 ('--')
+[1572184439113] label 1474[13:18] as uncertain
+[1572184880101] left click on word 1480.0.47 ('our')
+[1572184880101] new alignment group
+[1572184880101] add 1480.0.47 to 1480[:]
+[1572184880692] left click on word 1480.0.48 ('materials')
+[1572184880692] add 1480.0.48 to 1480[47:]
+[1572184881730] left click on word 1480.1.43 ('ils')
+[1572184881731] add 1480.1.43 to 1480[47,48:]
+[1572184882159] right click on word 1480.1.43 ('ils')
+[1572184882765] right click on word 1480.1.43 ('ils')
+[1572184884859] label 1480[47,48:43] as particularization
+[1572184979925] right click on word 1481.0.8 (';')
+[1572184981076] label 1481[8:9] as uncertain
+[1572185036169] right click on word 1481.0.20 ('that')
+[1572185056549] left click on word 1481.0.20 ('that')
+[1572185056549] edit 1481[20,21:21]
+[1572185057516] left click on word 1481.0.21 ('will')
+[1572185057517] del 1481.0.21 from 1481[20,21:21]
+[1572185058445] right click on word 1481.0.20 ('that')
+[1572185061326] left click on word 1481.0.21 ('will')
+[1572185061326] new alignment group
+[1572185061326] add 1481.0.21 to 1481[:]
+[1572185064270] left click on word 1481.0.23 ('build')
+[1572185064271] del 1481.0.23 from 1481[23:24]
+[1572185064271] add 1481.0.23 to 1481[21:]
+[1572185066323] left click on word 1481.1.24 ('construira')
+[1572185066323] del 1481.1.24 from 1481[:24]
+[1572185066324] add 1481.1.24 to 1481[21,23:]
+[1572185067416] right click on word 1481.1.24 ('construira')
+[1572185098218] left click on word 1481.0.20 ('that')
+[1572185098218] edit 1481[20:21]
+[1572185098922] right click on word 1481.0.20 ('that')
+[1572185099523] right click on word 1481.0.20 ('that')
+[1572185104012] left click on word 1481.1.21 ('voilà')
+[1572185104012] edit 1481[20:21]
+[1572185104725] left click on word 1481.1.21 ('voilà')
+[1572185104725] del 1481.1.21 from 1481[20:21]
+[1572185105933] right click on word 1481.0.20 ('that')
+[1572185227673] right click on word 1482.0.25 (',')
+[1572185230474] label 1482[25:24] as uncertain
+[1572185261895] left click on word 1482.1.32 ('de')
+[1572185261895] new alignment group
+[1572185261895] add 1482.1.32 to 1482[:]
+[1572185262623] left click on word 1482.1.33 ('celles')
+[1572185262623] add 1482.1.33 to 1482[:32]
+[1572185263896] left click on word 1482.1.34 ('du')
+[1572185263897] add 1482.1.34 to 1482[:32,33]
+[1572185271848] left click on word 1482.0.30 ('are')
+[1572185271849] add 1482.0.30 to 1482[:32,33,34]
+[1572185272978] left click on word 1482.0.33 ('than')
+[1572185272978] del 1482.0.33 from 1482[33:]
+[1572185272979] add 1482.0.33 to 1482[30:32,33,34]
+[1572185274177] left click on word 1482.0.35 ('as')
+[1572185274177] del 1482.0.35 from 1482[35:36]
+[1572185274178] add 1482.0.35 to 1482[30,33:32,33,34]
+[1572185275530] right click on word 1482.0.35 ('as')
+[1572185276001] right click on word 1482.0.35 ('as')
+[1572185277258] label 1482[30,33,35:32,33,34] as transposition
+[1572185289420] left click on word 1482.0.35 ('as')
+[1572185289420] edit 1482[30,33,35:32,33,34]
+[1572185291124] left click on word 1482.1.36 ('que')
+[1572185291124] del 1482.1.36 from 1482[:36]
+[1572185291125] add 1482.1.36 to 1482[30,33,35:32,33,34]
+[1572185307998] left click on word 1482.0.38 ('it')
+[1572185307998] add 1482.0.38 to 1482[30,33,35:32,33,34,36]
+[1572185314823] left click on word 1482.0.35 ('as')
+[1572185314823] del 1482.0.35 from 1482[30,33,35,38:32,33,34,36]
+[1572185316400] left click on word 1482.0.38 ('it')
+[1572185316400] del 1482.0.38 from 1482[30,33,38:32,33,34,36]
+[1572185318000] left click on word 1482.1.36 ('que')
+[1572185318000] del 1482.1.36 from 1482[30,33:32,33,34,36]
+[1572185318001] add 1482.1.36 to 1482[:]
+[1572185319109] right click on word 1482.0.33 ('than')
+[1572185320075] left click on word 1482.0.35 ('as')
+[1572185320075] new alignment group
+[1572185320076] add 1482.0.35 to 1482[:]
+[1572185321077] left click on word 1482.0.38 ('it')
+[1572185321078] add 1482.0.38 to 1482[35:]
+[1572185323128] left click on word 1482.1.36 ('que')
+[1572185323128] del 1482.1.36 from 1482[:36]
+[1572185323129] add 1482.1.36 to 1482[35,38:]
+[1572185324848] right click on word 1482.1.36 ('que')
+[1572185325641] right click on word 1482.1.36 ('que')
+[1572185326874] label 1482[35,38:36] as transposition
+[1572185536256] right click on word 1484.0.29 (':')
+[1572185537953] label 1484[29:28] as uncertain
+[1572185573480] right click on word 1484.0.33 ('you')
+[1572185578055] label 1484[33,34:31,32] as modulation_transposition
+[1572185607678] left click on word 1484.0.44 (',')
+[1572185607678] edit 1484[44:35]
+[1572185609317] left click on word 1484.1.35 (',')
+[1572185609317] del 1484.1.35 from 1484[44:35]
+[1572185610893] right click on word 1484.0.44 (',')
+[1572185674926] left click on word 1485.0.11 ('put')
+[1572185674926] edit 1485[11,14:13]
+[1572185675056] right click on word 1485.0.11 ('put')
+[1572185676495] left click on word 1485.0.11 ('put')
+[1572185676495] edit 1485[11,14:13]
+[1572185678215] left click on word 1485.1.12 ('y')
+[1572185678215] add 1485.1.12 to 1485[11,14:13]
+[1572185678718] right click on word 1485.1.12 ('y')
+[1572185740007] left click on word 1485.1.18 ('pensez-y')
+[1572185740007] edit 1485[17:18]
+[1572185741030] left click on word 1485.0.18 ('of')
+[1572185741031] add 1485.0.18 to 1485[17:18]
+[1572185741463] left click on word 1485.0.19 ('it')
+[1572185741463] add 1485.0.19 to 1485[17,18:18]
+[1572185742054] right click on word 1485.0.19 ('it')
+[1572185752022] left click on word 1485.0.20 ('as')
+[1572185752022] edit 1485[20:20]
+[1572185754933] right click on word 1485.0.20 ('as')
+[1572185806321] right click on word 1486.0.5 ('and')
+[1572185808331] label 1486[5:3] as uncertain
+[1572185902420] right click on word 1488.0.23 ('less')
+[1572185959375] left click on word 1488.0.44 ('that')
+[1572185959375] edit 1488[44:50]
+[1572185963002] left click on word 1488.1.49 ('le')
+[1572185963002] add 1488.1.49 to 1488[44:50]
+[1572185963594] right click on word 1488.1.49 ('le')
+[1572185964130] right click on word 1488.1.49 ('le')
+[1572185966620] label 1488[44:50,49] as lexical_shift
+[1572186002850] left click on word 1489.0.5 ('by')
+[1572186002850] new alignment group
+[1572186002850] add 1489.0.5 to 1489[:]
+[1572186003370] left click on word 1489.0.6 ('taking')
+[1572186003370] add 1489.0.6 to 1489[5:]
+[1572186004474] left click on word 1489.1.5 ('avec')
+[1572186004474] del 1489.1.5 from 1489[:5]
+[1572186004475] add 1489.1.5 to 1489[5,6:]
+[1572186005052] right click on word 1489.1.5 ('avec')
+[1572186005569] right click on word 1489.1.5 ('avec')
+[1572186013431] label 1489[5,6:5] as transposition
+[1572186063378] right click on word 1489.1.27 ('.')
+[1572186065411] label 1489[25:27] as uncertain
+[1572186102914] right click on word 1489.0.28 ('our')
+[1572186144081] left click on word 1489.0.31 ('begin')
+[1572186144081] edit 1489[31,30:37]
+[1572186144682] left click on word 1489.0.32 ('with')
+[1572186144682] del 1489.0.32 from 1489[32:34]
+[1572186144683] add 1489.0.32 to 1489[31,30:37]
+[1572186145963] left click on word 1489.1.34 ('avec')
+[1572186145963] del 1489.1.34 from 1489[:34]
+[1572186145964] add 1489.1.34 to 1489[31,30,32:37]
+[1572186146671] left click on word 1489.1.35 ('lequel')
+[1572186146671] add 1489.1.35 to 1489[31,30,32:37,34]
+[1572186147402] left click on word 1489.1.36 ('on')
+[1572186147403] add 1489.1.36 to 1489[31,30,32:37,34,35]
+[1572186148356] right click on word 1489.1.36 ('on')
+[1572186148977] right click on word 1489.1.36 ('on')
+[1572186153833] label 1489[31,30,32:37,34,35,36] as transposition
+[1572186278784] left click on word 1490.0.18 ('ours')
+[1572186278784] edit 1490[18:17]
+[1572186280320] left click on word 1490.1.16 ('le')
+[1572186280320] del 1490.1.16 from 1490[:16]
+[1572186280321] add 1490.1.16 to 1490[18:17]
+[1572186280809] right click on word 1490.1.16 ('le')
+[1572186282881] left click on word 1490.0.16 ('fed')
+[1572186282881] edit 1490[15,16:15]
+[1572186283545] left click on word 1490.0.17 ('into')
+[1572186283545] add 1490.0.17 to 1490[15,16:15]
+[1572186283993] right click on word 1490.0.17 ('into')
+[1572186355072] left click on word 1491.0.0 ('I')
+[1572186355072] edit 1491[0:1]
+[1572186356176] left click on word 1491.1.1 ('quand')
+[1572186356177] del 1491.1.1 from 1491[0:1]
+[1572186357456] right click on word 1491.0.0 ('I')
+[1572186359617] left click on word 1491.0.2 (',')
+[1572186359617] edit 1491[2:0]
+[1572186360873] left click on word 1491.1.0 ('mais')
+[1572186360873] del 1491.1.0 from 1491[2:0]
+[1572186362032] right click on word 1491.0.2 (',')
+[1572186405165] right click on word 1491.0.11 ('world')
+[1572186437094] left click on word 1491.0.9 ('around')
+[1572186437095] edit 1491[9:6]
+[1572186438143] left click on word 1491.0.10 ('the')
+[1572186438144] del 1491.0.10 from 1491[10:11]
+[1572186438144] add 1491.0.10 to 1491[9:6]
+[1572186440549] left click on word 1491.1.6 ('autour')
+[1572186440549] del 1491.1.6 from 1491[9,10:6]
+[1572186444199] left click on word 1491.1.10 ('dans')
+[1572186444199] add 1491.1.10 to 1491[9,10:]
+[1572186445007] left click on word 1491.1.11 ('le')
+[1572186445007] del 1491.1.11 from 1491[:11]
+[1572186445007] add 1491.1.11 to 1491[9,10:10]
+[1572186446650] left click on word 1491.1.13 ('entier')
+[1572186446650] add 1491.1.13 to 1491[9,10:10,11]
+[1572186447415] left click on word 1491.1.12 ('monde')
+[1572186447416] del 1491.1.12 from 1491[11:12]
+[1572186447416] add 1491.1.12 to 1491[9,10:10,11,13]
+[1572186448543] left click on word 1491.0.11 ('world')
+[1572186448543] del 1491.0.11 from 1491[11:]
+[1572186448543] add 1491.0.11 to 1491[9,10:10,11,13,12]
+[1572186449223] right click on word 1491.0.11 ('world')
+[1572186515447] left click on word 1493.0.8 ('a')
+[1572186515447] new alignment group
+[1572186515448] add 1493.0.8 to 1493[:]
+[1572186516366] left click on word 1493.1.8 ('de')
+[1572186516367] add 1493.1.8 to 1493[8:]
+[1572186516878] right click on word 1493.1.8 ('de')
+[1572186517334] right click on word 1493.1.8 ('de')
+[1572186518910] label 1493[8:8] as lexical_shift
+[1572186621317] right click on word 1493.0.44 ('been')
+[1572186628525] right click on word 1493.0.44 ('been')
+[1572186646309] left click on word 1493.0.48 ('India')
+[1572186646309] edit 1493[48:50,52]
+[1572186647949] left click on word 1493.1.52 ('en')
+[1572186647949] del 1493.1.52 from 1493[48:50,52]
+[1572186649245] right click on word 1493.1.50 ('Inde')
+[1572186654333] left click on word 1493.1.49 ('en')
+[1572186654333] edit 1493[45:46,49]
+[1572186654814] left click on word 1493.1.49 ('en')
+[1572186654814] del 1493.1.49 from 1493[45:46,49]
+[1572186656356] right click on word 1493.1.46 ('en')
+[1572186750027] right click on word 1495.0.4 ('on')
+[1572186751884] label 1495[4:7] as lexical_shift
+[1572186844906] left click on word 1496.0.42 ('.')
+[1572186844907] edit 1496[42:39,40]
+[1572186846874] left click on word 1496.1.40 ('.')
+[1572186846874] del 1496.1.40 from 1496[42:39,40]
+[1572186847755] cancel edit
+[1572186847755] add 1496.1.40 to 1496[42:39]
+[1572186850130] left click on word 1496.1.40 ('.')
+[1572186850130] edit 1496[42:39,40]
+[1572186850762] left click on word 1496.1.40 ('.')
+[1572186850763] del 1496.1.40 from 1496[42:39,40]
+[1572186851970] right click on word 1496.1.39 ('.')
+[1572186879378] left click on word 1497.0.1 (',')
+[1572186879378] edit 1497[1:1,2]
+[1572186880569] left click on word 1497.1.1 ('sont')
+[1572186880569] del 1497.1.1 from 1497[1:1,2]
+[1572186882978] right click on word 1497.0.1 (',')
+[1572187145970] right click on word 1500.0.11 ('--')
+[1572187147298] label 1500[11:12] as uncertain
+[1572187206622] right click on word 1500.1.18 (',')
+[1572187209276] label 1500[18:18] as uncertain
+[1572187271070] left click on word 1501.0.3 (',')
+[1572187271070] edit 1501[3:5]
+[1572187272814] right click on word 1501.1.5 (',')
+[1572187273918] left click on word 1501.1.5 (',')
+[1572187273918] edit 1501[3:5]
+[1572187274563] left click on word 1501.1.5 (',')
+[1572187274563] del 1501.1.5 from 1501[3:5]
+[1572187275782] right click on word 1501.0.3 (',')
+[1572187287810] right click on word 1501.0.7 ('dozens')
+[1572187292175] label 1501[7:8,9] as lexical_shift
+[1572187297920] right click on word 1501.0.10 ('--')
+[1572187299855] label 1501[10:12] as uncertain
+[1572187335000] right click on word 1501.0.19 (',')
+[1572187338065] del 1501.0.19 from 1501[19:23]
+[1572187339520] left click on word 1501.0.19 (',')
+[1572187339520] new alignment group
+[1572187339520] add 1501.0.19 to 1501[:]
+[1572187341737] left click on word 1501.1.23 (',')
+[1572187341737] del 1501.1.23 from 1501[:23]
+[1572187341737] add 1501.1.23 to 1501[19:]
+[1572187342153] right click on word 1501.1.23 (',')
+[1572187342889] left click on word 1501.1.23 (',')
+[1572187342889] edit 1501[19:23]
+[1572187343385] left click on word 1501.1.23 (',')
+[1572187343385] del 1501.1.23 from 1501[19:23]
+[1572187345216] right click on word 1501.0.19 (',')
+[1572187361129] left click on word 1501.0.21 (',')
+[1572187361129] edit 1501[21:26]
+[1572187362369] left click on word 1501.0.21 (',')
+[1572187362369] del 1501.0.21 from 1501[21:26]
+[1572187364425] left click on word 1501.1.26 (',')
+[1572187364425] del 1501.1.26 from 1501[:26]
+[1572187365080] right click on word 1501.1.26 (',')
+[1572187365080] add 1501.1.26 to 1501[:]
+[1572187497884] left click on word 1502.0.17 ('things')
+[1572187497884] edit 1502[16,17:20]
+[1572187499293] left click on word 1502.1.19 ('tout')
+[1572187499293] add 1502.1.19 to 1502[16,17:20]
+[1572187499724] right click on word 1502.1.19 ('tout')
+[1572187554742] left click on word 1503.0.3 ('one')
+[1572187554742] edit 1503[3:4]
+[1572187556165] left click on word 1503.1.5 ('de')
+[1572187556165] del 1503.1.5 from 1503[4:5,6]
+[1572187556166] add 1503.1.5 to 1503[3:4]
+[1572187556749] left click on word 1503.1.6 ('ces')
+[1572187556749] del 1503.1.6 from 1503[4:6]
+[1572187556749] add 1503.1.6 to 1503[3:4,5]
+[1572187557309] left click on word 1503.1.7 ('projets')
+[1572187557309] add 1503.1.7 to 1503[3:4,5,6]
+[1572187560981] right click on word 1503.1.7 ('projets')
+[1572187561829] right click on word 1503.1.7 ('projets')
+[1572187564517] label 1503[3:4,5,6,7] as particularization
+[1572187566911] left click on word 1503.0.4 ('to')
+[1572187566911] edit 1503[4:]
+[1572187567533] left click on word 1503.0.5 ('succeed')
+[1572187567533] del 1503.0.5 from 1503[5:8]
+[1572187567533] add 1503.0.5 to 1503[4:]
+[1572187568541] left click on word 1503.1.8 ('réussisse')
+[1572187568541] del 1503.1.8 from 1503[:8]
+[1572187568542] add 1503.1.8 to 1503[4,5:]
+[1572187569038] right click on word 1503.1.8 ('réussisse')
+[1572187569494] right click on word 1503.1.8 ('réussisse')
+[1572187574414] label 1503[4,5:8] as transposition
+[1572187620791] left click on word 1504.0.5 ('game')
+[1572187620791] edit 1504[5:7]
+[1572187621318] left click on word 1504.0.6 ('changes')
+[1572187621319] del 1504.0.6 from 1504[6:3]
+[1572187621319] add 1504.0.6 to 1504[5:7]
+[1572187622270] left click on word 1504.1.3 ('changements')
+[1572187622270] del 1504.1.3 from 1504[:3]
+[1572187622271] add 1504.1.3 to 1504[5,6:7]
+[1572187622742] left click on word 1504.1.4 ('des')
+[1572187622742] add 1504.1.4 to 1504[5,6:7,3]
+[1572187623191] left click on word 1504.1.5 ('règles')
+[1572187623191] add 1504.1.5 to 1504[5,6:7,3,4]
+[1572187623887] left click on word 1504.1.6 ('du')
+[1572187623887] add 1504.1.6 to 1504[5,6:7,3,4,5]
+[1572187624575] right click on word 1504.1.6 ('du')
+[1572187624895] right click on word 1504.1.6 ('du')
+[1572187628990] label 1504[5,6:7,3,4,5,6] as modulation
+[1572187852073] left click on word 1510.0.6 ('ones')
+[1572187852074] new alignment group
+[1572187852074] add 1510.0.6 to 1510[:]
+[1572187853321] left click on word 1510.1.6 ('voies')
+[1572187853321] add 1510.1.6 to 1510[6:]
+[1572187853825] right click on word 1510.1.6 ('voies')
+[1572187854280] right click on word 1510.1.6 ('voies')
+[1572187855857] label 1510[6:6] as particularization
+[1572187887185] left click on word 1510.0.21 ('times')
+[1572187887185] edit 1510[21:26]
+[1572187889496] left click on word 1510.1.25 ('de')
+[1572187889497] add 1510.1.25 to 1510[21:26]
+[1572187889929] right click on word 1510.1.25 ('de')
+[1572187893248] left click on word 1510.0.21 ('times')
+[1572187893248] edit 1510[21:26,25]
+[1572187894576] left click on word 1510.1.25 ('de')
+[1572187894576] del 1510.1.25 from 1510[21:26,25]
+[1572187895489] right click on word 1510.1.26 ('fois')
+[1572187923161] right click on word 1510.0.36 ('--')
+[1572187924537] label 1510[36:43] as uncertain
+[1572187952313] right click on word 1510.0.50 ('--')
+[1572187953689] label 1510[50:60] as uncertain
+[1572188010761] right click on word 1510.0.73 ('class')
+[1572188012498] label 1510[73:89] as equivalence
+[1572192231959] right click on word 1511.0.4 ('work')
+[1572192233424] label 1511[4:4] as equivalence
+[1572192267712] left click on word 1512.0.7 ('measures')
+[1572192267712] edit 1512[7:6]
+[1572192268751] left click on word 1512.1.5 ('des')
+[1572192268753] add 1512.1.5 to 1512[7:6]
+[1572192269152] right click on word 1512.1.5 ('des')
+[1572192368721] right click on word 1513.0.27 (':')
+[1572192370483] label 1513[27:25] as uncertain
+[1572192401113] left click on word 1513.0.38 ('surgery')
+[1572192401113] edit 1513[38:36]
+[1572192404410] left click on word 1513.0.38 ('surgery')
+[1572192404410] del 1513.0.38 from 1513[38:36]
+[1572192404978] left click on word 1513.0.38 ('surgery')
+[1572192404978] add 1513.0.38 to 1513[:36]
+[1572192405684] right click on word 1513.0.38 ('surgery')
+[1572192416418] left click on word 1513.0.35 ('may')
+[1572192416418] new alignment group
+[1572192416418] add 1513.0.35 to 1513[:]
+[1572192417858] left click on word 1513.1.41 ('comme')
+[1572192417859] add 1513.1.41 to 1513[35:]
+[1572192418722] left click on word 1513.1.42 ('ça')
+[1572192418723] add 1513.1.42 to 1513[35:41]
+[1572192419137] right click on word 1513.1.42 ('ça')
+[1572192419586] right click on word 1513.1.42 ('ça')
+[1572192422267] label 1513[35:41,42] as modulation_transposition
+[1572192725446] left click on word 1517.0.19 ('that')
+[1572192725446] edit 1517[19:20]
+[1572192727982] right click on word 1517.1.21 ('si')
+[1572192727982] add 1517.1.21 to 1517[19:20]
+[1572192731382] right click on word 1517.1.21 ('si')
+[1572192732798] left click on word 1517.1.20 ('comme')
+[1572192732798] edit 1517[19:20,21]
+[1572192734998] cancel edit
+[1572192750814] right click on word 1517.1.23 ('continuiez')
+[1572192752815] label 1517[21,22:23] as lexical_shift
+[1572192808631] right click on word 1518.0.5 (''s')
+[1572192810816] label 1518[5:7] as lexical_shift
+[1572192823632] right click on word 1518.0.6 ('wise')
+[1572192840888] left click on word 1518.0.14 (',')
+[1572192840888] edit 1518[14:16,18]
+[1572192842312] left click on word 1518.1.18 (',')
+[1572192842312] del 1518.1.18 from 1518[14:16,18]
+[1572192844207] right click on word 1518.1.16 (',')
+[1572192907472] left click on word 1518.1.29 ('à')
+[1572192907472] new alignment group
+[1572192907473] add 1518.1.29 to 1518[:]
+[1572192908272] left click on word 1518.1.30 ('garder')
+[1572192908273] add 1518.1.30 to 1518[:29]
+[1572192912017] left click on word 1518.0.24 ('should')
+[1572192912017] add 1518.0.24 to 1518[:29,30]
+[1572192913448] left click on word 1518.0.25 ('that')
+[1572192913448] add 1518.0.25 to 1518[24:29,30]
+[1572192914624] left click on word 1518.0.26 ('be')
+[1572192914625] add 1518.0.26 to 1518[24,25:29,30]
+[1572192915086] right click on word 1518.0.26 ('be')
+[1572192915456] right click on word 1518.0.26 ('be')
+[1572192920104] label 1518[24,25,26:29,30] as modulation_transposition
+[1572192980320] right click on word 1518.0.47 ('?')
+[1572192981368] label 1518[47:56] as uncertain
+[1572193041986] left click on word 1520.0.3 (',')
+[1572193041986] edit 1520[3,5:4]
+[1572193043025] left click on word 1520.0.3 (',')
+[1572193043025] del 1520.0.3 from 1520[3,5:4]
+[1572193044610] right click on word 1520.0.5 (',')
+[1572193046857] left click on word 1520.0.3 (',')
+[1572193046858] new alignment group
+[1572193046858] add 1520.0.3 to 1520[:]
+[1572193047946] left click on word 1520.1.2 (',')
+[1572193047946] add 1520.1.2 to 1520[3:]
+[1572193048281] right click on word 1520.1.2 (',')
+[1572193180724] right click on word 1524.0.4 ('have')
+[1572193182301] label 1524[4:5] as lexical_shift
+[1572193246693] right click on word 1526.0.7 ('sorts')
+[1572193247925] label 1526[7:6] as equivalence
+[1572193291534] left click on word 1526.0.20 ('to')
+[1572193291535] edit 1526[38,20:41,42,43,44,45,46,47,48,49]
+[1572193291927] left click on word 1526.0.20 ('to')
+[1572193291927] del 1526.0.20 from 1526[38,20:41,42,43,44,45,46,47,48,49]
+[1572193293550] right click on word 1526.0.38 ('IPCC')
+[1572193302847] right click on word 1526.0.26 (',')
+[1572193304343] label 1526[26:22] as uncertain
+[1572193334665] left click on word 1526.0.31 ('pain')
+[1572193334665] edit 1526[31,32:27]
+[1572193336823] left click on word 1526.0.32 ('thing')
+[1572193336824] del 1526.0.32 from 1526[31,32:27]
+[1572193337670] right click on word 1526.0.31 ('pain')
+[1572193340775] left click on word 1526.0.27 ('and')
+[1572193340775] new alignment group
+[1572193340776] add 1526.0.27 to 1526[:]
+[1572193341800] left click on word 1526.0.28 ('a')
+[1572193341800] add 1526.0.28 to 1526[27:]
+[1572193342313] left click on word 1526.0.29 ('somewhat')
+[1572193342313] add 1526.0.29 to 1526[27,28:]
+[1572193343727] left click on word 1526.0.32 ('thing')
+[1572193343727] add 1526.0.32 to 1526[27,28,29:]
+[1572193346215] left click on word 1526.1.23 ('par')
+[1572193346215] add 1526.1.23 to 1526[27,28,29,32:]
+[1572193346936] left click on word 1526.1.24 ('rapport')
+[1572193346936] add 1526.1.24 to 1526[27,28,29,32:23]
+[1572193348751] cancel edit
+[1572193348752] add 1526.0.32 to 1526[31:27]
+[1572193350664] left click on word 1526.0.27 ('and')
+[1572193350665] new alignment group
+[1572193350665] add 1526.0.27 to 1526[:]
+[1572193351591] left click on word 1526.0.28 ('a')
+[1572193351591] add 1526.0.28 to 1526[27:]
+[1572193352023] left click on word 1526.0.29 ('somewhat')
+[1572193352023] add 1526.0.29 to 1526[27,28:]
+[1572193352944] left click on word 1526.1.23 ('par')
+[1572193352944] add 1526.1.23 to 1526[27,28,29:]
+[1572193353440] left click on word 1526.1.24 ('rapport')
+[1572193353441] add 1526.1.24 to 1526[27,28,29:23]
+[1572193354159] left click on word 1526.1.25 ('à')
+[1572193354160] add 1526.1.25 to 1526[27,28,29:23,24]
+[1572193355792] left click on word 1526.0.32 ('thing')
+[1572193355792] del 1526.0.32 from 1526[31,32:27]
+[1572193355793] add 1526.0.32 to 1526[27,28,29:23,24,25]
+[1572193359264] right click on word 1526.0.32 ('thing')
+[1572193359751] right click on word 1526.0.32 ('thing')
+[1572193362751] label 1526[27,28,29,32:23,24,25] as modulation_transposition
+[1572193374551] left click on word 1526.1.26 ('une')
+[1572193374551] edit 1526[23:18,26]
+[1572193375095] left click on word 1526.1.26 ('une')
+[1572193375096] del 1526.1.26 from 1526[23:18,26]
+[1572193377663] right click on word 1526.1.18 ('un')
+[1572193458057] right click on word 1526.0.56 ('world')
+[1572193461938] label 1526[56:68] as lexical_shift
+[1572193557843] left click on word 1527.0.12 ('towards')
+[1572193557843] edit 1527[12:14]
+[1572193576739] cancel edit
+[1572193582108] right click on word 1527.0.12 ('towards')
+[1572193591420] label 1527[12:14] as lexical_shift
+[1572193619188] left click on word 1528.0.11 ('it')
+[1572193619188] edit 1528[11:11,12]
+[1572193620900] left click on word 1528.1.12 ('soit')
+[1572193620900] del 1528.1.12 from 1528[11:11,12]
+[1572193622094] right click on word 1528.1.11 ('ce')
+[1572193665189] right click on word 1528.0.24 (',')
+[1572193667116] label 1528[24:27] as uncertain
+[1572193693741] left click on word 1528.1.40 ('de')
+[1572193693741] edit 1528[42:40]
+[1572193694376] left click on word 1528.1.40 ('de')
+[1572193694377] del 1528.1.40 from 1528[42:40]
+[1572193695782] right click on word 1528.0.42 ('of')
+[1572193780334] left click on word 1528.0.66 ('.')
+[1572193780334] edit 1528[66,67:72]
+[1572193781606] left click on word 1528.0.67 ('''')
+[1572193781607] del 1528.0.67 from 1528[66,67:72]
+[1572193782286] right click on word 1528.0.66 ('.')
+[1572193787007] left click on word 1528.0.63 (''s')
+[1572193787007] new alignment group
+[1572193787007] add 1528.0.63 to 1528[:]
+[1572193787671] left click on word 1528.0.64 ('come')
+[1572193787671] add 1528.0.64 to 1528[63:]
+[1572193789279] left click on word 1528.1.70 ('d'')
+[1572193789279] add 1528.1.70 to 1528[63,64:]
+[1572193789645] right click on word 1528.1.70 ('d'')
+[1572193790263] right click on word 1528.1.70 ('d'')
+[1572193791591] label 1528[63,64:70] as transposition
+[1572193828223] left click on word 1529.0.13 (',')
+[1572193828224] edit 1529[13:13,15]
+[1572193830808] left click on word 1529.1.15 (',')
+[1572193830808] del 1529.1.15 from 1529[13:13,15]
+[1572193832471] right click on word 1529.0.13 (',')
+[1572193865773] left click on word 1529.0.22 ('trying')
+[1572193865773] edit 1529[22:23]
+[1572193867247] left click on word 1529.1.22 ('à')
+[1572193867248] del 1529.1.22 from 1529[23:22,24]
+[1572193867248] add 1529.1.22 to 1529[22:23]
+[1572193868004] right click on word 1529.1.23 ('essayer')
+[1572193929409] left click on word 1529.0.35 ('all')
+[1572193929409] edit 1529[35:36,37]
+[1572193930295] left click on word 1529.0.36 ('your')
+[1572193930296] add 1529.0.36 to 1529[35:36,37]
+[1572193930741] right click on word 1529.0.36 ('your')
+[1572193931136] right click on word 1529.0.36 ('your')
+[1572193933233] label 1529[35,36:36,37] as lexical_shift
+[1572193996675] right click on word 1529.0.66 ('towards')
+[1572194014860] left click on word 1529.0.75 ('do')
+[1572194014861] edit 1529[75:81]
+[1572194015849] left click on word 1529.0.74 ('can')
+[1572194015850] add 1529.0.74 to 1529[75:81]
+[1572194016658] left click on word 1529.0.73 ('we')
+[1572194016658] add 1529.0.73 to 1529[75,74:81]
+[1572194018586] left click on word 1529.1.80 ('à')
+[1572194018586] add 1529.1.80 to 1529[75,74,73:81]
+[1572194020079] left click on word 1529.1.80 ('à')
+[1572194020079] del 1529.1.80 from 1529[75,74,73:81,80]
+[1572194021094] left click on word 1529.1.80 ('à')
+[1572194021094] add 1529.1.80 to 1529[75,74,73:81]
+[1572194022689] right click on word 1529.1.80 ('à')
+[1572194023505] right click on word 1529.1.80 ('à')
+[1572194027258] label 1529[75,74,73:81,80] as transposition
+[1572194073419] left click on word 1530.0.7 ('on')
+[1572194073419] edit 1530[7:7]
+[1572194074018] left click on word 1530.0.8 ('the')
+[1572194074018] add 1530.0.8 to 1530[7:7]
+[1572194074779] left click on word 1530.0.10 ('piece')
+[1572194074779] add 1530.0.10 to 1530[7,8:7]
+[1572194076995] left click on word 1530.1.6 ('consacrées')
+[1572194076995] add 1530.1.6 to 1530[7,8,10:7]
+[1572194077922] right click on word 1530.1.6 ('consacrées')
+[1572194078258] right click on word 1530.1.6 ('consacrées')
+[1572194082723] label 1530[7,8,10:7,6] as modulation
+[1572194094747] right click on word 1530.1.6 ('consacrées')
+[1572194096491] label 1530[7,8,10:7,6] as transposition
+[1572194124820] right click on word 1530.0.15 ('should')
+[1572194129316] label 1530[15,16:17] as lexical_shift
+[1572194204796] right click on word 1531.0.4 ('away')
+[1572194209357] label 1531[3,1,4:2,9,10] as modulation
+[1572194222821] left click on word 1531.0.5 ('from')
+[1572194222821] new alignment group
+[1572194222821] add 1531.0.5 to 1531[:]
+[1572194223325] left click on word 1531.0.6 ('other')
+[1572194223325] del 1531.0.6 from 1531[6:5]
+[1572194223326] add 1531.0.6 to 1531[5:]
+[1572194223805] left click on word 1531.0.7 ('things')
+[1572194223805] del 1531.0.7 from 1531[7:]
+[1572194223805] add 1531.0.7 to 1531[5,6:]
+[1572194224652] left click on word 1531.1.4 ('les')
+[1572194224652] del 1531.1.4 from 1531[:4]
+[1572194224653] add 1531.1.4 to 1531[5,6,7:]
+[1572194226074] left click on word 1531.1.5 ('autres')
+[1572194226074] del 1531.1.5 from 1531[:5]
+[1572194226074] add 1531.1.5 to 1531[5,6,7:4]
+[1572194226567] left click on word 1531.1.6 ('postes')
+[1572194226567] del 1531.1.6 from 1531[:6]
+[1572194226568] add 1531.1.6 to 1531[5,6,7:4,5]
+[1572194227037] left click on word 1531.1.7 ('de')
+[1572194227037] add 1531.1.7 to 1531[5,6,7:4,5,6]
+[1572194228213] left click on word 1531.1.8 ('dépense')
+[1572194228213] del 1531.1.8 from 1531[:8]
+[1572194228214] add 1531.1.8 to 1531[5,6,7:4,5,6,7]
+[1572194239669] right click on word 1531.1.8 ('dépense')
+[1572194240564] right click on word 1531.1.8 ('dépense')
+[1572194252802] label 1531[5,6,7:4,5,6,7,8] as particularization
+[1572194259973] left click on word 1531.0.6 ('other')
+[1572194259973] edit 1531[5,6,7:4,5,6,7,8]
+[1572194260989] left click on word 1531.0.5 ('from')
+[1572194260989] del 1531.0.5 from 1531[5,6,7:4,5,6,7,8]
+[1572194261796] right click on word 1531.0.6 ('other')
+[1572194266061] left click on word 1531.0.4 ('away')
+[1572194266061] edit 1531[3,1,4:2,9,10]
+[1572194266933] left click on word 1531.0.5 ('from')
+[1572194266933] add 1531.0.5 to 1531[3,1,4:2,9,10]
+[1572194267493] right click on word 1531.0.4 ('away')
+[1572194344990] left click on word 1532.0.9 ('and')
+[1572194344991] edit 1532[9:12]
+[1572194348022] left click on word 1532.0.9 ('and')
+[1572194348022] del 1532.0.9 from 1532[9:12]
+[1572194350165] left click on word 1532.1.12 ('et')
+[1572194350166] del 1532.1.12 from 1532[:12]
+[1572194368260] left click on word 1532.0.13 ('people')
+[1572194368260] del 1532.0.13 from 1532[13:3]
+[1572194368260] add 1532.0.13 to 1532[:]
+[1572194369326] left click on word 1532.0.13 ('people')
+[1572194369326] del 1532.0.13 from 1532[13:]
+[1572194369326] add 1532.0.13 to 1532[:3]
+[1572194370195] left click on word 1532.0.13 ('people')
+[1572194370195] del 1532.0.13 from 1532[13:3]
+[1572194370195] add 1532.0.13 to 1532[:]
+[1572194371783] left click on word 1532.1.3 ('gens')
+[1572194371783] del 1532.1.3 from 1532[:3]
+[1572194371783] add 1532.1.3 to 1532[13:]
+[1572194372430] left click on word 1532.1.2 ('les')
+[1572194372431] add 1532.1.2 to 1532[13:3]
+[1572194373366] right click on word 1532.1.2 ('les')
+[1572194400883] right click on word 1532.1.6 ('ne')
+[1572194465857] left click on word 1532.0.22 ('that')
+[1572194465857] new alignment group
+[1572194465857] add 1532.0.22 to 1532[:]
+[1572194466976] left click on word 1532.0.23 (''s')
+[1572194466976] add 1532.0.23 to 1532[22:]
+[1572194468112] left click on word 1532.1.27 ('de')
+[1572194468112] add 1532.1.27 to 1532[22,23:]
+[1572194468504] right click on word 1532.1.27 ('de')
+[1572194468959] right click on word 1532.1.27 ('de')
+[1572194470343] label 1532[22,23:27] as transposition
+[1572194490704] right click on word 1532.1.38 ('.')
+[1572194492104] label 1532[32:38] as uncertain
+[1572194585057] right click on word 1533.0.8 ('just')
+[1572194590633] label 1533[8:11,13] as modulation_transposition
+[1572194632426] right click on word 1533.0.21 (',')
+[1572194634098] label 1533[21:31] as uncertain
+[1572194656234] left click on word 1533.1.37 ('essayer')
+[1572194656234] edit 1533[26:37,39]
+[1572194657363] left click on word 1533.1.39 ('de')
+[1572194657363] del 1533.1.39 from 1533[26:37,39]
+[1572194658290] right click on word 1533.1.37 ('essayer')
+[1572194660738] left click on word 1533.1.40 ('choses')
+[1572194660738] edit 1533[28:40]
+[1572194661778] left click on word 1533.1.39 ('de')
+[1572194661778] add 1533.1.39 to 1533[28:40]
+[1572194662273] right click on word 1533.1.39 ('de')
+[1572194943486] right click on word 1538.0.11 ('getting')
+[1572194960045] left click on word 1538.0.11 ('getting')
+[1572194960045] edit 1538[11,13,7:12]
+[1572194961893] left click on word 1538.1.13 ('-t-on')
+[1572194961893] add 1538.1.13 to 1538[11,13,7:12]
+[1572194962602] right click on word 1538.1.13 ('-t-on')
+[1572194985310] left click on word 1538.1.20 ('"')
+[1572194985310] edit 1538[14,15:20]
+[1572194986589] left click on word 1538.0.14 ('?')
+[1572194986589] del 1538.0.14 from 1538[14,15:20]
+[1572194987183] right click on word 1538.0.15 ('''')
+[1572195106495] left click on word 1540.0.1 ('so')
+[1572195106495] edit 1540[1:0,2,3]
+[1572195110775] left click on word 1540.1.2 (',')
+[1572195110775] del 1540.1.2 from 1540[1:0,2,3]
+[1572195112312] left click on word 1540.1.3 ('il')
+[1572195112312] del 1540.1.3 from 1540[1:0,3]
+[1572195113975] right click on word 1540.0.1 ('so')
+[1572195129871] right click on word 1540.0.1 ('so')
+[1572195131823] label 1540[1:0] as lexical_shift
+[1572195136360] left click on word 1540.0.2 ('there')
+[1572195136360] edit 1540[3,2,4:5,4]
+[1572195138543] left click on word 1540.1.3 ('il')
+[1572195138544] add 1540.1.3 to 1540[3,2,4:5,4]
+[1572195138919] right click on word 1540.1.3 ('il')
+[1572195159488] left click on word 1540.0.8 ('that')
+[1572195159488] edit 1540[8:8,9]
+[1572195160360] left click on word 1540.1.9 ('ne')
+[1572195160360] del 1540.1.9 from 1540[8:8,9]
+[1572195161055] right click on word 1540.1.8 ('qui')
+[1572195167088] right click on word 1540.0.9 ('I')
+[1572195171871] right click on word 1540.0.9 ('I')
+[1572195176656] label 1540[9:10] as lexical_shift
+[1572195180224] right click on word 1540.0.9 ('I')
+[1572195183705] label 1540[9:10] as transposition
+[1572195202562] left click on word 1540.0.11 ('is')
+[1572195202562] edit 1540[11:12]
+[1572195203714] left click on word 1540.0.12 ('appropriate')
+[1572195203715] del 1540.0.12 from 1540[12:13]
+[1572195203715] add 1540.0.12 to 1540[11:12]
+[1572195210362] left click on word 1540.1.9 ('ne')
+[1572195210363] add 1540.1.9 to 1540[11,12:12]
+[1572195212699] left click on word 1540.1.13 ('faux')
+[1572195212699] del 1540.1.13 from 1540[:13]
+[1572195212699] add 1540.1.13 to 1540[11,12:12,9]
+[1572195223216] right click on word 1540.0.12 ('appropriate')
+[1572195223652] right click on word 1540.0.12 ('appropriate')
+[1572195225323] label 1540[11,12:12,9,13] as modulation_transposition
+[1572195242240] right click on word 1540.1.11 ('semble')
+[1572195247517] label 1540[10:11] as equivalence
+[1572195279126] left click on word 1541.0.2 ('piece')
+[1572195279126] edit 1541[2:3]
+[1572195279886] left click on word 1541.1.3 ('de')
+[1572195279886] del 1541.1.3 from 1541[2:3]
+[1572195280761] right click on word 1541.0.2 ('piece')
+[1572195286591] left click on word 1541.0.1 ('R&D')
+[1572195286591] edit 1541[1:9,10]
+[1572195288167] left click on word 1541.1.11 ('D')
+[1572195288168] add 1541.1.11 to 1541[1:9,10]
+[1572195288679] right click on word 1541.1.11 ('D')
+[1572195291735] left click on word 1541.0.1 ('R&D')
+[1572195291735] edit 1541[1:9,10,11]
+[1572195293040] left click on word 1541.0.0 ('the')
+[1572195293040] add 1541.0.0 to 1541[1:9,10,11]
+[1572195295847] left click on word 1541.1.8 ('la')
+[1572195295847] del 1541.1.8 from 1541[7:6,7,8]
+[1572195295847] add 1541.1.8 to 1541[1,0:9,10,11]
+[1572195297159] right click on word 1541.1.8 ('la')
+[1572195301511] left click on word 1541.0.3 (',')
+[1572195301511] edit 1541[3:4]
+[1572195302500] right click on word 1541.0.3 (',')
+[1572195303904] left click on word 1541.0.3 (',')
+[1572195303904] edit 1541[3:4]
+[1572195304712] left click on word 1541.1.4 ('voir')
+[1572195304712] del 1541.1.4 from 1541[3:4]
+[1572195305816] right click on word 1541.0.3 (',')
+[1572195317688] left click on word 1541.0.7 ('how')
+[1572195317689] edit 1541[7:6,7]
+[1572195319233] left click on word 1541.1.5 ('à')
+[1572195319233] del 1541.1.5 from 1541[4:0,5]
+[1572195319233] add 1541.1.5 to 1541[7:6,7]
+[1572195322120] left click on word 1541.0.8 ('little')
+[1572195322121] del 1541.0.8 from 1541[8:13]
+[1572195322121] add 1541.0.8 to 1541[7:6,7,5]
+[1572195324149] left click on word 1541.0.8 ('little')
+[1572195324149] del 1541.0.8 from 1541[7,8:6,7,5]
+[1572195324149] add 1541.0.8 to 1541[:13]
+[1572195326393] right click on word 1541.0.7 ('how')
+[1572195340089] left click on word 1541.0.9 ('it')
+[1572195340089] edit 1541[9,10:12]
+[1572195340834] left click on word 1541.0.9 ('it')
+[1572195340834] del 1541.0.9 from 1541[9,10:12]
+[1572195342042] right click on word 1541.0.10 (''s')
+[1572195397708] left click on word 1541.1.9 ('R')
+[1572195397708] edit 1541[1,0:9,10,11,8]
+[1572195399397] right click on word 1541.1.9 ('R')
+[1572195428229] left click on word 1542.0.8 ('the')
+[1572195428229] edit 1542[7,8:9]
+[1572195429014] left click on word 1542.0.9 ('behalf')
+[1572195429014] del 1542.0.9 from 1542[9:10]
+[1572195429014] add 1542.0.9 to 1542[7,8:9]
+[1572195430171] left click on word 1542.1.10 ('nom')
+[1572195430171] del 1542.1.10 from 1542[:10]
+[1572195430171] add 1542.1.10 to 1542[7,8,9:9]
+[1572195435046] right click on word 1542.1.10 ('nom')
+[1572195450063] left click on word 1542.0.15 ('say')
+[1572195450063] edit 1542[15:18]
+[1572195451206] left click on word 1542.0.14 ('to')
+[1572195451207] add 1542.0.14 to 1542[15:18]
+[1572195452430] left click on word 1542.1.17 ('en')
+[1572195452431] add 1542.1.17 to 1542[15,14:18]
+[1572195452919] right click on word 1542.1.17 ('en')
+[1572195454191] right click on word 1542.1.17 ('en')
+[1572195456559] label 1542[15,14:18,17] as transposition
+[1572195487829] left click on word 1542.0.20 ('wish')
+[1572195487829] edit 1542[20:25,26]
+[1572195489265] left click on word 1542.1.26 ('devienne')
+[1572195489265] del 1542.1.26 from 1542[20:25,26]
+[1572195490333] right click on word 1542.1.25 ('souhait')
+[1572195492192] left click on word 1542.0.21 ('comes')
+[1572195492193] new alignment group
+[1572195492193] add 1542.0.21 to 1542[:]
+[1572195493697] left click on word 1542.1.26 ('devienne')
+[1572195493697] add 1542.1.26 to 1542[21:]
+[1572195500416] right click on word 1542.1.26 ('devienne')
+[1572195517705] left click on word 1542.0.25 ('you')
+[1572195517705] edit 1542[24,25,26:29]
+[1572195518818] left click on word 1542.0.26 ('so')
+[1572195518819] del 1542.0.26 from 1542[24,25,26:29]
+[1572195519657] right click on word 1542.0.25 ('you')
+[1572195521841] left click on word 1542.0.27 ('much')
+[1572195521841] edit 1542[27:30]
+[1572195523042] left click on word 1542.0.26 ('so')
+[1572195523042] add 1542.0.26 to 1542[27:30]
+[1572195523497] right click on word 1542.0.26 ('so')
+[1572195547363] left click on word 1543.0.1 (':')
+[1572195547363] edit 1543[1,3:1]
+[1572195548160] left click on word 1543.0.1 (':')
+[1572195548160] del 1543.0.1 from 1543[1,3:1]
+[1572195549339] right click on word 1543.1.1 ('vous')
+[1572195556267] left click on word 1543.0.2 ('thank')
+[1572195556267] edit 1543[2:2]
+[1572195557477] left click on word 1543.0.3 ('you')
+[1572195557477] del 1543.0.3 from 1543[3:1]
+[1572195557478] add 1543.0.3 to 1543[2:2]
+[1572195558428] left click on word 1543.1.0 ('je')
+[1572195558428] del 1543.1.0 from 1543[0:0]
+[1572195558429] add 1543.1.0 to 1543[2,3:2]
+[1572195558947] left click on word 1543.1.1 ('vous')
+[1572195558947] del 1543.1.1 from 1543[:1]
+[1572195558947] add 1543.1.1 to 1543[2,3:2,0]
+[1572195559643] right click on word 1543.1.1 ('vous')
+[1572213382745] NEW SESSION
+[1572213397124] left click on word 1429.1.1 ('y')
+[1572213397124] edit 1429[0,1:1,0]
+[1572213397760] left click on word 1429.1.2 ('a')
+[1572213397761] del 1429.1.2 from 1429[2:2]
+[1572213397762] add 1429.1.2 to 1429[0,1:1,0]
+[1572213398344] right click on word 1429.1.2 ('a')
+[1572213414155] left click on word 1429.1.3 ('quelques')
+[1572213414155] edit 1429[3:3]
+[1572213414613] left click on word 1429.0.3 ('innovations')
+[1572213414613] del 1429.0.3 from 1429[3:3]
+[1572213415062] left click on word 1429.0.2 ('some')
+[1572213415062] del 1429.0.2 from 1429[2:]
+[1572213415062] add 1429.0.2 to 1429[:3]
+[1572213415319] right click on word 1429.0.2 ('some')
+[1572213416387] left click on word 1429.0.3 ('innovations')
+[1572213416388] new alignment group
+[1572213416388] add 1429.0.3 to 1429[:]
+[1572213416896] left click on word 1429.1.4 ('innovations')
+[1572213416896] del 1429.1.4 from 1429[4:4]
+[1572213416896] add 1429.1.4 to 1429[3:]
+[1572213417124] right click on word 1429.1.4 ('innovations')
+[1572213418079] left click on word 1429.0.4 ('in')
+[1572213418079] edit 1429[4:]
+[1572213418977] left click on word 1429.1.5 ('dans')
+[1572213418977] del 1429.1.5 from 1429[5:5,6]
+[1572213418977] add 1429.1.5 to 1429[4:]
+[1572213419195] right click on word 1429.1.5 ('dans')
+[1572213419869] left click on word 1429.0.5 ('nuclear')
+[1572213419869] edit 1429[5:6]
+[1572213420415] left click on word 1429.1.7 ('nucléaire')
+[1572213420415] del 1429.1.7 from 1429[6:7]
+[1572213420415] add 1429.1.7 to 1429[5:6]
+[1572213420617] right click on word 1429.1.7 ('nucléaire')
+[1572213421609] left click on word 1429.0.6 (':')
+[1572213421609] edit 1429[6:]
+[1572213422265] left click on word 1429.1.8 (':')
+[1572213422265] del 1429.1.8 from 1429[7:8]
+[1572213422265] add 1429.1.8 to 1429[6:]
+[1572213422475] right click on word 1429.1.8 (':')
+[1572213423171] left click on word 1429.0.7 ('modular')
+[1572213423171] edit 1429[7:]
+[1572213423808] left click on word 1429.1.9 ('modulaire')
+[1572213423808] del 1429.1.9 from 1429[8:9]
+[1572213423808] add 1429.1.9 to 1429[7:]
+[1572213424045] right click on word 1429.1.9 ('modulaire')
+[1572213425701] left click on word 1429.0.8 (',')
+[1572213425701] edit 1429[8:]
+[1572213426380] left click on word 1429.1.10 (',')
+[1572213426380] del 1429.1.10 from 1429[9:10]
+[1572213426380] add 1429.1.10 to 1429[8:]
+[1572213426572] right click on word 1429.1.10 (',')
+[1572213427313] left click on word 1429.0.9 ('liquid')
+[1572213427313] edit 1429[9:]
+[1572213427885] left click on word 1429.1.11 ('liquide')
+[1572213427885] del 1429.1.11 from 1429[10:11]
+[1572213427885] add 1429.1.11 to 1429[9:]
+[1572213428055] right click on word 1429.1.11 ('liquide')
+[1572213428917] left click on word 1429.0.10 ('.')
+[1572213428917] edit 1429[10:]
+[1572213430093] left click on word 1429.1.12 ('.')
+[1572213430094] add 1429.1.12 to 1429[10:]
+[1572213430271] right click on word 1429.1.12 ('.')
+[1572214349124] NEW SESSION
+[1572214379829] left click on word 1514.0.2 ('a')
+[1572214379829] edit 1514[2:2]
+[1572214381063] left click on word 1514.1.2 ('a')
+[1572214381064] del 1514.1.2 from 1514[2:2]
+[1572214381481] left click on word 1514.1.3 ('une')
+[1572214381481] del 1514.1.3 from 1514[3:3]
+[1572214381482] add 1514.1.3 to 1514[2:]
+[1572214381683] right click on word 1514.1.3 ('une')
+[1572214382489] left click on word 1514.0.1 ('is')
+[1572214382489] edit 1514[0,1:0,1]
+[1572214383077] left click on word 1514.1.2 ('a')
+[1572214383078] add 1514.1.2 to 1514[0,1:0,1]
+[1572214383261] right click on word 1514.1.2 ('a')
+[1572214386453] left click on word 1514.1.4 ('ligne')
+[1572214386454] edit 1514[4:4]
+[1572214386926] left click on word 1514.0.3 ('line')
+[1572214386926] del 1514.0.3 from 1514[3:]
+[1572214386926] add 1514.0.3 to 1514[4:4]
+[1572214387501] left click on word 1514.0.4 ('of')
+[1572214387501] del 1514.0.4 from 1514[4,3:4]
+[1572214388005] right click on word 1514.0.3 ('line')
+[1572214389169] left click on word 1514.0.5 ('research')
+[1572214389169] edit 1514[5:5]
+[1572214390119] left click on word 1514.0.5 ('research')
+[1572214390119] del 1514.0.5 from 1514[5:5]
+[1572214390599] left click on word 1514.0.4 ('of')
+[1572214390599] add 1514.0.4 to 1514[:5]
+[1572214390804] right click on word 1514.0.4 ('of')
+[1572214392275] left click on word 1514.1.6 ('recherche')
+[1572214392275] edit 1514[6:6]
+[1572214392863] left click on word 1514.0.6 ('on')
+[1572214392863] del 1514.0.6 from 1514[6:6]
+[1572214393199] left click on word 1514.0.5 ('research')
+[1572214393199] add 1514.0.5 to 1514[:6]
+[1572214393407] right click on word 1514.0.5 ('research')
+[1572214394581] left click on word 1514.1.7 ('sur')
+[1572214394581] edit 1514[7:7,8]
+[1572214395813] left click on word 1514.0.7 ('what')
+[1572214395813] del 1514.0.7 from 1514[7:7,8]
+[1572214396471] left click on word 1514.1.8 ('ce')
+[1572214396471] del 1514.1.8 from 1514[:7,8]
+[1572214397571] left click on word 1514.0.6 ('on')
+[1572214397571] add 1514.0.6 to 1514[:7]
+[1572214397797] right click on word 1514.0.6 ('on')
+[1572214398469] left click on word 1514.0.7 ('what')
+[1572214398469] new alignment group
+[1572214398469] add 1514.0.7 to 1514[:]
+[1572214399147] left click on word 1514.1.8 ('ce')
+[1572214399147] add 1514.1.8 to 1514[7:]
+[1572214399571] left click on word 1514.1.9 ('qu'')
+[1572214399571] del 1514.1.9 from 1514[8,9:10,9]
+[1572214399571] add 1514.1.9 to 1514[7:8]
+[1572214399771] right click on word 1514.1.9 ('qu'')
+[1572214401208] left click on word 1514.0.9 ('called')
+[1572214401208] edit 1514[8,9:10]
+[1572214401780] left click on word 1514.1.11 ('appelle')
+[1572214401780] del 1514.1.11 from 1514[10:12,11]
+[1572214401781] add 1514.1.11 to 1514[8,9:10]
+[1572214401966] right click on word 1514.1.11 ('appelle')
+[1572214405797] left click on word 1514.0.10 ('geoengineering')
+[1572214405797] edit 1514[10:12]
+[1572214406459] left click on word 1514.1.13 ('géo-ingénierie')
+[1572214406459] del 1514.1.13 from 1514[11:13,18]
+[1572214406459] add 1514.1.13 to 1514[10:12]
+[1572214406660] right click on word 1514.1.13 ('géo-ingénierie')
+[1572214411634] left click on word 1514.0.11 (',')
+[1572214411634] edit 1514[11:18]
+[1572214412476] left click on word 1514.1.18 ('techniques')
+[1572214412476] del 1514.1.18 from 1514[11:18]
+[1572214413656] left click on word 1514.1.14 (',')
+[1572214413656] del 1514.1.14 from 1514[12,13:14,15]
+[1572214413656] add 1514.1.14 to 1514[11:]
+[1572214413862] right click on word 1514.1.14 (',')
+[1572214415157] left click on word 1514.1.15 ('portant')
+[1572214415157] edit 1514[12,13:15]
+[1572214415639] left click on word 1514.1.16 ('sur')
+[1572214415639] del 1514.1.16 from 1514[14:16]
+[1572214415639] add 1514.1.16 to 1514[12,13:15]
+[1572214415832] right click on word 1514.1.16 ('sur')
+[1572214420156] left click on word 1514.1.17 ('différentes')
+[1572214420156] edit 1514[15:17]
+[1572214420896] left click on word 1514.0.15 ('techniques')
+[1572214420897] del 1514.0.15 from 1514[15:17]
+[1572214421452] left click on word 1514.0.14 ('various')
+[1572214421452] del 1514.0.14 from 1514[14:]
+[1572214421452] add 1514.0.14 to 1514[:17]
+[1572214421694] right click on word 1514.0.14 ('various')
+[1572214422646] left click on word 1514.0.15 ('techniques')
+[1572214422646] new alignment group
+[1572214422646] add 1514.0.15 to 1514[:]
+[1572214423274] left click on word 1514.1.18 ('techniques')
+[1572214423274] add 1514.1.18 to 1514[15:]
+[1572214423476] right click on word 1514.1.18 ('techniques')
+[1572214432797] left click on word 1514.1.19 (',')
+[1572214432797] edit 1514[16:19]
+[1572214433182] left click on word 1514.1.19 (',')
+[1572214433182] del 1514.1.19 from 1514[16:19]
+[1572214433811] left click on word 1514.0.17 ('would')
+[1572214433812] del 1514.0.17 from 1514[17,18:20]
+[1572214433812] add 1514.0.17 to 1514[16:]
+[1572214434222] left click on word 1514.0.18 ('delay')
+[1572214434222] del 1514.0.18 from 1514[18:20]
+[1572214434223] add 1514.0.18 to 1514[16,17:]
+[1572214435488] left click on word 1514.1.20 ('qui')
+[1572214435488] del 1514.1.20 from 1514[:20]
+[1572214435489] add 1514.1.20 to 1514[16,17,18:]
+[1572214436752] left click on word 1514.1.21 ('retarderaient')
+[1572214436752] del 1514.1.21 from 1514[19:21]
+[1572214436752] add 1514.1.21 to 1514[16,17,18:20]
+[1572214436962] right click on word 1514.1.21 ('retarderaient')
+[1572214444426] left click on word 1514.0.17 ('would')
+[1572214444426] edit 1514[16,17,18:20,21]
+[1572214445064] left click on word 1514.0.17 ('would')
+[1572214445064] del 1514.0.17 from 1514[16,17,18:20,21]
+[1572214445692] left click on word 1514.0.17 ('would')
+[1572214445692] add 1514.0.17 to 1514[16,18:20,21]
+[1572214446126] left click on word 1514.0.16 ('that')
+[1572214446126] del 1514.0.16 from 1514[16,18,17:20,21]
+[1572214446733] left click on word 1514.1.20 ('qui')
+[1572214446734] del 1514.1.20 from 1514[18,17:20,21]
+[1572214447379] right click on word 1514.0.18 ('delay')
+[1572214448009] left click on word 1514.0.16 ('that')
+[1572214448009] new alignment group
+[1572214448009] add 1514.0.16 to 1514[:]
+[1572214448649] left click on word 1514.1.20 ('qui')
+[1572214448650] add 1514.1.20 to 1514[16:]
+[1572214448789] left click on word 1514.1.20 ('qui')
+[1572214448789] del 1514.1.20 from 1514[16:20]
+[1572214448789] add 1514.1.20 to 1514[18,17:21]
+[1572214449476] left click on word 1514.1.20 ('qui')
+[1572214449476] del 1514.1.20 from 1514[18,17:21,20]
+[1572214449476] add 1514.1.20 to 1514[16:]
+[1572214449941] right click on word 1514.1.20 ('qui')
+[1572214450601] right click on word 1514.1.20 ('qui')
+[1572214451835] left click on word 1514.1.20 ('qui')
+[1572214451835] edit 1514[16:20]
+[1572214452424] left click on word 1514.0.16 ('that')
+[1572214452424] del 1514.0.16 from 1514[16:20]
+[1572214452689] right click on word 1514.0.16 ('that')
+[1572214452689] add 1514.0.16 to 1514[:20]
+[1572214459688] left click on word 1514.0.19 ('the')
+[1572214459688] edit 1514[19:]
+[1572214461021] left click on word 1514.1.22 ('le')
+[1572214461022] del 1514.1.22 from 1514[20:22]
+[1572214461022] add 1514.1.22 to 1514[19:]
+[1572214461201] right click on word 1514.1.22 ('le')
+[1572214463277] left click on word 1514.0.20 ('heating')
+[1572214463277] edit 1514[20:]
+[1572214463917] left click on word 1514.1.23 ('réchauffement')
+[1572214463917] add 1514.1.23 to 1514[20:]
+[1572214464095] right click on word 1514.1.23 ('réchauffement')
+[1572214468151] left click on word 1514.0.21 ('to')
+[1572214468151] edit 1514[21:24]
+[1572214469131] left click on word 1514.1.24 (',')
+[1572214469131] del 1514.1.24 from 1514[21:24]
+[1572214469525] left click on word 1514.1.25 ('pour')
+[1572214469525] del 1514.1.25 from 1514[22:25]
+[1572214469525] add 1514.1.25 to 1514[21:]
+[1572214469700] right click on word 1514.1.25 ('pour')
+[1572214474275] left click on word 1514.0.22 ('buy')
+[1572214474276] edit 1514[22:]
+[1572214475355] left click on word 1514.1.26 ('gagner')
+[1572214475355] add 1514.1.26 to 1514[22:]
+[1572214475548] right click on word 1514.1.26 ('gagner')
+[1572214479319] left click on word 1514.0.24 ('20')
+[1572214479319] edit 1514[24:27]
+[1572214480375] left click on word 1514.1.27 ('les')
+[1572214480375] del 1514.1.27 from 1514[24:27]
+[1572214480789] left click on word 1514.1.28 ('20')
+[1572214480789] del 1514.1.28 from 1514[25:28]
+[1572214480790] add 1514.1.28 to 1514[24:]
+[1572214480975] right click on word 1514.1.28 ('20')
+[1572214484741] left click on word 1514.0.25 ('or')
+[1572214484741] edit 1514[25:]
+[1572214485933] left click on word 1514.1.29 ('ou')
+[1572214485933] del 1514.1.29 from 1514[26:29]
+[1572214485933] add 1514.1.29 to 1514[25:]
+[1572214486086] right click on word 1514.1.29 ('ou')
+[1572214487343] left click on word 1514.0.26 ('30')
+[1572214487343] edit 1514[26:]
+[1572214488469] left click on word 1514.1.30 ('30')
+[1572214488469] del 1514.1.30 from 1514[27:30]
+[1572214488469] add 1514.1.30 to 1514[26:]
+[1572214488670] right click on word 1514.1.30 ('30')
+[1572214490244] left click on word 1514.0.27 ('years')
+[1572214490245] edit 1514[27:]
+[1572214491058] left click on word 1514.1.31 ('ans')
+[1572214491058] del 1514.1.31 from 1514[:31]
+[1572214491059] add 1514.1.31 to 1514[27:]
+[1572214491236] left click on word 1514.1.31 ('ans')
+[1572214491236] del 1514.1.31 from 1514[27:31]
+[1572214491236] add 1514.1.31 to 1514[:]
+[1572214491944] left click on word 1514.1.31 ('ans')
+[1572214491945] del 1514.1.31 from 1514[:31]
+[1572214491945] add 1514.1.31 to 1514[27:]
+[1572214492222] right click on word 1514.1.31 ('ans')
+[1572214493694] left click on word 1514.0.27 ('years')
+[1572214493694] edit 1514[27:31]
+[1572214494555] left click on word 1514.1.31 ('ans')
+[1572214494555] del 1514.1.31 from 1514[27:31]
+[1572214494736] right click on word 1514.1.31 ('ans')
+[1572214494736] add 1514.1.31 to 1514[27:]
+[1572214502758] right click on word 1514.0.28 ('to')
+[1572214503318] del 1514.0.28 from 1514[28:32]
+[1572214507270] left click on word 1514.0.28 ('to')
+[1572214507270] new alignment group
+[1572214507270] add 1514.0.28 to 1514[:]
+[1572214508310] left click on word 1514.1.33 ('pour')
+[1572214508310] del 1514.1.33 from 1514[30,31:33]
+[1572214508311] add 1514.1.33 to 1514[28:]
+[1572214508504] right click on word 1514.1.33 ('pour')
+[1572214524066] left click on word 1514.0.29 ('get')
+[1572214524066] edit 1514[29:34]
+[1572214525502] left click on word 1514.1.34 ('nous')
+[1572214525502] del 1514.1.34 from 1514[29:34]
+[1572214525859] left click on word 1514.1.35 ('prendre')
+[1572214525860] del 1514.1.35 from 1514[32:36,35]
+[1572214525860] add 1514.1.35 to 1514[29:]
+[1572214526147] right click on word 1514.1.35 ('prendre')
+[1572214530757] left click on word 1514.0.30 ('our')
+[1572214530757] edit 1514[30,31:]
+[1572214531139] left click on word 1514.0.31 ('act')
+[1572214531140] del 1514.0.31 from 1514[30,31:]
+[1572214533152] left click on word 1514.1.34 ('nous')
+[1572214533152] add 1514.1.34 to 1514[30:]
+[1572214533403] right click on word 1514.1.34 ('nous')
+[1572214533784] right click on word 1514.1.34 ('nous')
+[1572214534610] label 1514[30:34] as modulation_transposition
+[1572214543237] left click on word 1514.0.30 ('our')
+[1572214543237] edit 1514[30:34]
+[1572214543670] left click on word 1514.0.31 ('act')
+[1572214543670] add 1514.0.31 to 1514[30:34]
+[1572214543853] right click on word 1514.0.31 ('act')
+[1572214545958] left click on word 1514.0.32 ('together')
+[1572214545958] edit 1514[32:36]
+[1572214546895] left click on word 1514.1.37 ('main')
+[1572214546895] del 1514.1.37 from 1514[33:37]
+[1572214546895] add 1514.1.37 to 1514[32:36]
+[1572214547081] right click on word 1514.1.37 ('main')
+[1572214548218] left click on word 1514.0.33 ('.')
+[1572214548218] edit 1514[33:]
+[1572214549313] left click on word 1514.1.38 ('.')
+[1572214549313] add 1514.1.38 to 1514[33:]
+[1572214549849] right click on word 1514.1.38 ('.')
+[1572214584023] NEW SESSION
+[1572214619629] left click on word 1526.0.51 ('are')
+[1572214619629] edit 1526[50,51:63,62]
+[1572214621140] left click on word 1526.1.64 ('a')
+[1572214621140] del 1526.1.64 from 1526[52:65,64]
+[1572214621140] add 1526.1.64 to 1526[50,51:63,62]
+[1572214621259] right click on word 1526.1.64 ('a')
+[1572214633236] left click on word 1526.0.52 ('people')
+[1572214633236] edit 1526[52:65]
+[1572214634106] left click on word 1526.1.66 ('gens')
+[1572214634106] del 1526.1.66 from 1526[53:66]
+[1572214634106] add 1526.1.66 to 1526[52:65]
+[1572214634251] right click on word 1526.1.66 ('gens')
+[1572214641581] left click on word 1526.0.53 ('in')
+[1572214641581] edit 1526[53:]
+[1572214642354] left click on word 1526.1.67 ('dans')
+[1572214642354] del 1526.1.67 from 1526[54:67]
+[1572214642354] add 1526.1.67 to 1526[53:]
+[1572214642533] right click on word 1526.1.67 ('dans')
+[1572214645249] left click on word 1526.0.53 ('in')
+[1572214645249] edit 1526[53:67]
+[1572214645861] right click on word 1526.0.53 ('in')
+[1572214646353] left click on word 1526.0.54 ('the')
+[1572214646354] edit 1526[54:]
+[1572214647244] left click on word 1526.1.68 ('les')
+[1572214647244] del 1526.1.68 from 1526[56:68]
+[1572214647244] add 1526.1.68 to 1526[54:]
+[1572214647417] right click on word 1526.1.68 ('les')
+[1572214653143] left click on word 1526.0.55 ('rich')
+[1572214653143] edit 1526[55:69]
+[1572214654123] left click on word 1526.1.69 ('pays')
+[1572214654123] del 1526.1.69 from 1526[55:69]
+[1572214654506] left click on word 1526.1.70 ('riches')
+[1572214654506] del 1526.1.70 from 1526[57:70]
+[1572214654506] add 1526.1.70 to 1526[55:]
+[1572214654683] right click on word 1526.1.70 ('riches')
+[1572214659477] left click on word 1526.0.56 ('world')
+[1572214659477] edit 1526[56:]
+[1572214660177] left click on word 1526.1.69 ('pays')
+[1572214660177] add 1526.1.69 to 1526[56:]
+[1572214660351] right click on word 1526.1.69 ('pays')
+[1572214660625] right click on word 1526.1.69 ('pays')
+[1572214661637] label 1526[56:69] as lexical_shift
+[1572214668076] left click on word 1526.0.57 ('who')
+[1572214668076] edit 1526[57:]
+[1572214669165] left click on word 1526.1.71 ('qui')
+[1572214669165] del 1526.1.71 from 1526[58,59:71]
+[1572214669165] add 1526.1.71 to 1526[57:]
+[1572214669582] right click on word 1526.1.71 ('qui')
+[1572214671984] left click on word 1526.0.58 ('look')
+[1572214671985] edit 1526[58,59:]
+[1572214672456] left click on word 1526.0.59 ('at')
+[1572214672456] del 1526.0.59 from 1526[58,59:]
+[1572214673025] left click on word 1526.1.72 ('regardent')
+[1572214673025] del 1526.1.72 from 1526[:72]
+[1572214673025] add 1526.1.72 to 1526[58:]
+[1572214673222] right click on word 1526.1.72 ('regardent')
+[1572214674483] left click on word 1526.0.58 ('look')
+[1572214674483] edit 1526[58:72]
+[1572214675022] left click on word 1526.0.59 ('at')
+[1572214675022] add 1526.0.59 to 1526[58:72]
+[1572214675207] right click on word 1526.0.59 ('at')
+[1572214681951] left click on word 1526.0.60 ('IPCC')
+[1572214681951] edit 1526[60:73]
+[1572214682755] left click on word 1526.1.73 ('le')
+[1572214682755] del 1526.1.73 from 1526[60:73]
+[1572214683167] left click on word 1526.1.74 ('GIEC')
+[1572214683167] del 1526.1.74 from 1526[61:74]
+[1572214683167] add 1526.1.74 to 1526[60:]
+[1572214683368] right click on word 1526.1.74 ('GIEC')
+[1572214688112] left click on word 1526.0.61 ('and')
+[1572214688112] edit 1526[61:]
+[1572214689232] left click on word 1526.1.75 ('et')
+[1572214689232] add 1526.1.75 to 1526[61:]
+[1572214689410] right click on word 1526.1.75 ('et')
+[1572214692406] left click on word 1526.0.62 ('say')
+[1572214692406] edit 1526[62:76]
+[1572214693056] left click on word 1526.1.76 ('se')
+[1572214693056] del 1526.1.76 from 1526[62:76]
+[1572214693370] left click on word 1526.1.77 ('disent')
+[1572214693371] del 1526.1.77 from 1526[64:77]
+[1572214693371] add 1526.1.77 to 1526[62:]
+[1572214693532] right click on word 1526.1.77 ('disent')
+[1572214698530] left click on word 1526.0.64 ('``')
+[1572214698531] edit 1526[64:]
+[1572214699121] left click on word 1526.1.78 ('"')
+[1572214699122] del 1526.1.78 from 1526[65:78]
+[1572214699123] add 1526.1.78 to 1526[64:]
+[1572214699311] right click on word 1526.1.78 ('"')
+[1572214701253] left click on word 1526.0.65 ('ok')
+[1572214701253] edit 1526[65:]
+[1572214701909] left click on word 1526.1.79 ('ok')
+[1572214701909] del 1526.1.79 from 1526[66:79]
+[1572214701910] add 1526.1.79 to 1526[65:]
+[1572214702087] right click on word 1526.1.79 ('ok')
+[1572214705310] left click on word 1526.0.66 (',')
+[1572214705310] edit 1526[66:]
+[1572214706048] left click on word 1526.1.80 (',')
+[1572214706048] del 1526.1.80 from 1526[67:80]
+[1572214706048] add 1526.1.80 to 1526[66:]
+[1572214706250] right click on word 1526.1.80 (',')
+[1572214710012] left click on word 1526.0.67 ('that')
+[1572214710012] edit 1526[67:]
+[1572214710858] left click on word 1526.1.81 ('ce')
+[1572214710858] del 1526.1.81 from 1526[69:81,83]
+[1572214710858] add 1526.1.81 to 1526[67:]
+[1572214711010] right click on word 1526.1.81 ('ce')
+[1572214713786] left click on word 1526.0.68 ('is')
+[1572214713786] edit 1526[68:82]
+[1572214714418] left click on word 1526.1.82 ('n'')
+[1572214714418] del 1526.1.82 from 1526[68:82]
+[1572214714801] left click on word 1526.1.83 ('est')
+[1572214714801] del 1526.1.83 from 1526[69:83]
+[1572214714801] add 1526.1.83 to 1526[68:]
+[1572214715005] right click on word 1526.1.83 ('est')
+[1572214715829] left click on word 1526.0.69 ('n't')
+[1572214715829] edit 1526[69:]
+[1572214716788] left click on word 1526.1.82 ('n'')
+[1572214716788] add 1526.1.82 to 1526[69:]
+[1572214717641] left click on word 1526.1.84 ('pas')
+[1572214717641] del 1526.1.84 from 1526[70,71,72,73,74:84,85]
+[1572214717642] add 1526.1.84 to 1526[69:82]
+[1572214717923] right click on word 1526.1.84 ('pas')
+[1572214725609] left click on word 1526.0.72 ('of')
+[1572214725609] edit 1526[70,71,72,73,74:85]
+[1572214726409] left click on word 1526.1.86 ('important')
+[1572214726409] del 1526.1.86 from 1526[75:86]
+[1572214726409] add 1526.1.86 to 1526[70,71,72,73,74:85]
+[1572214726587] right click on word 1526.1.86 ('important')
+[1572214729173] left click on word 1526.0.75 ('.')
+[1572214729173] edit 1526[75:]
+[1572214729867] left click on word 1526.1.87 ('.')
+[1572214729867] del 1526.1.87 from 1526[76:87]
+[1572214729867] add 1526.1.87 to 1526[75:]
+[1572214730043] right click on word 1526.1.87 ('.')
+[1572214730603] left click on word 1526.1.88 ('"')
+[1572214730603] new alignment group
+[1572214730603] add 1526.1.88 to 1526[:]
+[1572214731297] left click on word 1526.0.76 ('''')
+[1572214731297] del 1526.0.76 from 1526[76:]
+[1572214731297] add 1526.0.76 to 1526[:88]
+[1572214731487] right click on word 1526.0.76 ('''')
